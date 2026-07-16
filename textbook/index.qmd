@@ -8,15 +8,21 @@ The course is intended for physicians involved in emergency and critical care, i
 
 This handbook serves both as the reference text for the POCUS-CARE training program and as a practical resource for clinicians in daily practice. It combines ultrasound techniques, image interpretation, clinical integration, and evidence-based recommendations, with a particular focus on applications relevant to resource-limited and conflict-affected environments.
 
-## Course Principles
+## Jump In Content
 
-The training program is based on the following principles:
+-   [**Ultrasound Physics**](chapters/physics/objectives.qmd)
 
--   **Action-oriented** – Learning is organised around clinical questions that directly support diagnosis, triage, treatment, and referral decisions.
--   **Context-adapted** – While the educational framework is shared across countries, each national implementation is adapted to local epidemiology, healthcare systems, available resources, and national priorities.
--   **Evidence-based** – Educational content is developed by certified POCUS instructors and follows current international evidence and clinical guidelines. References are provided throughout the course.
--   **Collaborative** – National instructors lead the development, implementation, and continuous improvement of the program within their own countries.
--   **Freely available** – Educational materials are distributed under the licence described below, allowing non-commercial reuse and adaptation.
+-   [**Setting, handling and orientation**](chapters/orientation/objectives.qmd)
+
+-   [**Abdomen**](chapters/abdomen/objectives.qmd)
+
+-   [**Heart**](chapters/heart/objectives.qmd)
+
+-   [**Lungs**](chapters/lungs/objectives.qmd)
+
+-   [**Bones and soft tissues**](chapters/bones-soft-tissues/objectives.qmd)
+
+-   [**Vessels and vascular procedures**](chapters/vascular/objectives.qmd)
 
 ## Learning Outcomes
 
@@ -55,6 +61,6 @@ Under the following conditions:
 -   **ShareAlike** — adaptations must be distributed under the same licence.
 -   **No additional restrictions** — no legal or technological restrictions may be applied beyond those permitted by the licence.
 
-![](images/common/Cc-by-nc-sa_icon.svg.png){fig-align="center"}
+![](images/common/Cc-by-nc-sa_icon.svg.png){fig-align="center" width="200"}
 
 For the complete licence text, see <https://creativecommons.org/licenses/by-nc-sa/4.0/>.

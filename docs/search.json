@@ -2,15 +2,309 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "website",
+    "title": "POCUS-CARE",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Point-of-Care Ultrasound for Conflict-Affected Settings (POCUS-CARE) is an international educational initiative dedicated to improving access to high-quality point-of-care ultrasound (POCUS) education for healthcare professionals working in conflict-affected and resource-limited settings.\n📖 Read the textbook\n🎓 Available training sessions"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Pierre Catoire, MD, MSc\nEmergency Doctor, Vice-President of Mehad\nPierre Catoire developed the POCUS-CARE curriculum and authored the open-access textbook, with the objective of providing a structured, evidence-based ultrasound training programme adapted to conflict-affected settings."
+  },
+  {
+    "objectID": "index.html#an-open-access-pocus-initiative",
+    "href": "index.html#an-open-access-pocus-initiative",
+    "title": "POCUS-CARE course website",
+    "section": "An open access POCUS initiative",
+    "text": "An open access POCUS initiative\nPOCUS-CARE intends to develop use of ultrasound in conflict contexts, where its use has the most impact on diagnosis and early decision making. The training program is based on the following principles:\n\nAction-oriented – Learning is organised around clinical questions that directly support diagnosis, triage, treatment, and referral decisions.\nContext-adapted – While the educational framework is shared across countries, each national implementation is adapted to local epidemiology, healthcare systems, available resources, and national priorities.\nEvidence-based – Educational content is developed by certified POCUS instructors and follows current international evidence and clinical guidelines. References are provided throughout the course.\nCollaborative – National instructors lead the development, implementation, and continuous improvement of the program within their own countries.\nFreely available – Educational materials are distributed under the licence described below, allowing non-commercial reuse and adaptation. In-person sessions are free, without any fee for the learners."
+  },
+  {
+    "objectID": "index.html#learning-outcomes",
+    "href": "index.html#learning-outcomes",
+    "title": "POCUS-CARE",
+    "section": "Learning outcomes",
+    "text": "Learning outcomes\nAfter completing the programme, participants will be able to:\n\nPerform focused ultrasound examinations using a systematic scanning approach.\nIdentify common life-threatening conditions, including intra-abdominal haemorrhage, cardiac tamponade, and pneumothorax.\nUse ultrasound findings to support the assessment of circulatory and respiratory failure.\nIdentify selected musculoskeletal conditions, including soft-tissue foreign bodies and long-bone diaphyseal fractures.\nDiagnose deep vein thrombosis using focused ultrasound.\nPerform ultrasound-guided vascular access.\nIntegrate ultrasound findings into clinical decision-making, while recognising the limitations of point-of-care ultrasound and the potential for false-positive and false-negative findings.\n\nFor a detailed description of the curriculum, visit the online textbook."
+  },
+  {
+    "objectID": "index.html#licence",
+    "href": "index.html#licence",
+    "title": "POCUS-CARE",
+    "section": "Licence",
+    "text": "Licence\n\nOriginal content\nUnless otherwise stated, the original educational material published on this website and in the textbook is distributed under the Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0) licence.\nYou are free to:\n\nShare — copy and redistribute the material in any medium or format.\nAdapt — remix, transform, and build upon the material.\n\nUnder the following conditions:\n\nAttribution — Appropriate credit must be given, a link to the licence provided, and any modifications indicated.\nNonCommercial — The material may not be used for commercial purposes.\nShareAlike — Adaptations must be distributed under the same licence.\nNo additional restrictions — No legal or technological restrictions may be applied beyond those permitted by the licence.\n\n\n\n\n\n\n\n\nThird-party content\nUnless otherwise indicated, all educational content is original. Third-party material remains subject to its own copyright and licence terms.\nWe gratefully acknowledge educational resources made available by The POCUS Atlas, which have contributed to the development of this programme."
+  },
+  {
+    "objectID": "index.html#an-open-access-educational-initiative",
+    "href": "index.html#an-open-access-educational-initiative",
+    "title": "POCUS-CARE",
+    "section": "An open-access educational initiative",
+    "text": "An open-access educational initiative\nPOCUS-CARE aims to expand access to high-quality ultrasound education in conflict-affected settings, where POCUS can have a major impact on diagnosis, triage, and early clinical decision-making.\nThe programme is based on the following educational principles:\n\nAction-oriented — Learning is organised around clinical questions that directly support diagnosis, triage, treatment, and referral decisions.\nContext-adapted — While the educational framework is shared across countries, each national implementation is adapted to local epidemiology, healthcare systems, available resources, and national priorities.\nEvidence-based — Educational content is developed by certified POCUS instructors and follows current international evidence and clinical guidelines. References are provided throughout the learning resources.\nCollaborative — National instructors lead the development, implementation, and continuous improvement of the programme within their own countries.\nFreely available — Educational resources are distributed under the licence described below, allowing non-commercial reuse and adaptation. In-person training is provided free of charge for participants.\n\n🏫 Become an instructor"
+  },
+  {
+    "objectID": "about.html#course-creator",
+    "href": "about.html#course-creator",
+    "title": "About",
+    "section": "",
+    "text": "Pierre Catoire, MD, MSc\nEmergency Doctor, Vice-President of Mehad\nPierre Catoire developed the POCUS-CARE curriculum and authored the open-access textbook, with the objective of providing a structured, evidence-based ultrasound training programme adapted to conflict-affected settings."
+  },
+  {
+    "objectID": "about.html#course-directors",
+    "href": "about.html#course-directors",
+    "title": "About",
+    "section": "Course Directors",
+    "text": "Course Directors\n\n\n\n\n\n\nMehdi El Melali, MD\nEmergency Doctor, Board Member of Mehad\nCourse directors oversee curriculum development and implementation, educational quality, instructor training, and continuous programme improvement."
+  },
+  {
+    "objectID": "about.html#supporting-organisations",
+    "href": "about.html#supporting-organisations",
+    "title": "About",
+    "section": "Supporting Organisations",
+    "text": "Supporting Organisations\nThe POCUS-CARE initiative is supported by partner organisations involved in humanitarian health, medical education, and capacity building. Current supporting organisations include:\n\nMehad: implementation of the program in Ukraine, Palestine and Lebanon\nMedGlobal: implementation of the program in Lebanon\nANERA: implementation of the program in Lebanon"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Many high-quality educational resources are freely available online. The following websites, image libraries, and video channels provide complementary material for learners wishing to deepen their knowledge of point-of-care ultrasound."
+  },
+  {
+    "objectID": "resources.html#image-atlases",
+    "href": "resources.html#image-atlases",
+    "title": "Resources",
+    "section": "Image atlases",
+    "text": "Image atlases\n\nThe POCUS Atlas : A free educational atlas containing hundreds of annotated ultrasound images and videos covering emergency medicine, critical care, internal medicine, and musculoskeletal ultrasound.\nRadiopaedia: An extensive open-access radiology reference, including numerous articles, ultrasound cases, and image collections."
+  },
+  {
+    "objectID": "resources.html#educational-websites",
+    "href": "resources.html#educational-websites",
+    "title": "Resources",
+    "section": "Educational websites",
+    "text": "Educational websites\n\nACEP Sonoguide: One of the most comprehensive online references for emergency ultrasound, developed by the American College of Emergency Physicians.\nSociety of Point of Care Ultrasound (SPOCUS): Educational resources, guidelines, webinars, and learning material dedicated to point-of-care ultrasound.\nWINFOCUS: The World Interactive Network Focused on Critical Ultrasound provides educational material, international recommendations, and information on POCUS education worldwide.\nThe Ultrasound Journal: Open-access scientific journal publishing clinical and educational articles on point-of-care ultrasound."
+  },
+  {
+    "objectID": "resources.html#youtube-channels",
+    "href": "resources.html#youtube-channels",
+    "title": "Resources",
+    "section": "YouTube channels",
+    "text": "YouTube channels\n\n123 Sonography: High-quality lectures and practical demonstrations covering a wide range of ultrasound applications.\n5 Minute Sono: Short educational videos focusing on practical bedside ultrasound techniques.\nThe POCUS Atlas: Educational cases, image interpretation, and practical scanning demonstrations.\nCore Ultrasound: Educational videos produced by emergency physicians covering image acquisition and interpretation."
+  },
+  {
+    "objectID": "resources.html#clinical-guidelines",
+    "href": "resources.html#clinical-guidelines",
+    "title": "Resources",
+    "section": "Clinical guidelines",
+    "text": "Clinical guidelines\nLearners are encouraged to consult national and international clinical practice guidelines alongside the POCUS-CARE textbook. Whenever possible, educational content within the textbook is based on current evidence and recommendations from international scientific societies."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "General questions and requests may be addressed at: training.programs@mehad.fr"
+  },
+  {
+    "objectID": "training.html",
+    "href": "training.html",
+    "title": "Training Sessions",
+    "section": "",
+    "text": "The programme has been implemented or is currently active in:\n\nLebanon\nPalestine\nUkraine (completed)\n\nAdditional national programmes will be added as partnerships develop."
+  },
+  {
+    "objectID": "training.html#where-is-pocus-care-implemented",
+    "href": "training.html#where-is-pocus-care-implemented",
+    "title": "Training Sessions",
+    "section": "",
+    "text": "The programme has been implemented or is currently active in:\n\nLebanon\nPalestine\nUkraine (completed)\n\nAdditional national programmes will be added as partnerships develop."
+  },
+  {
+    "objectID": "training.html#training-programmes",
+    "href": "training.html#training-programmes",
+    "title": "Training Sessions",
+    "section": "Training programmes",
+    "text": "Training programmes\nPOCUS-CARE currently offers two educational programmes.\n\nPOCUS-CARE Provider\nThe Provider course is intended for healthcare professionals wishing to acquire the essential knowledge and practical skills required to safely perform point-of-care ultrasound in emergency and acute care.\n➡️ Learn more about the Provider course\n\n\nPOCUS-CARE Instructor\nThe Instructor programme prepares experienced POCUS practitioners to become certified POCUS-CARE instructors capable of teaching, mentoring, and supporting future courses within their own countries.\n➡️ Learn more about the Instructor course"
+  },
+  {
+    "objectID": "training.html#upcoming-sessions",
+    "href": "training.html#upcoming-sessions",
+    "title": "Training Sessions",
+    "section": "Upcoming sessions",
+    "text": "Upcoming sessions\n\n\n\nLebanon\nStatus: Active\n\nProvider Courses\nSaida, Turkish Hospital\n\nDate: 12–14 October 2026\nRegistration: Fully booked\n\n\n\nInstructor Courses\nBeirut, Rafiq Hariri Hospital\n\nDate: To be announced\nRegistration: Fully booked\n\n\n\n\n\nPalestine\nStatus: All sessions completed. New sessions in preparation"
+  },
+  {
+    "objectID": "training.html#registration",
+    "href": "training.html#registration",
+    "title": "Training Sessions",
+    "section": "Registration",
+    "text": "Registration\nRegistration is organised locally in collaboration with national Ministries of Health and partner organisations.\nFor further information, please contact training.programs@mehad.fr"
+  },
+  {
+    "objectID": "provider-course.html",
+    "href": "provider-course.html",
+    "title": "Provider Course",
+    "section": "",
+    "text": "The POCUS-CARE Provider Course is designed to teach the core knowledge and practical skills required to safely perform point-of-care ultrasound (POCUS) in emergency and acute care settings.\nThe programme combines self-directed learning using the open-access POCUS-CARE textbook with instructor-led lectures, supervised hands-on practice, and competency-based assessment."
+  },
+  {
+    "objectID": "provider-course.html#overview",
+    "href": "provider-course.html#overview",
+    "title": "Provider Course",
+    "section": "",
+    "text": "The POCUS-CARE Provider Course is designed to teach the core knowledge and practical skills required to safely perform point-of-care ultrasound (POCUS) in emergency and acute care settings.\nThe programme combines self-directed learning using the open-access POCUS-CARE textbook with instructor-led lectures, supervised hands-on practice, and competency-based assessment."
+  },
+  {
+    "objectID": "provider-course.html#course-objectives",
+    "href": "provider-course.html#course-objectives",
+    "title": "Provider Course",
+    "section": "Course objectives",
+    "text": "Course objectives\nAt the end of the course, participants will be able to:\n\nPerform focused ultrasound examinations using a systematic scanning approach.\nAcquire standard cardiac, lung, abdominal and vascular ultrasound views.\nRecognise common normal and pathological ultrasound findings.\nIntegrate ultrasound findings into clinical decision-making.\nPerform selected ultrasound-guided procedures.\nRecognise the limitations of point-of-care ultrasound."
+  },
+  {
+    "objectID": "provider-course.html#target-audience",
+    "href": "provider-course.html#target-audience",
+    "title": "Provider Course",
+    "section": "Target audience",
+    "text": "Target audience\nThe course is intended for healthcare professionals authorised to perform point-of-care ultrasound within their country of practice.\nNo previous ultrasound experience is required."
+  },
+  {
+    "objectID": "provider-course.html#prerequisites",
+    "href": "provider-course.html#prerequisites",
+    "title": "Provider Course",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nParticipants should:\n\nBe licensed healthcare professionals (according to national regulations).\nWork in emergency, critical care, primary care, anaesthesia, surgery, or another clinical discipline where POCUS is relevant."
+  },
+  {
+    "objectID": "provider-course.html#course-format",
+    "href": "provider-course.html#course-format",
+    "title": "Provider Course",
+    "section": "Course format",
+    "text": "Course format\nThe course is implemented in three phases:\n\nphase 1: 2-day in-person training session combining interactive lectures with hands-on practical workshops\nphase 2: Clinical mentorship in the learners’ hospital departments\nphase 3: Wrap-up and assessment\n\nA refresher session is conducted 6 to 12 weeks, discussing cases encountered during the first months of practice."
+  },
+  {
+    "objectID": "provider-course.html#course-schedule",
+    "href": "provider-course.html#course-schedule",
+    "title": "Provider Course",
+    "section": "Course schedule",
+    "text": "Course schedule\nThe Provider Course is typically delivered over three days.\n\n\n\n\n\n\n\nDay\nMain topics\n\n\n\n\nDay 1\nUltrasound physics, device settings, orientation, abdominal ultrasound\n\n\nDay 2\nCardiac ultrasound, lung ultrasound\n\n\nDay 3\nVascular ultrasound, bones and soft tissues, ultrasound-guided procedures, assessments\n\n\n\n(The schedule may be adapted according to local needs.)"
+  },
+  {
+    "objectID": "provider-course.html#assessment",
+    "href": "provider-course.html#assessment",
+    "title": "Provider Course",
+    "section": "Assessment",
+    "text": "Assessment\nCertification of program completion requires:\n\nCompletion of the pre-test\nFull attendance to all phases\nCompletion of at least 10 supervised ultrasound exams during the mentorship phase, demonstrated in the provided logbook\nSuccessful completion of the post-training written exam\nA practical skills assessment, demonstrating ability to perform an E-FAST exam within 5 minutes\n\nParticipants who successfully complete all assessments receive the POCUS-CARE Provider Certificate.\nThe certificate confirms successful completion of the educational programme. It does not constitute a licence or legal authorisation to independently perform ultrasound examinations."
+  },
+  {
+    "objectID": "provider-course.html#certification",
+    "href": "provider-course.html#certification",
+    "title": "Provider Course",
+    "section": "Certification",
+    "text": "Certification\nParticipants who successfully complete all assessments receive the POCUS-CARE Provider Certificate.\nThe certificate confirms successful completion of the educational programme. It does not constitute a licence or legal authorisation to independently perform ultrasound examinations."
+  },
+  {
+    "objectID": "provider-course.html#educational-resources",
+    "href": "provider-course.html#educational-resources",
+    "title": "Provider Course",
+    "section": "Educational resources",
+    "text": "Educational resources\nParticipants receive free access to the POCUS-CARE online textbook and additional educational resources before, during, and after the course."
+  },
+  {
+    "objectID": "provider-course.html#upcoming-sessions",
+    "href": "provider-course.html#upcoming-sessions",
+    "title": "Provider Course",
+    "section": "Upcoming sessions",
+    "text": "Upcoming sessions\nVisit the Course Overview page for announcements about future sessions."
+  },
+  {
+    "objectID": "instructor-course.html",
+    "href": "instructor-course.html",
+    "title": "Instructor Course",
+    "section": "",
+    "text": "The POCUS-CARE Instructor Course prepares experienced POCUS practitioners to teach within the POCUS-CARE educational programme.\nThe course focuses on educational methods, practical teaching skills, learner assessment, and quality assurance in addition to advanced ultrasound instruction."
+  },
+  {
+    "objectID": "instructor-course.html#overview",
+    "href": "instructor-course.html#overview",
+    "title": "Instructor Course",
+    "section": "",
+    "text": "The POCUS-CARE Instructor Course prepares experienced POCUS practitioners to teach within the POCUS-CARE educational programme.\nThe course focuses on educational methods, practical teaching skills, learner assessment, and quality assurance in addition to advanced ultrasound instruction."
+  },
+  {
+    "objectID": "instructor-course.html#course-objectives",
+    "href": "instructor-course.html#course-objectives",
+    "title": "Instructor Course",
+    "section": "Course objectives",
+    "text": "Course objectives\nAfter completing the programme, participants will be able to:\n\nTeach the POCUS-CARE curriculum using standardised educational methods.\nDemonstrate effective bedside teaching and practical instruction.\nSupervise hands-on ultrasound workshops.\nAssess learner performance using structured assessment tools.\nDeliver constructive feedback.\nContribute to the continuous improvement of the national POCUS-CARE programme."
+  },
+  {
+    "objectID": "instructor-course.html#target-audience",
+    "href": "instructor-course.html#target-audience",
+    "title": "Instructor Course",
+    "section": "Target audience",
+    "text": "Target audience\nHealthcare professionals with previous experience in point-of-care ultrasound who wish to become certified POCUS-CARE instructors."
+  },
+  {
+    "objectID": "instructor-course.html#prerequisites",
+    "href": "instructor-course.html#prerequisites",
+    "title": "Instructor Course",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nApplicants should:\n\nHold a POCUS-CARE Provider Certificate (or demonstrate equivalent competence).\nHave regular clinical experience using point-of-care ultrasound.\nDemonstrate motivation for medical education.\nBe recommended by their local training programme whenever applicable."
+  },
+  {
+    "objectID": "instructor-course.html#course-format",
+    "href": "instructor-course.html#course-format",
+    "title": "Instructor Course",
+    "section": "Course format",
+    "text": "Course format\nThe Instructor Course includes:\n\nInteractive educational workshops\nTeaching methodology\nPractical teaching sessions\nSupervised instruction\nPeer feedback\nEducational discussions"
+  },
+  {
+    "objectID": "instructor-course.html#course-schedule",
+    "href": "instructor-course.html#course-schedule",
+    "title": "Instructor Course",
+    "section": "Course schedule",
+    "text": "Course schedule\nThe Instructor Course is typically delivered over two days.\n\n\n\n\n\n\n\nDay\nMain topics\n\n\n\n\nDay 1\nEducational principles, teaching methodology, practical demonstrations\n\n\nDay 2\nSupervised teaching, learner assessment, feedback, instructor evaluation\n\n\n\n(The schedule may be adapted according to local needs.)"
+  },
+  {
+    "objectID": "instructor-course.html#assessment",
+    "href": "instructor-course.html#assessment",
+    "title": "Instructor Course",
+    "section": "Assessment",
+    "text": "Assessment\nCandidates are evaluated on their ability to:\n\nDemonstrate sound ultrasound knowledge.\nTeach practical ultrasound skills.\nFacilitate small-group learning.\nProvide effective learner feedback.\nApply the POCUS-CARE educational principles."
+  },
+  {
+    "objectID": "instructor-course.html#certification",
+    "href": "instructor-course.html#certification",
+    "title": "Instructor Course",
+    "section": "Certification",
+    "text": "Certification\nCandidates who successfully complete all assessments receive the POCUS-CARE Instructor Certificate.\nCertification recognises competence as a POCUS-CARE instructor within the programme. Ongoing participation in educational activities may be required to maintain instructor status."
+  },
+  {
+    "objectID": "instructor-course.html#instructor-responsibilities",
+    "href": "instructor-course.html#instructor-responsibilities",
+    "title": "Instructor Course",
+    "section": "Instructor responsibilities",
+    "text": "Instructor responsibilities\nCertified instructors are expected to:\n\nTeach according to the POCUS-CARE curriculum.\nMaintain high educational standards.\nParticipate in quality improvement activities.\nSupport the development of future instructors.\nContribute to the sustainability of national training programmes."
+  },
+  {
+    "objectID": "instructor-course.html#instructor-journey",
+    "href": "instructor-course.html#instructor-journey",
+    "title": "Instructor Course",
+    "section": "Instructor Journey",
+    "text": "Instructor Journey\n\nPotential Instructors (PIs) are identified during Provider Sessions, by the instructors\nPIs and external invited instructors participate in a Training of Trainers (ToT) Session\nObtention of the POCUS-CARE Instructor Course Completion Certificate grants the status of Junior Instructor (JI)\nJunior Instructors participate in instruction during Provider courses, alongside a Senior Instructor\nJunior Instructors may apply to the status of Senior Instructor after participation at at least two Provider courses as instructor"
+  },
+  {
+    "objectID": "instructor-course.html#upcoming-sessions",
+    "href": "instructor-course.html#upcoming-sessions",
+    "title": "Instructor Course",
+    "section": "Upcoming sessions",
+    "text": "Upcoming sessions\nVisit the Course Overview page for announcements about future sessions."
+  },
+  {
+    "objectID": "index.html#project-partners",
+    "href": "index.html#project-partners",
+    "title": "POCUS-CARE",
+    "section": "Project Partners",
+    "text": "Project Partners\nThe POCUS-CARE training program is supported by Mehad, MedGlobaland ANERAnon-governmental organisations. See more in the About page."
   }
 ]

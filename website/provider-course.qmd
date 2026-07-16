@@ -1,0 +1,62 @@
+---
+title: "Provider Course"
+format: html
+---
+
+## Overview
+
+The **POCUS-CARE Provider Course** is designed to teach the core knowledge and practical skills required to safely perform point-of-care ultrasound (POCUS) in emergency and acute care settings.
+
+The programme combines self-directed learning using the open-access [**POCUS-CARE textbook**](../textbook/) with instructor-led lectures, supervised hands-on practice, and competency-based assessment.
+
+## Course objectives
+
+At the end of the course, participants will be able to:
+
+-   Perform focused ultrasound examinations using a systematic scanning approach.
+-   Acquire standard cardiac, lung, abdominal and vascular ultrasound views.
+-   Recognise common normal and pathological ultrasound findings.
+-   Integrate ultrasound findings into clinical decision-making.
+-   Perform selected ultrasound-guided procedures.
+-   Recognise the limitations of point-of-care ultrasound.
+
+## Target audience
+
+The course is intended for healthcare professionals authorised to perform point-of-care ultrasound within their country of practice.
+
+No previous ultrasound experience is required.
+
+## Prerequisites
+
+Participants should:
+
+-   Be licensed healthcare professionals (according to national regulations).
+-   Work in emergency, critical care, primary care, anaesthesia, surgery, or another clinical discipline where POCUS is relevant.
+
+## Course format
+
+The course is implemented in three phases:
+
+-   phase 1: 2-day in-person training session combining interactive lectures with hands-on practical workshops
+-   phase 2: Clinical mentorship in the learners' hospital departments 
+-   phase 3: Wrap-up and assessment
+
+A refresher session is conducted 6 to 12 weeks, discussing cases encountered during the first months of practice.
+
+## Assessment
+
+Certification of program completion requires:
+
+-   Completion of the pre-test
+-   Full attendance to all phases
+-   Completion of at least 10 supervised ultrasound exams during the mentorship phase, demonstrated in the provided logbook
+-   Successful completion of the post-training written exam
+-   A practical skills assessment, demonstrating ability to perform an E-FAST exam within 5 minutes
+
+Participants who successfully complete all assessments receive the **POCUS-CARE Provider Certificate**.
+
+The certificate confirms successful completion of the educational programme. It does **not** constitute a licence or legal authorisation to independently perform ultrasound examinations.
+
+## Upcoming sessions
+
+Visit the [**Course Overview page**](training.qmd) for announcements about future sessions.

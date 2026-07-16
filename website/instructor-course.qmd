@@ -1,0 +1,56 @@
+---
+title: "Instructor Course"
+format: html
+---
+
+## Overview
+
+The **POCUS-CARE Instructor Course** prepares experienced POCUS practitioners to teach within the POCUS-CARE educational programme.
+
+The course focuses on educational methods, practical teaching skills, learner assessment, and quality assurance in addition to advanced ultrasound instruction.
+
+## Course objectives
+
+After completing the programme, participants will be able to:
+
+- Teach the POCUS-CARE curriculum using standardised educational methods.
+- Demonstrate effective bedside teaching and practical instruction.
+- Supervise hands-on ultrasound workshops.
+- Assess learner performance using structured assessment tools.
+- Deliver constructive feedback.
+- Contribute to the continuous improvement of the national POCUS-CARE programme.
+
+## Target audience
+
+Healthcare professionals with previous experience in point-of-care ultrasound who wish to become certified POCUS-CARE instructors.
+
+## Prerequisites
+
+Applicants should:
+
+- Hold a POCUS-CARE Provider Certificate (or demonstrate equivalent competence).
+- Have regular clinical experience using point-of-care ultrasound.
+- Demonstrate motivation for medical education.
+- Be recommended by their local training programme whenever applicable.
+
+## Instructor Journey
+
+- Potential Instructors (PIs) are identified during Provider Sessions, by the instructors
+- PIs and external invited instructors participate in a Training of Trainers (ToT) Session
+- Obtention of the POCUS-CARE Instructor Course Completion Certificate grants the status of Junior Instructor (JI)
+- Junior Instructors participate in instruction during Provider courses, alongside a Senior Instructor
+- Junior Instructors may apply to the status of Senior Instructor after participation at at least two Provider courses as instructor
+
+## Instructor responsibilities
+
+Certified instructors are expected to:
+
+- Teach according to the POCUS-CARE curriculum.
+- Maintain high educational standards.
+- Participate in quality improvement activities.
+- Support the development of future instructors.
+- Contribute to the sustainability of national training programmes.
+
+## Upcoming sessions
+
+Visit the [**Course Overview page**](training.qmd) for announcements about future sessions.

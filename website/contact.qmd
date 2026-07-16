@@ -1,5 +1,6 @@
 ---
-title: "contact"
+title: "Contact"
 format: html
 ---
 
+General questions and requests may be addressed at: [training.programs\@mehad.fr](mailto:training.programs@mehad.fr)

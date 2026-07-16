@@ -1,5 +1,32 @@
 ---
-title: "resources"
+title: "Resources"
 format: html
 ---
 
+Many high-quality educational resources are freely available online. The following websites, image libraries, and video channels provide complementary material for learners wishing to deepen their knowledge of point-of-care ultrasound.
+
+## Image atlases
+
+-   [**The POCUS Atlas**](https://www.thepocusatlas.com) : A free educational atlas containing hundreds of annotated ultrasound images and videos covering emergency medicine, critical care, internal medicine, and musculoskeletal ultrasound.
+
+-   [**Radiopaedia**](https://radiopaedia.org): An extensive open-access radiology reference, including numerous articles, ultrasound cases, and image collections.
+
+## Educational websites
+
+-   [**ACEP Sonoguide**](https://www.acep.org/sonoguide): One of the most comprehensive online references for emergency ultrasound, developed by the American College of Emergency Physicians.
+-   [**Society of Point of Care Ultrasound (SPOCUS)**](https://spocus.org): Educational resources, guidelines, webinars, and learning material dedicated to point-of-care ultrasound.
+-   [**WINFOCUS**](https://www.winfocus.org): The World Interactive Network Focused on Critical Ultrasound provides educational material, international recommendations, and information on POCUS education worldwide.
+-   [**The Ultrasound Journal**](https://theultrasoundjournal.springeropen.com): Open-access scientific journal publishing clinical and educational articles on point-of-care ultrasound.
+
+------------------------------------------------------------------------
+
+## YouTube channels
+
+-   [**123 Sonography**](https://www.youtube.com/@123sonography): High-quality lectures and practical demonstrations covering a wide range of ultrasound applications.
+-   [**5 Minute Sono**](https://www.youtube.com/@5MinuteSono): Short educational videos focusing on practical bedside ultrasound techniques.
+-   [**The POCUS Atlas**](https://www.youtube.com/@thepocusatlas): Educational cases, image interpretation, and practical scanning demonstrations.
+-   [**Core Ultrasound**](https://www.youtube.com/@CoreUltrasound): Educational videos produced by emergency physicians covering image acquisition and interpretation.
+
+## Clinical guidelines
+
+Learners are encouraged to consult national and international clinical practice guidelines alongside the POCUS-CARE textbook. Whenever possible, educational content within the textbook is based on current evidence and recommendations from international scientific societies.

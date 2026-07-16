@@ -3,20 +3,31 @@ project:
   output-dir: ../docs
 
 website:
-  title: "website"
+  title: "POCUS-CARE"
   navbar:
     left:
       - href: index.qmd
         text: Home
 
-      - href: training.qmd
-        text: Training
+      - text: Training Sessions
+        menu:
+          - href: training.qmd
+            text: Training overview
+
+          - href: provider-course.qmd
+            text: Provider Course
+
+          - href: instructor-course.qmd
+            text: Instructor Course
 
       - href: /textbook/index.html
         text: Textbook
 
       - href: about.qmd
         text: About
+        
+      - href: resources.qmd
+        text: Resources
 
       - href: contact.qmd
         text: Contact

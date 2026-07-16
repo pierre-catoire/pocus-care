@@ -1,5 +1,72 @@
 ---
-title: "training"
+title: "Training Sessions"
 format: html
 ---
 
+## Where is POCUS-CARE implemented?
+
+The programme has been implemented or is currently active in:
+
+- Lebanon
+- Palestine
+- Ukraine *(completed)*
+
+Additional national programmes will be added as partnerships develop.
+
+## Training programmes
+
+POCUS-CARE currently offers two educational programmes.
+
+### POCUS-CARE Provider
+
+The Provider course is intended for healthcare professionals wishing to acquire the essential knowledge and practical skills required to safely perform point-of-care ultrasound in emergency and acute care.
+
+➡️ **[Learn more about the Provider course](provider-course.qmd)**
+
+### POCUS-CARE Instructor
+
+The Instructor programme prepares experienced POCUS practitioners to become certified POCUS-CARE instructors capable of teaching, mentoring, and supporting future courses within their own countries.
+
+➡️ **[Learn more about the Instructor course](instructor-course.qmd)**
+
+## Upcoming sessions
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+### Lebanon
+
+**Status:** Active
+
+#### Provider Courses
+
+**Saida, Turkish Hospital**
+
+- Date: 12–14 October 2026
+- Registration: Fully booked
+
+#### Instructor Courses
+
+**Beirut, Rafiq Hariri Hospital**
+
+- Date: To be announced
+- Registration: Fully booked
+
+:::
+
+::: {.column width="50%"}
+
+### Palestine
+
+**Status:** All sessions completed. New sessions in preparation
+
+:::
+
+::::
+
+## Registration
+
+Registration is organised locally in collaboration with national Ministries of Health and partner organisations.
+
+For further information, please contact **training.programs@mehad.fr**
