@@ -1,7 +1,7 @@
 project:
   type: book
   output-dir: ../docs/textbook
-
+  
 book:
   title: "POCUS-CARE Textbook"
   subtitle: "Point-of-Care Ultrasound in Conflict-Affected Regions"
@@ -25,8 +25,16 @@ book:
         text: Course Home
         href: ../index.html
 
-      - href: training.qmd
-        text: Training
+      - text: Training Sessions
+        menu:
+          - href: training.qmd
+            text: Training overview
+
+          - href: provider-course.qmd
+            text: Provider Course
+
+          - href: instructor-course.qmd
+            text: Instructor Course
 
       - href: index.qmd
         text: Textbook
