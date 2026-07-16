@@ -1,0 +1,1083 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "POCUS-CARE Textbook",
+    "section": "",
+    "text": "Presentation\nPoint-of-Care Ultrasound for Conflict-Affected Regions (POCUS-CARE) is an educational program designed for healthcare professionals providing acute care in conflict-affected settings.\nThe program teaches Point-of-Care Ultrasound (POCUS): ultrasound performed and interpreted by the treating clinician at the bedside to answer focused clinical questions and support immediate patient management.\nThe course is intended for physicians involved in emergency and critical care, including emergency physicians, intensivists, anesthesiologists, surgeons, pediatricians, nurses, paramedics, and other clinicians managing acutely ill or injured patients.\nThis handbook serves both as the reference text for the POCUS-CARE training program and as a practical resource for clinicians in daily practice. It combines ultrasound techniques, image interpretation, clinical integration, and evidence-based recommendations, with a particular focus on applications relevant to resource-limited and conflict-affected environments.",
+    "crumbs": [
+      "Presentation"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. (USA) 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. (USA) 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "index.html#course-principles",
+    "href": "index.html#course-principles",
+    "title": "POCUS-CARE Textbook",
+    "section": "Course Principles",
+    "text": "Course Principles\nThe training program is based on the following principles:\n\nAction-oriented – Learning is organised around clinical questions that directly support diagnosis, triage, treatment, and referral decisions.\nContext-adapted – While the educational framework is shared across countries, each national implementation is adapted to local epidemiology, healthcare systems, available resources, and national priorities.\nEvidence-based – Educational content is developed by certified POCUS instructors and follows current international evidence and clinical guidelines. References are provided throughout the course.\nCollaborative – National instructors lead the development, implementation, and continuous improvement of the program within their own countries.\nFreely available – Educational materials are distributed under the licence described below, allowing non-commercial reuse and adaptation.",
+    "crumbs": [
+      "Presentation"
+    ]
+  },
+  {
+    "objectID": "index.html#learning-outcomes",
+    "href": "index.html#learning-outcomes",
+    "title": "POCUS-CARE Textbook",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\nAfter completing this program, participants will be able to:\n\nPerform focused ultrasound examinations using a systematic scanning approach.\nIdentify common life-threatening conditions, including intra-abdominal bleeding, tamponnade and pneumothorax.\nUse ultrasound findings to support the assessment of circulatory and respiratory failure.\nIdentify selected musculoskeletal conditions, including soft-tissue foreign bodies and long-bone diaphyseal fractures.\nIdentify deep vein thrombosis.\nPerform ultrasound-guided vascular access.\nIntegrate ultrasound findings into clinical decision-making while recognising the limitations of POCUS and the potential for false-positive and false-negative findings.",
+    "crumbs": [
+      "Presentation"
+    ]
+  },
+  {
+    "objectID": "index.html#in-person-training-sessions",
+    "href": "index.html#in-person-training-sessions",
+    "title": "POCUS-CARE Textbook",
+    "section": "In-Person Training Sessions",
+    "text": "In-Person Training Sessions\nThe POCUS-CARE program is currently implemented in:\n\nPalestine (West Bank)\nLebanon in partnership with MedGlobal and Anera NGOs.\n\nFor information about upcoming courses or future implementations, please contact: pierre.catoire@mehad.fr",
+    "crumbs": [
+      "Presentation"
+    ]
+  },
+  {
+    "objectID": "index.html#licence",
+    "href": "index.html#licence",
+    "title": "POCUS-CARE Textbook",
+    "section": "Licence",
+    "text": "Licence\nThe educational content is distributed under the Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0) licence.\nYou are free to:\n\nShare — copy and redistribute the material in any medium or format.\nAdapt — remix, transform, and build upon the material.\n\nUnder the following conditions:\n\nAttribution — appropriate credit must be given, a link to the licence provided, and any modifications indicated.\nNonCommercial — the material may not be used for commercial purposes.\nShareAlike — adaptations must be distributed under the same licence.\nNo additional restrictions — no legal or technological restrictions may be applied beyond those permitted by the licence.\n\n\n\n\n\n\nFor the complete licence text, see https://creativecommons.org/licenses/by-nc-sa/4.0/.",
+    "crumbs": [
+      "Presentation"
+    ]
+  },
+  {
+    "objectID": "chapters/physics/objectives.html",
+    "href": "chapters/physics/objectives.html",
+    "title": "Learning objectives",
+    "section": "",
+    "text": "TipAfter completing this chapter, learners will be able to:\n\n\n\n\nDescribe the physical properties of ultrasound waves, including frequency, wavelength, propagation speed, and acoustic impedance.\nExplain how ultrasound waves are generated, transmitted through tissues, reflected, scattered, attenuated, and received by the transducer.\nExplain how ultrasound systems convert returning echoes into diagnostic images in B-mode and M-mode imaging.\nPredict how changes in ultrasound frequency and tissue characteristics affect image penetration and spatial resolution.\nIdentify common ultrasound artifacts and explain the physical mechanisms responsible for their occurrence.\nInterpret selected ultrasound images by distinguishing normal anatomical structures from common artifacts.\nDescribe the biological effects of diagnostic ultrasound and apply the ALARA (As Low As Reasonably Achievable) principle during ultrasound examinations.",
+    "crumbs": [
+      "Ultrasound physics",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Learning objectives</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/physics/nature-of-ultrasounds.html",
+    "href": "chapters/physics/nature-of-ultrasounds.html",
+    "title": "What is an ultrasound?",
+    "section": "",
+    "text": "Nature of ultrasound waves\nAn ultrasound is a mechanical wave that propagates through matter as successive variations in pressure. Unlike electromagnetic waves such as light or X-rays, ultrasound cannot travel through a vacuum and requires a physical medium.\nIn medical imaging, ultrasound waves propagate through biological tissues by causing microscopic cycles of compression and rarefaction. Although these pressure variations are extremely small, they can travel through tissues and carry information back to the ultrasound probe.\nAn ultrasound wave is characterized by several properties, among which frequency, amplitude and wavelength are the most important.\nFrequency corresponds to the number of oscillations occurring each second and is expressed in hertz (Hz). Diagnostic ultrasound typically uses frequencies between 2 and 15 MHz.\nAmplitude corresponds to the magnitude of the pressure variation generated by the wave.\nWavelength is the distance travelled during one oscillation cycle. It is related to frequency by:\n\\[\n\\lambda = \\frac{c}{f}\n\\]\nwhere:",
+    "crumbs": [
+      "Ultrasound physics",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>What is an ultrasound?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/physics/nature-of-ultrasounds.html#nature-of-ultrasound-waves",
+    "href": "chapters/physics/nature-of-ultrasounds.html#nature-of-ultrasound-waves",
+    "title": "What is an ultrasound?",
+    "section": "",
+    "text": "\\(\\lambda\\) = wavelength\n\\(c\\) = speed of sound in the medium\n\\(f\\) = frequency\n\n\n\n\n\n\n\nTipKey Definitions\n\n\n\n\nFrequency: number of oscillations per second.\nAmplitude: magnitude of pressure variation.\nWavelength: distance covered during one oscillation cycle.\nUltrasound: sound waves with frequencies above 20 kHz. Medical ultrasound typically uses frequencies between 2 and 15 MHz.\n\n\n\n\n\n\nUltrasound frequency and amplitude\n\n\n\n\n\n\n\n\nNoteAdvanced: Ultrasound Energy\n\n\n\n\n\nThe acoustic energy of an ultrasound wave (measured in Joules, \\(J\\)) is the mechanical energy transported through a medium by successive compressions and rarefactions.\nIn medical ultrasound, two related quantities are particularly useful:\n\nPower (Watts, \\(W\\)): the amount of acoustic energy emitted per unit time.\nIntensity (\\(W/m^2\\)): the acoustic power transmitted per unit area.\n\nIn practice, the user of an ultrasound device can influence several parameters related to acoustic energy:\n\nAcoustic power (output power): increasing the acoustic power increases the amount of energy emitted per unit time.\nPulse duration: longer pulses contain more energy and therefore deliver more energy during each emission.\nPulse repetition frequency (PRF): increasing the PRF increases the number of emitted pulses per second and therefore increases the average power delivered to tissues.\n\nNote that the ultrasound frequency does not directly determine the emitted energy. However, higher-frequency waves are attenuated more rapidly in tissues and therefore deposit their energy over a shorter distance.\nFinally, gain is a signal amplification parameter applied to received echoes. It does not modify the ultrasound waves emitted by the probe and therefore has no effect on acoustic energy.",
+    "crumbs": [
+      "Ultrasound physics",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>What is an ultrasound?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/physics/nature-of-ultrasounds.html#frequency-penetration-and-resolution",
+    "href": "chapters/physics/nature-of-ultrasounds.html#frequency-penetration-and-resolution",
+    "title": "What is an ultrasound?",
+    "section": "Frequency, Penetration and Resolution",
+    "text": "Frequency, Penetration and Resolution\nThe frequency affects both resolution and penetration:\n\nLow-frequency waves can travel deeper through tissues before becoming attenuated. They therefore provide better penetration and are used to image deep structures such as the heart or abdominal organs.\nHigh-frequency waves are attenuated more rapidly. Their penetration is therefore limited. However, because their wavelength is shorter, they can distinguish smaller structures and provide superior spatial resolution.\n\n\n\n\n\n\n\n\nLow Frequency\nHigh Frequency\n\n\n\n\nBetter penetration\nBetter resolution\n\n\nLower resolution\nLower penetration\n\n\nUse for superficial exam (skin, superficial vessels …)\nUse for deep exam (abdomen, heart, brain …)\n\n\n\n\n\n\n\n\n\nTipA useful analogy\n\n\n\nA useful analogy is the music heard from a distant party. Deep bass sounds remain audible from far away, whereas high-pitched sounds disappear more quickly. Similarly, low-frequency ultrasound travels deeper into tissues, whereas high-frequency ultrasound provides finer anatomical detail.",
+    "crumbs": [
+      "Ultrasound physics",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>What is an ultrasound?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/physics/nature-of-ultrasounds.html#emission-propagation-absorption-and-scattering",
+    "href": "chapters/physics/nature-of-ultrasounds.html#emission-propagation-absorption-and-scattering",
+    "title": "What is an ultrasound?",
+    "section": "Emission, Propagation, Absorption and Scattering",
+    "text": "Emission, Propagation, Absorption and Scattering\n\nEmission and the piezo-electric effect\nUltrasound waves are generated by the probe.\nThe probe contains multiple piezoelectric crystals capable of converting electrical energy into mechanical vibrations and mechanical vibrations into electrical signals. This phenomenon is known as the piezoelectric effect. The same crystals therefore act both as emitters and receivers.\n\n\n\nPiezoelectric cells in an ultrasound probe\n\n\n\n\nPropagation Through Biological Tissues\nOnce emitted, ultrasound waves propagate through tissues.\nFor imaging purposes, ultrasound systems assume an average propagation speed of:\n\\[\nc = 1540\\ \\text{m/s}\n\\]\nin soft tissues.\n\n\nAttenuation, Absorption and Scattering\nAs the wave propagates, part of its energy is progressively lost. This phenomenon is called attenuation.\nAttenuation results mainly from:\n\nAbsorption: Part of the mechanical energy is converted into heat.\nScattering: Small structures redirect ultrasound energy in multiple directions.\n\n\n\nReflection and transmission\nEach medium (water, fat, bone, gas …) has its own acoustic impedance (noted \\(Z\\)), which describes how easily the ultrasound propagates.\n\nAcoustic impedances of biological tissues, in MRayl (\\(10^6 \\cdot kg \\cdot m^{-2} \\cdot s^{-1}\\))\n\n\nWater\nFat\nBone\nGas\n\n\n\n\n1.48\n1.33\n6-8\n0.0004\n\n\n\nAs long as the medium is homogeneous, the impedance is constant and no reflection occurs. However, when the wave transitions from a medium to another (the surface between them is called the interface), the ultrasound wave separates between transmitted and reflected ultrasounds:\n\nthe transmitted ultrasound continues towards the new medium\nthe reflected ultrasound bounces back in the opposite direction\n\nNote that because the energy is conserved, the sum of the energies of the transmitted and reflected ultrasound, and the energy between the ultrasound hitting the interface (called the “incident” ultrasound) is constant:\n\nstrong reflection implies weak transmission;\nweak reflection implies strong transmission.\n\nDifferences in acoustic impedance determine the intensity of the reflection and transmission:\n\nan interface between two media with large difference of impedance is highly reflective\nan interface between two media with small difference of impedance is weakly reflective\n\n\n\n\nReflection and transmission with a weakly reflective interface (left) and a strongly reflective surface (right)\n\n\n\n\n\n\n\n\nImportantCommon Misconception\n\n\n\nMany learners believe that bone is the strongest reflector of ultrasound.\nBone reflects a large proportion of ultrasound energy, but gas reflects even more. Actually, ultrasound is possible through bones (for example, transcranial doppler), but impossible through gas.\nFrom an ultrasound perspective, gas behaves like a mirror. No structure can be seen if gas is present between the probe and the structure. This is why:\n\nultrasound gel is needed: without gel, a thin layer of air remains trapped between the probe and the skin.\nultrasound can see only the superficial layers of the bowel and the pleura\nif pneumothorax is present, only the parietal pleura is visible, the visceral pleura is hidden by the gas layer of the pneumothorax\n\n\n\n\n\n\n\n\n\nWarningKey points\n\n\n\n\nAn ultrasound is a mechanical wave, not an electromagnetic wave\nit is characterised by its frequency and amplitude\nthe lower frequencies penetrate better but have poorer resolution\nwhen hitting an interface, a part of the ultrasound is reflected and the remaining part is transmitted to the new medium\ngas is highly reflective in human tissues",
+    "crumbs": [
+      "Ultrasound physics",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>What is an ultrasound?</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/physics/image-formation.html",
+    "href": "chapters/physics/image-formation.html",
+    "title": "Image formation and modes",
+    "section": "",
+    "text": "The Pulse - Echo Principle\nDiagnostic ultrasound relies on the pulse-echo principle.\nThe ultrasound system measures the time elapsed between emission and reception.\nBecause the speed of sound in soft tissues is assumed to be constant, the depth of the reflecting interface can be calculated:\n\\[\n\\text{Depth}\n=\n\\frac{c \\times t}{2}\n\\]\nwhere:",
+    "crumbs": [
+      "Ultrasound physics",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Image formation and modes</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/physics/image-formation.html#the-pulse---echo-principle",
+    "href": "chapters/physics/image-formation.html#the-pulse---echo-principle",
+    "title": "Image formation and modes",
+    "section": "",
+    "text": "The probe emits a short pulse of ultrasound and then waits for returning echoes.\nUltrasounds are reflected when they hit interfaces\nWhen a reflected ultrasound (“echo”) reaches the probe, it is converted into an electrical signal by the piezoelectric crystals.\n\n\n\n\n\n\n\\(c\\) = speed of sound in tissue;\n\\(t\\) = measured round-trip travel time.\n\n\n\n\n\n\n\nNoteExample\n\n\n\nSuppose an echo returns after:\n\\[\nt = 130\\ \\mu s\n\\]\nThe depth of the reflecting interface is:\n\\[\n\\frac{1540 \\times 130\\times10^{-6}}{2}\n=\n0.10\\ m\n\\]\nThe interface is therefore located approximately 10 cm from the probe.\n\n\n\n\n\nThe pulse-echo principle (AI generated)",
+    "crumbs": [
+      "Ultrasound physics",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Image formation and modes</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/physics/image-formation.html#ultrasound-modes",
+    "href": "chapters/physics/image-formation.html#ultrasound-modes",
+    "title": "Image formation and modes",
+    "section": "Ultrasound Modes",
+    "text": "Ultrasound Modes\nThe mode describes how the ultrasound system displays the echoes received from tissues. Several imaging modes are available.\n\nA-mode (Amplitude mode): the earliest ultrasound mode. Echoes are displayed as peaks whose height is proportional to echo intensity. It is now rarely used in clinical practice.\nB-mode (Brightness mode or 2D mode): grayscale image representing a two-dimensional section of the tissues.\nM-mode (Motion mode or TM): representation of tissue motion along a single ultrasound line over time.\n\nDoppler imaging and three-dimensional ultrasound are not covered in this course.\n\nB-Mode (2D Mode)\nEach emitted ultrasound beam explores a single direction through the body.\nAlong this path, multiple interfaces reflect varying amounts of ultrasound energy.\nFor each echo received, the machine determines:\n\nThe depth of the interface from the travel time.\nThe brightness of the interface from the echo intensity.\n\nBy emitting multiple beams in adjacent directions and assembling the corresponding lines, the ultrasound system reconstructs a two-dimensional representation of the scanned tissues.\nThe resulting image is the standard grayscale image used for most ultrasound examinations.\n\n\n\nB-mode (AI generated)\n\n\n\n\nM-Mode\nIn M-mode, the ultrasound system repeatedly samples a single ultrasound line over time.\nThe image displays:\n\ntime on the horizontal axis;\ndepth on the vertical axis;\nbrightness according to echo intensity.\n\nStructures that remain stationary appear as horizontal lines.\nStructures moving toward or away from the probe change depth over time and generate oblique or curved traces.\nStructures moving perpendicular to the ultrasound beam may intermittently enter and leave the sampled line, producing discontinuous traces.\nM-mode is used mostly to measure variation of lengths over time, or to help identify subtle motion patterns.\n\n\n\nM-mode (AI generated)\n\n\n\n\n\n\n\n\nWarningKey points\n\n\n\n\nThe ultrasound systems translates received echoes into images, using the pulse echo principle\nEach echo indicates an interface: the distance between the probe and the interface is estimated from the travel time of the echo\nThe B mode (or 2D) is a two dimensional slice view\nThe M mode (or TM) represents the movement of structurs along one dimension",
+    "crumbs": [
+      "Ultrasound physics",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Image formation and modes</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/physics/probes.html",
+    "href": "chapters/physics/probes.html",
+    "title": "Probes",
+    "section": "",
+    "text": "Different types of probes\nUltrasound probes vary depending on the intended use. In particular, two characteristics matters when choosing a probe:",
+    "crumbs": [
+      "Ultrasound physics",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Probes</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/physics/probes.html#different-types-of-probes",
+    "href": "chapters/physics/probes.html#different-types-of-probes",
+    "title": "Probes",
+    "section": "",
+    "text": "the shape of the probe surface\nthe frequency range: although the frequency of the probe can vary, the size of the piezoelectric crystals in the probe impose a range of frequencies\n\n\nProbe surface shape\nThe shape of the probe surface influences the geometry of the scanned area:\n\na curved surface will naturally emit ultrasounds in a fan-shaped examination area. Those probes are called curvilinear\nA wide flat surface typically produces a rectangular field of view and is characteristic of linear probes.\n\n\n\nArray phasing\nIn some contexts, a wide, fan-shaped scanning area is required but anatomical obstacles make the use of probes with wide contact surface difficult. This is the case for thoracic ultrasound (because of the ribs) or for transcranial ultrasound (because of the skull).\nHowever, it is possible to emit ultrasound in oblique directions from a flat surface by “bending” the emission direction. This relies on the arrray phasing principle. Here, a small, rectangular flat surface is used (called sectorial). Array phasing is used to obtain a fan-shaped scanning area, and therefore those probes are also sometimes called “phased array”1.\n\n\n\nProbes and scanning areas (AI generated)\n\n\n\n\n\n\n\n\nNoteAdvanced: Array phasing principle\n\n\n\n\n\nTo emit an ultrasound pulse, the probe activates simultaneously an adjacent group of piezoelectric cells, called an array.\nHowever, by delaying the time of emission between the different cells of the array, the wavefront is deviated from the perpendicular axis. Using this effect is called “array phasing” and allows to emit in oblique directions from a flat surface.\n\n\n\nArray phasing (AI generated)",
+    "crumbs": [
+      "Ultrasound physics",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Probes</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/physics/probes.html#available-probes",
+    "href": "chapters/physics/probes.html#available-probes",
+    "title": "Probes",
+    "section": "Available probes",
+    "text": "Available probes\nTo fit the different needs of medical uses, manufacturers have designed probes whose characteristics make them use in context adapted. Three main types of probes are available: linear, curvilinear and sectorial:\n\nCharacteristics and usage of probes\n\n\n\n\n\n\n\n\nCharacteristic\nLinear\nCurvilinear\nSectorial\n\n\n\n\nFrequency range\n5-15 MHz (up to 18-20 MHz for some probes)\n2-5 MHz\n1-5 MHz\n\n\nTypical depth\n4-8 cm\n20-30 cm\n20-30 cm\n\n\nSurface shape\nFlat\nCurved\nFlat\n\n\nContact surface\nLarge\nLarge\nSmall\n\n\nScanning area shape\nRectangular\nFan-shaped\n(because of the curved surface)\nFan-shaped\n(because of the use of array phasing)\n\n\nUses\nSuperficial exams (vessels, nerves, bones, pleura …)\nAbdomen\nObstetrics\nHeart\nLungs (deep exam)\nTranscranial doppler",
+    "crumbs": [
+      "Ultrasound physics",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Probes</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/physics/probes.html#which-probe-for-which-usage",
+    "href": "chapters/physics/probes.html#which-probe-for-which-usage",
+    "title": "Probes",
+    "section": "Which probe for which usage?",
+    "text": "Which probe for which usage?\nWhen available, the probe the most suited should be chosen. However, in constrained settings not all the probes are always available. The following table summarises the relevance of each probe for each use:\n\nProbe uses. ✓: best choice. ◐: acceptable choice. ✗: not adapted/recommended.\n\n\nUsage\nLinear\nCurvilinear\nSectorial\n\n\n\n\nSuperficial vessels\n✓\n✗\n✗\n\n\nDeep vessels (aorta, …)\n✗\n✓\n◐\n\n\nSuperficial nerves\n✓\n✗\n✗\n\n\nSuperficial foreign bodies\n✓\n✗\n✗\n\n\nAbdomen\n✗\n✓\n◐\n\n\nHeart\n◐\n✗\n✓\n\n\nLungs (pleura)\n✓\n◐\n◐\n\n\nLungs (parenchyma)\n◐\n◐\n✓\n\n\nLungs (costodiaphragmatic space)\n✗\n✓\n✓\n\n\nIntracranial\n✗\n✗\n✓\n\n\nSkull (for fractures)\n✓\n✗\n✗\n\n\n\n\n\n\n\n\n\nWarningKey points\n\n\n\n\nThe linear probe is used for examination of surface structures: skin, superficial bones, vessels, nerves …\nThe curvilinear probe is used for examination of deep structures without obstacles: abdomen, obstetrics …\nThe sectorial (or phased array) probe is used for examination of deep structures with obstacles: heart, brain …",
+    "crumbs": [
+      "Ultrasound physics",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Probes</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/physics/probes.html#footnotes",
+    "href": "chapters/physics/probes.html#footnotes",
+    "title": "Probes",
+    "section": "",
+    "text": "Note however that array phasing is not a characteristic of the probe itself, and that it may be used with linear or curvilinear probes as well.↩︎",
+    "crumbs": [
+      "Ultrasound physics",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Probes</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/physics/artifacts.html",
+    "href": "chapters/physics/artifacts.html",
+    "title": "Artifacts",
+    "section": "",
+    "text": "A-lines (or reverberation artifacts)\nArtifacts are defined as images which do not correspond to anatomical structures. They appear when the ultrasound system misinterprets echoes, resulting in inappropriate image. The user must be aware of the potential presence of artifacts to avoid confusion when interpreting.\nImportantly, artifacts may also be used as interpretable features: their presence may indicate specific tissue configurations which can be interpreted alongside anatomical findings. This is particularly the case for lung ultrasound, where the intense reflection caused by air induces different kinds of artifacts.\nWhen the ultrasound wave hits a highly reflective surface perpendicular to the emission axis, almost all of the ultrasound wave is reflected directly to the probe. This reflected echo may be strong enough to bounce against the probe itself, and being reflected again against the reflective surface.\nFrom the perspective of the ultrasound system, this second echo is received at twice the travel time of the first ultrasound, and is interpreted as a second reflective surface, at a distance to the probe which is twice the distance of the initial one. This manifest as a horizontal bright line.\nA-lines are typically encountered against pleura or long bones. They have no specific significance and must be ignored.",
+    "crumbs": [
+      "Ultrasound physics",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Artifacts</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/physics/artifacts.html#a-lines-or-reverberation-artifacts",
+    "href": "chapters/physics/artifacts.html#a-lines-or-reverberation-artifacts",
+    "title": "Artifacts",
+    "section": "",
+    "text": "A-lines (from radiopedia.org)",
+    "crumbs": [
+      "Ultrasound physics",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Artifacts</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/physics/artifacts.html#b-lines-or-comet-tails",
+    "href": "chapters/physics/artifacts.html#b-lines-or-comet-tails",
+    "title": "Artifacts",
+    "section": "B-lines (or comet tails)",
+    "text": "B-lines (or comet tails)\nB-lines occur when the ultrasound wave is “trapped” in closely spaced reflective surfaces. Multiple echoes with short delays will exit the space with reflective surfaces, and reach the probe with a small delay, which are represented as a vertical bright line.\nB-lines are typically present in water-gas interfaces, where small gas bubbles act as “traps”. They are hence present on the visceral pleura, stomach, and bowels. In lungs, they suggest interstitial edema (either inflammatory or hydrostatics) when they are numerous.\n\n\n\nB-lines (from radiopedia.org)",
+    "crumbs": [
+      "Ultrasound physics",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Artifacts</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/physics/artifacts.html#acoustic-shadowing",
+    "href": "chapters/physics/artifacts.html#acoustic-shadowing",
+    "title": "Artifacts",
+    "section": "Acoustic Shadowing",
+    "text": "Acoustic Shadowing\nAcoustic shadowing results from high reflective surfaces. When an incident ultrasound is strongly reflected, the transmitted ultrasound is weak and unable to produce deeper echoes. This manifests as a dark shadow beyond the highly reflective surface. This occurs typically after soft, highly reflective structures such as bones or stones.\n\n\n\nAcoustic shadowing (from radiopedia.org)",
+    "crumbs": [
+      "Ultrasound physics",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Artifacts</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/physics/artifacts.html#posterior-acoustic-enhancment",
+    "href": "chapters/physics/artifacts.html#posterior-acoustic-enhancment",
+    "title": "Artifacts",
+    "section": "Posterior Acoustic Enhancment",
+    "text": "Posterior Acoustic Enhancment\nOpposite with acoustic shadowing, anechogenic structures cause the ultrasounds to preserve their energy. When hitting the posterior wall of those structures, the incident ultrasound has more energy and the reflection is more intense, represented as a brighter image.\nThis artifact is encountered with anechogenic or hypoechogenic structures such as bladder, gallbladder, or cysts.\n\n\n\nPosterior Acoustic Enhancment (from radiopedia.org)",
+    "crumbs": [
+      "Ultrasound physics",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Artifacts</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/physics/artifacts.html#edge-shadowing-artifact",
+    "href": "chapters/physics/artifacts.html#edge-shadowing-artifact",
+    "title": "Artifacts",
+    "section": "Edge shadowing artifact",
+    "text": "Edge shadowing artifact\nEdge shadowing occurs when ultrasound waves encounter the curved edge of a structure. At these interfaces, part of the ultrasound beam is refracted away from its original path.\nBecause less ultrasound energy reaches the tissues located behind the edge, fewer echoes return to the probe. The ultrasound system therefore displays a dark shadow extending posteriorly from the margins of the structure.\nEdge shadowing artifact appears mainly with vessels, gallbladder, or cysts.\n\n\n\nEdge shadowing (from European Society of Radiology)",
+    "crumbs": [
+      "Ultrasound physics",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Artifacts</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/physics/artifacts.html#mirror-artifact",
+    "href": "chapters/physics/artifacts.html#mirror-artifact",
+    "title": "Artifacts",
+    "section": "Mirror artifact",
+    "text": "Mirror artifact\nHighly reflective structures may act as a mirror. The ultrasound system assumes that the echoes received after reflection actually come from a “shadow structure” beyond the reflective surface, producing a mirror image accross a bright reflective surface. This pattern typically appears with the diaphragm.\n\n\n\nMirror artifact (from radiopedia.org)\n\n\n\n\n\n\n\n\nWarningKey Points\n\n\n\n\nArtifacts are images superimposed over the anatomical structures caused by misinterpretation of echoes by the ultrasound system\nA-lines appear when a highly reflective structure is perpendicular to the ultrasound beam\nB-lines appear when the ultrasound wave reaches a tight network of reflective structures, such as water/air transition surfaces\nAcoustic shadowing appears when a highly reflective structure deflects an important part of the ultrasound energy\nPosterior enhancment occurs after an anechogenic or hypoechogenic structure\nEdge shadowing occurs with round-shaped hypoechogenic structures\nMirror artifact occurs with oblique highly reflective structures, typically the diaphragm",
+    "crumbs": [
+      "Ultrasound physics",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Artifacts</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/physics/adverse-effects.html",
+    "href": "chapters/physics/adverse-effects.html",
+    "title": "Safety and Adverse Effects of Ultrasound",
+    "section": "",
+    "text": "Thermal Effects\nDiagnostic ultrasound is considered one of the safest imaging modalities available. Unlike X-rays and CT scans, ultrasound does not use ionizing radiation and therefore does not expose patients to radiation-related risks.\nHowever, ultrasound waves carry energy and interact with biological tissues. Although no harmful effects have been demonstrated for routine diagnostic ultrasound performed according to current recommendations, ultrasound is theoretically not entirely free of biological effects.\nAs ultrasound propagates through tissues, part of its energy is absorbed and converted into heat.\nThis phenomenon is known as the thermal effect.\nUnder normal imaging conditions, the resulting temperature increase is very small and unlikely to cause tissue injury. However, heating may become more significant when:\nThermal effects are of particular concern during fetal imaging because developing tissues may be more sensitive to temperature changes.",
+    "crumbs": [
+      "Ultrasound physics",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Safety and Adverse Effects of Ultrasound</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/physics/adverse-effects.html#thermal-effects",
+    "href": "chapters/physics/adverse-effects.html#thermal-effects",
+    "title": "Safety and Adverse Effects of Ultrasound",
+    "section": "",
+    "text": "using high acoustic power,\nimaging for prolonged periods,\nexamining tissues that absorb ultrasound efficiently, such as bone.",
+    "crumbs": [
+      "Ultrasound physics",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Safety and Adverse Effects of Ultrasound</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/physics/adverse-effects.html#mechanical-effects",
+    "href": "chapters/physics/adverse-effects.html#mechanical-effects",
+    "title": "Safety and Adverse Effects of Ultrasound",
+    "section": "Mechanical Effects",
+    "text": "Mechanical Effects\nUltrasound waves also produce mechanical forces within tissues.\nIn the presence of microscopic gas bubbles, these forces may cause the bubbles to oscillate, a phenomenon known as cavitation.\nAlthough cavitation has been demonstrated experimentally, it has not been shown to cause harm during routine diagnostic ultrasound examinations performed according to current safety recommendations.",
+    "crumbs": [
+      "Ultrasound physics",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Safety and Adverse Effects of Ultrasound</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/physics/adverse-effects.html#thermal-index-and-mechanical-index",
+    "href": "chapters/physics/adverse-effects.html#thermal-index-and-mechanical-index",
+    "title": "Safety and Adverse Effects of Ultrasound",
+    "section": "Thermal Index and Mechanical Index",
+    "text": "Thermal Index and Mechanical Index\nModern ultrasound systems continuously estimate the potential thermal and mechanical effects of ultrasound and display two safety indicators:\n\nThermal Index (TI): an estimate of the potential tissue heating.\nMechanical Index (MI): an estimate of the likelihood of mechanical effects such as cavitation.\n\nHigher values indicate a greater potential for biological effects.\n\n\n\n\n\n\nNoteAdvanced: Interpreting TI and MI\n\n\n\n\n\nThe Thermal Index (TI) is an estimate of the maximum temperature increase that could occur under specific conditions.\nThe Mechanical Index (MI) reflects the relationship between the peak negative pressure of the ultrasound wave and its frequency. Lower frequencies generally produce higher MI values for the same acoustic pressure.",
+    "crumbs": [
+      "Ultrasound physics",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Safety and Adverse Effects of Ultrasound</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/physics/adverse-effects.html#the-alara-principle",
+    "href": "chapters/physics/adverse-effects.html#the-alara-principle",
+    "title": "Safety and Adverse Effects of Ultrasound",
+    "section": "The ALARA Principle",
+    "text": "The ALARA Principle\nThe cornerstone of ultrasound safety is the ALARA principle:\nAs Low As Reasonably Achievable\nThis principle states that ultrasound exposure should be kept as low as reasonably achievable while obtaining the information required for clinical decision-making.\nIn practice, this means:\n\nusing the lowest acoustic output compatible with adequate image quality,\nlimiting examination time to what is clinically necessary,\navoiding prolonged scanning of a single region without justification,\npaying particular attention during fetal examinations.",
+    "crumbs": [
+      "Ultrasound physics",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Safety and Adverse Effects of Ultrasound</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/physics/adverse-effects.html#recommended-ranges-of-ti-and-mi",
+    "href": "chapters/physics/adverse-effects.html#recommended-ranges-of-ti-and-mi",
+    "title": "Safety and Adverse Effects of Ultrasound",
+    "section": "Recommended ranges of TI and MI",
+    "text": "Recommended ranges of TI and MI\nThe TI maximal values recommended by the American Institute of Ultrasound in Medicine for fetal exam are as follows:\n\n\n\nThermal Index (TI)\nMaximum recommended dwell time\n\n\n\n\n≤ 0.7\nNo time limit (ALARA)\n\n\n&gt; 0.7 – 1.0\n&lt; 60 min\n\n\n&gt; 1.0 – 1.5\n&lt; 30 min\n\n\n&gt; 1.5 – 2.0\n&lt; 15 min\n\n\n&gt; 2.0 – 2.5\n&lt; 4 min\n\n\n&gt; 2.5 – 3.0\n&lt; 1 min\n\n\n&gt; 3.0\nNot recommended\n\n\n\nFor MI, the recommended ranges are:\n\nfor ophtalmic ultrasound: MI &lt; 0.23\nfor routine use: MI &lt; 1.9, ALARA\n\n\n\n\n\n\n\nWarningKey Points\n\n\n\n\nUltrasound has theoretical mechanical and thermal side effects although these effects have not been observed in practice\nUltrasound does not have chemical, electromagnetic or radiation side effects\nUltrasound must be used respecting the “As Low as Reasonably Achievable” (ALARA) principle\nThermal effects are dependent of the exam duration, which must be limited particularly for fetal exam. It is estimated with the Thermal Index (TI)\nMechanical effects are independent from the exam duration. It is estimated with the Mechanical Index (MI) and must be limited particularly for eye exam",
+    "crumbs": [
+      "Ultrasound physics",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Safety and Adverse Effects of Ultrasound</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/orientation/objectives.html",
+    "href": "chapters/orientation/objectives.html",
+    "title": "Learning Objectives",
+    "section": "",
+    "text": "TipAfter completing this chapter, the learner will be able to:\n\n\n\n\nPosition themself and the patient adequately\nUse maneuvers to optimise image quality\nSet the essential device settings appropriately: depth, width, gain, Time Gain Compensation (TGC), focal distance\nPosition the probe in order to obtain the best view using elementary movements: sliding, rocking, rotation",
+    "crumbs": [
+      "Setting, handling and orientation",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Learning Objectives</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/orientation/patient-position.html",
+    "href": "chapters/orientation/patient-position.html",
+    "title": "Positioning the patient",
+    "section": "",
+    "text": "Patient position influence the position of organs, and in particular gases. Depending on the target, positioning the patient or asking the patient some maneuvers (inspiration, expiration, Valsalva …)\n\n\n\n\n\n\nWarningCareful with manipulation!\n\n\n\nAlways consider whether or not the patient can be safely manipulated before proceeding:\n\npatients with clinical suspicion of spine injury should preserve their spinal alignment\npatients with risk of increased intracranial pressure should not perform the Valsalva maneuver\n\n\n\nHere are some common maneuvers to consider:\n\nTo improve visualisation of hepatorenal space of splenorenal space, position the patient lying on the opposite side\nTo better visualise kidneys or spleen, ask the patient to inhale deeply and hold their breath\nTo improve visualisation of the gallbladder, position the patient in lateral position, lying on his left side\nTo remove the gases between the probe and the abdominal vessels (aorta, vena cava), press gently the probe to the back of the patient\nTo improve subcostal cardiac view, ask the patient to inspire deeply and hold their breath\nTo improve visualisation of jugular vein, ask the patient to perform a Valsalva maneuver\n\nAlso, the position of the examiner is important to ensure confortable exam. The examiner is usually placed on the right side of the patient for cardiac exam, holding the probe with his/her right hand (even for left handers).",
+    "crumbs": [
+      "Setting, handling and orientation",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Positioning the patient</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/orientation/device-settings.html",
+    "href": "chapters/orientation/device-settings.html",
+    "title": "Device settings",
+    "section": "",
+    "text": "The number of parameters available in modern ultrasound devices can be intimidating. However, most of the image quality actually depends on a few key settings. In the following section, we describe only the essential parameters and invite the reader to see his/her device manual for advanced settings.\n\nDepth and width\nThe scanning frame should be deep enough and wide enough to visualise all relevant structures. However, the depth and width of the frame affect the number of frames per second (FPS):\n\nDeepening the frame requires for the ultrasound device to “wait” for the more distant structures to emit echo, and therefore this reduces the PRF, implying more time to compose a full image\nWidening the frame requires to emit more pulses to scan the whole frame, implying more time to compose a full image\n\nAlso, a too deep or wide frame results in a “zoom out” effect which makes important structures smaller.\n[XXX Image]\nTherefore, the frame should not be deeper nor wider than what is needed.\n\n\nGain\nThe gain define the brightness of the image. If must be set at a medium value sufficient to prevent overexposure or underexposure.\n[XXX image]\n\n\nTime Gain Compensation (TGC)\nTime Gain Compensation (TGC) allows for adjusting the gain at a specific depth. This is helpful especially when structure is highly hyperechogenic, resulting in underexposing structures beyond it, or conversely if a structure is highly hypoechogenic, resulting in overexposing structures beyond it.\nTGC should always be positioned in neutral position first when starting the exam, and be adjusted carefully, only if one depth is significantly too bright or too dark.\n[XXX image]\n\n\nFocal distance\nSimilarly to cameras, ultrasound devices can optimise the resolution at a specific distance (implying a degradation of resolution for structures closer and more distant). The focal distance must be set at the distance of the structure of most interest.",
+    "crumbs": [
+      "Setting, handling and orientation",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Device settings</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/orientation/orientation.html",
+    "href": "chapters/orientation/orientation.html",
+    "title": "Orientation",
+    "section": "",
+    "text": "Understanding image orientation\nCorrect probe orientation is essential for obtaining and interpreting ultrasound images. The examiner must position and orient the probe so that the ultrasound beam passes through the structures of interest.\nBecause patient anatomy varies, there is no single correct probe position. Instead, the examiner continuously adjusts the probe while maintaining an accurate understanding of the orientation of the image displayed on the screen.\nTwo skills are therefore fundamental:\nAn ultrasound image is a cross-sectional view of the body. Each side of the image corresponds to a specific anatomical direction.\nTo correctly interpret the image, the examiner must always know which direction is represented by:\nThis process is similar to interpreting CT images: every side of the image corresponds to one of the anatomical directions (left, right, anterior, posterior, cranial or caudal).",
+    "crumbs": [
+      "Setting, handling and orientation",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Orientation</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/orientation/orientation.html#understanding-image-orientation",
+    "href": "chapters/orientation/orientation.html#understanding-image-orientation",
+    "title": "Orientation",
+    "section": "",
+    "text": "the top of the screen;\nthe bottom of the screen;\nthe left side of the screen;\nthe right side of the screen.\n\n\n\nThe probe marker\nEvery ultrasound probe has a marker located on one side of its tip. This marker is represented on the ultrasound screen by a small symbol (usually a dot or a triangle).\nThe marker establishes which side of the probe corresponds to one side of the displayed image.\nXXX Image\n\n\nThe four sides of the ultrasound image\nRegardless of the examination being performed, every ultrasound image has four borders:\n\nUltrasound entry: where the ultrasound beam enters the body.\nUltrasound exit: the deepest part of the displayed image.\nMarker side: the side corresponding to the probe marker.\nOpposite side: the side opposite the probe marker.\n\nXXX Image\nThe examiner must identify these four borders before interpreting the anatomy.\n\n\n\n\n\n\nWarningCaution!\n\n\n\nFor most of the exams, the ultrasound entry is at the top of the screen, and the mark sign is on the left side of the screen. This is in particular the case for abdomen and vascular exam. However, some other settings\n\ncardiac exam: the marker side is usually on the right side of the screen\nendocavitary gynecologic exam: the origin of ultrasounds is usually on the bottom side of the screen\n\n\n\n\nCardiac ultrasound. Note that the mark is on the right side of the screen\n\n\n\n\n\nEndocavitary gynecological exam. Note that the ultrasound entry is on the bottom of the screen, and the mark is on the right side.",
+    "crumbs": [
+      "Setting, handling and orientation",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Orientation</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/orientation/orientation.html#determining-image-orientation",
+    "href": "chapters/orientation/orientation.html#determining-image-orientation",
+    "title": "Orientation",
+    "section": "Determining image orientation",
+    "text": "Determining image orientation\nBeginners often find image orientation confusing. The following systematic method can be used for every examination.\n\nStep 1 – Identify the screen orientation\nFirst, observe the ultrasound screen.\nDetermine:\n\nwhich side of the image represents the ultrasound entry;\nwhich side represents the ultrasound exit;\non which side the marker symbol is displayed.\n\n\n\nStep 2 – Observe the probe\nNext, look at the probe on the patient.\nIdentify:\n\nwhere the probe is placed on the patient’s body;\nthe orientation of the imaging plane;\nthe direction toward which the probe marker is pointing.\n\n\n\nStep 3 – Match the image to the patient\nThe correspondence is then straightforward:\n\nthe ultrasound entry corresponds to the skin beneath the probe;\nthe ultrasound exit corresponds to the opposite direction (deeper tissues);\nthe marker side corresponds to the direction toward which the probe marker points;\nthe opposite side of the image corresponds to the opposite anatomical direction.\n\nOnce these four correspondences have been identified, every point on the image can be related to the patient’s anatomy.",
+    "crumbs": [
+      "Setting, handling and orientation",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Orientation</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/orientation/orientation.html#examples",
+    "href": "chapters/orientation/orientation.html#examples",
+    "title": "Orientation",
+    "section": "Examples",
+    "text": "Examples\n\nExample 1: Transversal viewExample 2: Sagittal viewExample 3: Frontal view\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 10.1: Abdominal exam, transversal view\n\n\n\n\n\n\n\n\nScreen side\nObservation\nAnatomical direction\n\n\n\n\nTop\nUltrasound entry\nAnterior (front)\n\n\nBottom\nUltrasound exit\nPosterior (back)\n\n\nLeft\nProbe marker\nRight\n\n\nRight\nOpposite marker\nLeft\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbdominal exam, transversal view\n\n\n\n\n\n\n\n\nScreen side\nObservation\nAnatomical direction\n\n\n\n\nTop\nUltrasound entry\nAnterior (front)\n\n\nBottom\nUltrasound exit\nPosterior (back)\n\n\nLeft\nProbe marker\nCranial (top)\n\n\nRight\nOpposite marker\nCaudal (bottom)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbdominal exam, transversal view\n\n\n\n\n\n\n\n\nScreen side\nObservation\nAnatomical direction\n\n\n\n\nTop\nUltrasound entry\nRight\n\n\nBottom\nUltrasound exit\nLeft\n\n\nLeft\nProbe marker\nCranial (top)\n\n\nRight\nOpposite marker\nCaudal (bottom)",
+    "crumbs": [
+      "Setting, handling and orientation",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Orientation</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/orientation/probe-movements.html",
+    "href": "chapters/orientation/probe-movements.html",
+    "title": "Probe Movements",
+    "section": "",
+    "text": "Longitudinal sliding\nObtaining a high-quality ultrasound image requires continuous adjustment of the probe. Small changes in its position, orientation, or pressure can considerably improve the visualization of anatomical structures.\nEach ultrasound image represents a two-dimensional imaging plane through the body. Probe movements either preserve this imaging plane while changing the viewing angle, move it to a neighbouring anatomical section, or rotate it.\nSix fundamental probe movements are commonly used (Figure XX).\nLongitudinal sliding consists of translating the probe along its long axis while maintaining the same orientation and constant contact with the skin.\nThis movement preserves the imaging plane and is used to follow anatomical structures within the same section or to centre a structure on the screen.",
+    "crumbs": [
+      "Setting, handling and orientation",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Probe Movements</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/orientation/probe-movements.html#longitudinal-sliding",
+    "href": "chapters/orientation/probe-movements.html#longitudinal-sliding",
+    "title": "Probe Movements",
+    "section": "",
+    "text": "Long-axis sliding (AI generated)",
+    "crumbs": [
+      "Setting, handling and orientation",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Probe Movements</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/orientation/probe-movements.html#long-axis-tilting",
+    "href": "chapters/orientation/probe-movements.html#long-axis-tilting",
+    "title": "Probe Movements",
+    "section": "Long-axis tilting",
+    "text": "Long-axis tilting\nLong-axis tilting consists of pivoting the probe around its long axis while maintaining skin contact.\nThis changes the angle of insonation without moving the imaging plane to another anatomical section. It is useful for bringing an entire structure into view or obtaining a more perpendicular incidence of the ultrasound beam.\n\n\n\nLong-axis tilting (AI generated)",
+    "crumbs": [
+      "Setting, handling and orientation",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Probe Movements</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/orientation/probe-movements.html#lateral-sliding",
+    "href": "chapters/orientation/probe-movements.html#lateral-sliding",
+    "title": "Probe Movements",
+    "section": "Lateral sliding",
+    "text": "Lateral sliding\nLateral sliding consists of translating the probe perpendicular to its long axis while keeping the probe parallel to the skin.\nUnlike longitudinal sliding, this movement shifts the imaging plane to a neighbouring anatomical section while preserving its orientation. It is used to explore adjacent structures.\n\n\n\nShort-axis sliding (AI generated)",
+    "crumbs": [
+      "Setting, handling and orientation",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Probe Movements</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/orientation/probe-movements.html#short-axis-tilting",
+    "href": "chapters/orientation/probe-movements.html#short-axis-tilting",
+    "title": "Probe Movements",
+    "section": "Short-axis tilting",
+    "text": "Short-axis tilting\nShort-axis tilting consists of pivoting the probe around its short axis.\nThis tilts the imaging plane, obtaining an oblique view.\n\n\n\nShort-axis tilting (AI generated)",
+    "crumbs": [
+      "Setting, handling and orientation",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Probe Movements</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/orientation/probe-movements.html#rotation",
+    "href": "chapters/orientation/probe-movements.html#rotation",
+    "title": "Probe Movements",
+    "section": "Rotation",
+    "text": "Rotation\nRotation consists of turning the probe around its central axis while maintaining skin contact. This movement is commonly used to switch between transverse and longitudinal views of a structure, such as a vessel or tendon.\n\n\n\nRotation (AI generated)",
+    "crumbs": [
+      "Setting, handling and orientation",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Probe Movements</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/orientation/probe-movements.html#compression",
+    "href": "chapters/orientation/probe-movements.html#compression",
+    "title": "Probe Movements",
+    "section": "Compression",
+    "text": "Compression\nCompression consists of applying gentle pressure with the probe against the patient’s skin. It may be useful to remove the abdominal gases, or to test pulsatility and compressibility of vessels.",
+    "crumbs": [
+      "Setting, handling and orientation",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Probe Movements</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/abdomen/objectives.html",
+    "href": "chapters/abdomen/objectives.html",
+    "title": "Learning Objectives",
+    "section": "",
+    "text": "TipLearning objectives\n\n\n\nAfter completing this chapter, learners will be able to:\n\nExplain the indications and limitations of the FAST examination.\nObtain all standard FAST views.\nRecognize normal anatomy in each view.\nIdentify free intraperitoneal and pericardial fluid.\nInterpret FAST findings according to the clinical context.\nRecognize common pitfalls and avoid frequent mistakes.",
+    "crumbs": [
+      "Abdomen",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Learning Objectives</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/abdomen/fast-concept.html",
+    "href": "chapters/abdomen/fast-concept.html",
+    "title": "Ultrasound for Abdominal Trauma: the FAST Protocol",
+    "section": "",
+    "text": "Why POCUS for Trauma Patients?\nPoint-of-care ultrasound (POCUS) has become an essential component of emergency and critical care assessment of abdominal complaints. In addition to trauma assessment, abdominal POCUS is widely used to evaluate non-traumatic conditions such as abdominal aortic aneurysm, biliary disease, hydronephrosis, urinary obstruction, nephrolithiasis, and cholecystitis (1).\nAmong these applications, trauma assessment played a pivotal role in the development of emergency POCUS. The seminal publication by Rozycki et al. (2) described the Focused Assessment with Sonography for Trauma (FAST) protocol, a standardized bedside examination performed by trauma surgeons to rapidly identify:\nImportantly, the FAST examination was not designed to diagnose specific organ injuries. Instead, its objective was to rapidly identify life-threatening internal bleeding requiring immediate intervention.\nThe original study reported a sensitivity of 79.0% and a specificity of 95.6% for detecting free intraperitoneal fluid after only 8 hours of operator training. The authors proposed FAST for patients presenting with:\nFAST was incorporated into the 6th edition of the Advanced Trauma Life Support (ATLS) guidelines in 1996 (3). Since then, improvements in trauma systems and CT availability have modified its role. Current international guidelines primarily recommend FAST in patients who cannot immediately undergo CT because of:\nThe examination was later expanded to include assessment of both pleural cavities for pneumothorax and hemothorax, giving rise to the Extended FAST (E-FAST) protocol.",
+    "crumbs": [
+      "Abdomen",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Ultrasound for Abdominal Trauma: the FAST Protocol</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/abdomen/fast-concept.html#why-pocus-for-trauma-patients",
+    "href": "chapters/abdomen/fast-concept.html#why-pocus-for-trauma-patients",
+    "title": "Ultrasound for Abdominal Trauma: the FAST Protocol",
+    "section": "",
+    "text": "intraperitoneal free fluid suggestive of hemoperitoneum;\npericardial effusion suggestive of cardiac tamponade.\n\n\n\n\nblunt thoraco-abdominal trauma;\nsuspected cardiac tamponade;\nmultisystem trauma with unexplained shock;\nblunt abdominal trauma during pregnancy.\n\n\n\n\nThe initial FAST protocol. From (2).\n\n\n\n\nhaemodynamic instability;\nongoing resuscitation;\nlimited access to CT imaging.\n\n\n\n\n\n\n\n\nTipClinical question answered by FAST\n\n\n\nDoes this trauma patient have evidence of internal bleeding requiring immediate intervention?\nFAST is primarily a hemorrhage detection examination, not a comprehensive examination of abdominal organs.",
+    "crumbs": [
+      "Abdomen",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Ultrasound for Abdominal Trauma: the FAST Protocol</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/abdomen/fast-concept.html#what-can-be-identified-by-the-fast-protocol",
+    "href": "chapters/abdomen/fast-concept.html#what-can-be-identified-by-the-fast-protocol",
+    "title": "Ultrasound for Abdominal Trauma: the FAST Protocol",
+    "section": "What can be identified by the FAST protocol?",
+    "text": "What can be identified by the FAST protocol?\n\nDiagnostic performance\nRecent systematic reviews reported the following diagnostic performances:\n\nDiagnostic performance of FAST and E-FAST. Adapted from (4). *More recent studies have reported higher sensitivities.\n\n\nFinding\nSensitivity (95% CI)\nSpecificity (95% CI)\n\n\n\n\nAbdominal free fluid\n74% (73–76%)\n98% (97–98%)\n\n\nPericardial effusion\n91% (87–94%)\n94% (92–96%)\n\n\nPneumothorax (E-FAST)\n69% (66–73%)*\n99% (98–99%)\n\n\n\nThe consistently high specificity indicates that a positive FAST examination strongly suggests clinically significant injury. Conversely, its moderate sensitivity means that a negative examination cannot reliably exclude traumatic injury.\n\n\nA negative FAST does not exclude severe trauma\nFAST is designed to detect free fluid, not to identify every traumatic injury. A normal examination does not exclude:\n\nsolid organ injuries without significant hemoperitoneum;\nbowel or mesenteric injuries;\npancreatic injuries;\nretroperitoneal hemorrhage;\ndiaphragmatic rupture;\nvascular injuries.\n\nFAST should therefore not be considered a comprehensive abdominal examination.\n\n\n\n\n\n\nImportantGolden rules of FAST\n\n\n\n\nFAST is primarily a rule-in examination. A positive study strongly supports hemoperitoneum or cardiac tamponade and may justify immediate intervention in haemodynamically unstable patients.\nA normal FAST examination never excludes significant abdominal injury. When clinical suspicion persists, further evaluation—including CT when feasible—remains necessary.\n\n\n\n\n\nRole of FAST in trauma management\n\n\n\n\n\n\n\n\nClinical situation\nFAST result\nSuggested management\n\n\n\n\nHaemodynamically unstable\nPositive\nImmediate hemorrhage control according to local resources (surgery or interventional radiology)\n\n\nHaemodynamically unstable\nNegative\nContinue evaluation, repeat FAST if indicated, and search for another cause of shock\n\n\nHaemodynamically stable\nPositive\nConsider CT to characterize injuries and guide treatment\n\n\nHaemodynamically stable\nNegative\nFAST does not exclude injury; CT should be performed if clinically indicated\n\n\n\n\n\n\n\n\n\nNoteKey messages\n\n\n\n\nFAST is a focused examination developed to rapidly detect life-threatening internal bleeding.\nIts greatest value is in haemodynamically unstable trauma patients.\nA positive FAST strongly supports hemoperitoneum or cardiac tamponade and justifies immediate treatment without other imaging for unstable patients\nA negative FAST never excludes severe injury.",
+    "crumbs": [
+      "Abdomen",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Ultrasound for Abdominal Trauma: the FAST Protocol</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/abdomen/fast-concept.html#references",
+    "href": "chapters/abdomen/fast-concept.html#references",
+    "title": "Ultrasound for Abdominal Trauma: the FAST Protocol",
+    "section": "References",
+    "text": "References\n\n\n\n\n1. Emergency Physicians AC of. Ultrasound guidelines: Emergency, point-of-care and clinical ultrasound guidelines in medicine. Annals of Emergency Medicine. 2017 May;69(5):e27–54. doi:10.1016/j.annemergmed.2016.08.457\n\n\n2. Grace S. Rozycki, M. Gage Ochsner, Jonathan H. Jaffin, Howard R. Champion. Prospective evaluation of surgeons’ use of ultrasound in the evaluation of trauma patients. Journal of Trauma: Injury, Infection & Critical Care. 1993 Apr;34:516–27.\n\n\n3. Bell RM, Krantz BE, Weigelt JA. ATLS: A foundation for trauma training. Annals of Emergency Medicine. 1999 Aug;34(2):233–7. doi:10.1016/S0196-0644(99)70238-6\n\n\n4. Diagnostic accuracy of eFAST in the trauma patient: A systematic review and meta-analysis [Internet]. Vol. 21. 21. doi:10.1017/cem.2019.381",
+    "crumbs": [
+      "Abdomen",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Ultrasound for Abdominal Trauma: the FAST Protocol</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/abdomen/fast-windows.html",
+    "href": "chapters/abdomen/fast-windows.html",
+    "title": "How to Perform a FAST Examination",
+    "section": "",
+    "text": "FAST examination overview",
+    "crumbs": [
+      "Abdomen",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>How to Perform a FAST Examination</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/abdomen/fast-windows.html#fast-examination-overview",
+    "href": "chapters/abdomen/fast-windows.html#fast-examination-overview",
+    "title": "How to Perform a FAST Examination",
+    "section": "",
+    "text": "FAST views\nThe FAST protocol consists of four standard views:\n\n\n\n\n\n\n\n\n\n\nView\nPlane\nProbe position\nProbe marker\nMain structures visualised\n\n\n\n\nRight Upper Quadrant (RUQ)\nCoronal (frontal)\nRight posterior axillary line, through the lower intercostal spaces\nTowards the patient’s head\nLiver, right kidney, hepatorenal recess (Morison pouch), diaphragm, pleural space, spine\n\n\nLeft Upper Quadrant (LUQ)\nCoronal (frontal)\nLeft posterior axillary line, through the lower intercostal spaces\nTowards the patient’s head\nSpleen, left kidney, splenorenal recess, diaphragm, pleural space, spine\n\n\nSuprapubic\nTransverse\nMidline, immediately above the pubic symphysis\nTowards the patient’s right\nBladder, rectovesical/rectouterine pouch, uterus or prostate\n\n\nSubxiphoid\nTransverse\nImmediately inferior to the xiphoid process, directed towards the left shoulder\nTowards the patient’s right\nLiver, pericardium, four cardiac chambers\n\n\n\n\n\n\nFour views of the FAST examination. AI-generated\n\n\n\nTip\nThe suprapubic examination should ideally include both transverse and sagittal views, as this improves the sensitivity for detecting small volumes of pelvic free fluid.\n\n\n\nWhich probe to choose?\nThe FAST exam visualises deep structures and requires a low frequency probe. Literature is heterogeneous for choice between abdominal and sectorial probes, and both may be used in practice.",
+    "crumbs": [
+      "Abdomen",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>How to Perform a FAST Examination</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/abdomen/fast-windows.html#right-upper-quadrant-morison-pouch",
+    "href": "chapters/abdomen/fast-windows.html#right-upper-quadrant-morison-pouch",
+    "title": "How to Perform a FAST Examination",
+    "section": "Right Upper Quadrant (Morison pouch)",
+    "text": "Right Upper Quadrant (Morison pouch)\nThe RUQ view evaluates the hepatorenal recess (Morison pouch) and the right paracolic gutter.\n\nImage Acquisition\nPlace the probe on the right posterior axillary line, through the lowest intercostal spaces, with the probe marker pointing towards the patient’s head.\nA satisfactory image should simultaneously include:\n\nliver\nright kidney\nhepatorenal interface (Morison pouch)\ndiaphragm\nspine\n\n\n\n\nNormal right upper quadrant view. From The POCUS Atlas\n\n\n\n\nTroubleshooting\n\nIf the probe is too superior, aerated lung obscures the image.\nIf the probe is too anterior, bowel gas limits visualization.\nSlide posteriorly until both the liver and kidney appear in the same image.\nAsk the patient to take a deep inspiration, if possible, to bring the liver below the rib cage.\n\n\n\nInterpretation\nLook for anechoic (black) free fluid within:\n\nthe hepatorenal recess (Morison pouch)\nthe inferior tip of Morison pouch\nthe right paracolic gutter\n\n\n\n\nPositive RUQ. From The POCUS Atlas",
+    "crumbs": [
+      "Abdomen",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>How to Perform a FAST Examination</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/abdomen/fast-windows.html#left-upper-quadrant-splenorenal-recess",
+    "href": "chapters/abdomen/fast-windows.html#left-upper-quadrant-splenorenal-recess",
+    "title": "How to Perform a FAST Examination",
+    "section": "Left Upper Quadrant (splenorenal recess)",
+    "text": "Left Upper Quadrant (splenorenal recess)\nThe LUQ view evaluates the splenorenal recess and the left paracolic gutter\nCompared with the RUQ, this view is usually more technically challenging because the spleen is smaller and positioned more posteriorly and superiorly.\n\nImage Acquisition\nPlace the probe on the left posterior axillary line through the lowest intercostal spaces with the probe marker directed towards the patient’s head.\nA satisfactory image should include:\n\nspleen\nleft kidney\nsplenorenal recess\ndiaphragm\nspine extending above the diaphragm\n\n\n\n\nNormal right upper quadrant view. From\n\n\n\n\nTroubleshooting\n\nPosition the probe slightly more posterior and cephalad than on the right side.\nScan through the intercostal spaces.\nAsk the patient to inhale deeply whenever possible.\n\n\n\nInterpretation\nSearch for anechoic free fluid in:\n\nthe splenorenal recess\naround the inferior pole of the spleen\nthe left paracolic gutter\n\n\n\n\nNormal right upper quadrant view. From\n\n\n\n\n\nPositive LUQ (subdiaphragmatic free fluid). From The POCUS Atlas",
+    "crumbs": [
+      "Abdomen",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>How to Perform a FAST Examination</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/abdomen/fast-windows.html#suprapubic-views-douglas-pouch",
+    "href": "chapters/abdomen/fast-windows.html#suprapubic-views-douglas-pouch",
+    "title": "How to Perform a FAST Examination",
+    "section": "Suprapubic views (Douglas pouch)",
+    "text": "Suprapubic views (Douglas pouch)\nThe pelvic view evaluates the Douglas pouch. Both transverse and sagittal views should ideally be obtained.\n\nTransverse view\n\nImage Acquisition\nPlace the probe immediately above the pubic symphysis with the probe marker pointing towards the patient’s right.\nThe bladder should be used as an acoustic window.\nThe examination should visualise:\n\nMale: bladder, rectovesical pouch (Douglas), rectum\nFemale: bladder, uterus, rectouterine pouch (Douglas), rectum\n\nSweep the probe from the bladder dome towards its base using a short-axis sliding or tilting motion.\n\n\n\nNormal transversal suprapubic view (male). From The POCUS Atlas\n\n\n\n\nTroubleshooting\n\nDirect the probe slightly posteriorly if the bladder is difficult to visualise.\nA partially filled bladder is usually sufficient.\nGas within the rectum may obscure posterior structures.\nThe seminal vesicles may resemble fluid, but unlike free fluid they have smooth, symmetric margins and do not conform to surrounding anatomy.\n\n\n\nInterpretation\nLook for free fluid:\n\nbetween the bladder and rectum in males\nbetween the uterus and rectum in females\n\n\n\n\nPositive suprapubic transversal view (male). From The POCUS Atlas\n\n\n\n\n\nPositive suprapubic transversal view (female). From The POCUS Atlas\n\n\n\n\n\nSagittal view\nRotate the probe 90° clockwise so that the probe marker points towards the patient’s head.\nSweep from one side of the bladder to the other while maintaining the bladder in the centre of the image.\nThe sagittal view improves the detection of small fluid collections and better demonstrates the uterus and rectouterine pouch.\n\n\n\nNormal suprapubic sagittal view (male). From The POCUS Atlas\n\n\n\n\n\nPositive suprapubic sagittal view (male). From The POCUS Atlas",
+    "crumbs": [
+      "Abdomen",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>How to Perform a FAST Examination</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/abdomen/fast-windows.html#subxiphoid-cardiac-view",
+    "href": "chapters/abdomen/fast-windows.html#subxiphoid-cardiac-view",
+    "title": "How to Perform a FAST Examination",
+    "section": "Subxiphoid cardiac view",
+    "text": "Subxiphoid cardiac view\nThe subxiphoid view evaluates the pericardial space for hemopericardium.\n\nImage Acquisition\nPlace the probe immediately inferior to the xiphoid process with the probe marker directed towards the patient’s right. Aim the ultrasound beam towards the patient’s left shoulder.\nUse the liver as an acoustic window.\nThe image should include:\n\nliver\nright ventricle\nleft ventricle\nright atrium\nleft atrium\npericardium\n\nNote that right cavities are closer from the probe than left cavities.\nIf gastric gas limits the view, apply gentle pressure towards the spine rather than towards the xiphoid process. Pressure on the xyphoid process is painful and must be avoided.\n\n\n\nNormal subxyphoid view. From The POCUS Atlas\n\n\n\n\nTroubleshooting\n\nIncrease posterior angulation towards the heart.\nAsk the patient to take a deep inspiration if clinically feasible.\nSlide slightly to the patient’s right to maximise the liver acoustic window, if spine trauma is not suspected.\n\n\n\nInterpretation\nLook for anechoic fluid surrounding the heart.\nThe presence of a pericardial effusion does not by itself indicate cardiac tamponade and requires additional findings, such as right-sided chamber collapse and clinical features.\nIn an unstable trauma patient, a large pericardial effusion (&gt; 1 cm) without other obvious cause of shock strongly suggests tamponade and should prompt immediate consideration of pericardial drainage.\n\n\n\nPositive subcostal view (mild effusion). From The POCUS Atlas\n\n\n\n\n\nPositive subcostal view (large effusion). From The POCUS Atlas",
+    "crumbs": [
+      "Abdomen",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>How to Perform a FAST Examination</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/heart/objectives.html",
+    "href": "chapters/heart/objectives.html",
+    "title": "Heart - Learning Objectives",
+    "section": "",
+    "text": "TipLearning objectives\n\n\n\nAfter completing this chapter, learners will be able to:\n\nExplain the indications and limitations of point-of-care ultrasound cardiac examination.\nObtain all standard transthoracic views\nRecognize normal anatomy in each view.\nIdentify:\n\nmild and severe alteration left ventricle ejection fraction using visual semi-quantitative assessment, EPSS and MAPSE\npericardial effusion and consequences on right ventricle\nincreased intravascular volume using vena cava diameter and respiratory variation\nsigns of acute cor pulmonare\n\nInterpret findings according to the clinical context.\nRecognize common pitfalls and avoid frequent mistakes.\n\nNote that the use of doppler imaging (including colour, pulsed, continuous and tissue) is out of the scope of this chapter.",
+    "crumbs": [
+      "Heart",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Heart - Learning Objectives</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/heart/heart-views.html",
+    "href": "chapters/heart/heart-views.html",
+    "title": "Standard cardiac ultrasound views",
+    "section": "",
+    "text": "Improving image acquisition\nFocused transthoracic cardiac ultrasound relies on four standard views:\nThe inferior vena cava (IVC) is usually assessed from the subcostal window using a longitudinal view.",
+    "crumbs": [
+      "Heart",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Standard cardiac ultrasound views</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/heart/heart-views.html#improving-image-acquisition",
+    "href": "chapters/heart/heart-views.html#improving-image-acquisition",
+    "title": "Standard cardiac ultrasound views",
+    "section": "",
+    "text": "Probe selection\nThe preferred probe for cardiac ultrasound is the sectorial (or phased array) probe. If unavailable, another low-frequency probe (such as the curvilinear probe) can be considered although image quality may be reduced.\n\n\nPatient position\nWhenever possible (notably if no spinal trauma is suspected), position the patient in the left lateral decubitus position, which brings the heart closer to the chest wall and often improves image quality.",
+    "crumbs": [
+      "Heart",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Standard cardiac ultrasound views</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/heart/heart-views.html#parasternal-long-axis-plax-view",
+    "href": "chapters/heart/heart-views.html#parasternal-long-axis-plax-view",
+    "title": "Standard cardiac ultrasound views",
+    "section": "Parasternal long axis (PLAX) view",
+    "text": "Parasternal long axis (PLAX) view\n\nImage Acquisition\nThe probe is placed immediately lateral to the left edge of the sternum, in the highest intercostal space allowing for visualisation. The probe marker must point towards the right shoulder.\nAn adequate PLAX view should demonstrate:\n\naortic valve opening\nmitral valve opening\nleft ventricle in long axis\nleft atrium\nright ventricle (infudibulum)\nproximal ascending aorta\nthoracic descending aorta\n\n\n\n\nNormal Parasternal Long Axis (PLAX) view. From thepocusatlas.org\n\n\n\n\nTroubleshooting\nNote that the PLAX may be challenging and is not possible on all patients. Four parameters of probe position and orientation must be considered to improve view:\n\nFind the highest intercostal space allowing for visualisation of the heart. Usually, it is between the second and fifth intercostal space\nUse short-axis tilting motion to find the angle allowing for visualisation of both mitral and aortic valves\nUse long-axis tilting or sliding motion to center the aortic and mitral valves on the center of the screen\nRotate the probe until the left ventricle is viewed in his longest axis",
+    "crumbs": [
+      "Heart",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Standard cardiac ultrasound views</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/heart/heart-views.html#parasternal-short-axis-psax-view",
+    "href": "chapters/heart/heart-views.html#parasternal-short-axis-psax-view",
+    "title": "Standard cardiac ultrasound views",
+    "section": "Parasternal Short Axis (PSAX) view",
+    "text": "Parasternal Short Axis (PSAX) view\nThe Parasternal Short Axis (PSAX) view is usually obtained at three different segments: basal, median, and apical. This allows for assessment of the contractility of all segments of the left and right ventricles.\n\nImage acquisition\nFrom the PLAX position, rotate the probe 90° clockwise, such that the probe marker points toward the left shoulder. Tilt the probe to orient the ultrasound plane perpendicular to the heart axis. Correct orientation of the ultrasound plane is confirmed when the left ventricle is shaped as a regular circle.\nFrom this, use a short-axis slide motion along the heart long axis, to obtain short axis views at three levels:\n\nbasal level, confirmed by visualising the mitral valve\nmid-ventricular level, confirmed by visualising the papillary muscles\napical level\n\nThis allows for assessment of the segmentar wall motion.\n\n\n\nNormal Parasternal Long Axis (PLAX) view. From thepocusatlas.org\n\n\n\n\nTroubleshooting\n\nEnsure the left ventricle is always centered. Use long axis sliding or tilting to correct if needed.\nAn elliptical heart view suggests that the ultrasound plane is not perpendicular to the long axis of the heart. This is corrected by short-axis tilting, or rotating.",
+    "crumbs": [
+      "Heart",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Standard cardiac ultrasound views</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/heart/heart-views.html#apical-four-chambers-a4c-view",
+    "href": "chapters/heart/heart-views.html#apical-four-chambers-a4c-view",
+    "title": "Standard cardiac ultrasound views",
+    "section": "Apical four chambers (A4C) view",
+    "text": "Apical four chambers (A4C) view\nThe apical view provides a comprehensive assessment of cardiac chamber size and global ventricular function.\n\nImage acquisition\nThe following sequence helps for identifying the apical view:\n\nFrom the PSAX view, slide down to the apex of the heart in short axis. The probe marker points towards the left of the patient\nSlide the probe one intercostal space below\nTilt the probe to orient the ultrasound beam towards the long axis of the heart\nAdjust the view with sliding and tilting motions to ensure the interventricular septum is aligned with the centre of the image, and both the mitral and tricuspid valves are clearly visualised\n\n\n\n\nNormal Apical Four Chambers (A4C) view. From thepocusatlas.org\n\n\n\n\nTroubleshooting\n\nThe apex of the heart may be difficult to localise. Use short axis views, or palpate the point of maximal impulse\nLung interposition may obscure the cardiac apex. Position the patient on the left side if possible\nThe ultrasound plane must be adjusted with tilting and rotating movements to ensure that the ultrasound plane passes through the center of both mitral and tricuspid valves\nSometimes, correct visualisation of the right ventricle is not possible and only the left ventricle is fully visualised",
+    "crumbs": [
+      "Heart",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Standard cardiac ultrasound views</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/heart/heart-views.html#subcostal-subxyphoid-sx-transversal-view",
+    "href": "chapters/heart/heart-views.html#subcostal-subxyphoid-sx-transversal-view",
+    "title": "Standard cardiac ultrasound views",
+    "section": "Subcostal (subxyphoid, SX) transversal view",
+    "text": "Subcostal (subxyphoid, SX) transversal view\n\nImage acquisition\n\nPosition the probe in transversal view, just inferior to the xyphoid processus, with the probe marker pointing towards the left of the patient\nLower the probe handle toward the abdominal wall to direct the ultrasound beam toward the heart.\n\n\n\n\nNormal subcostal (SX) view. From thepocusatlas.org\n\n\n\n\nTroubleshooting\n\nBe careful with the pressure exerced by the probe, especially on the xyphoid which can be very painful\nAsking the patient to relax the abdominal muscles, bending the knees or inhaling deeply may help visualising the heart\n\nInterposition of gastric gases may hide the subcostal view. In such case, use a long-axis sliding motion towards the right of the patient, to use the liver as an ultrasound window",
+    "crumbs": [
+      "Heart",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Standard cardiac ultrasound views</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/heart/heart-views.html#inferior-vena-cava-long-axis-view",
+    "href": "chapters/heart/heart-views.html#inferior-vena-cava-long-axis-view",
+    "title": "Standard cardiac ultrasound views",
+    "section": "Inferior vena cava long-axis view",
+    "text": "Inferior vena cava long-axis view\n\nImage acquisition\n\nPosition the probe in a transversal view through the epigastric fossa, the probe marker pointing towards the left of the patient\nCentre the IVC on the screen\nrotate the probe counterclockwise while maintaining the IVC in the center of the screen\n\n\n\n\nLongitudinal IVC view (dilated). From thepocusatlas.org\n\n\n\n\nTroubleshooting\n\nThe rotation movement must be performed slowly, without loosing visualisation of the IVC during the maneuver\nThe IVC must be seen entering the right atrium, tto avoid confusing it with the aorta",
+    "crumbs": [
+      "Heart",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Standard cardiac ultrasound views</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/heart/lvef-assessment.html",
+    "href": "chapters/heart/lvef-assessment.html",
+    "title": "Assessing the Left Ventricular Ejection Fraction",
+    "section": "",
+    "text": "Quantitative and semi-quantitative assessment methods of the LVEF\nLeft Ventricular Ejection Fraction (LVEF) can be measured:\nWhile quantitative assessment is preferred in cardiology consultation (follow-up, decision for treatment, …), the semi-quantitative method is preferred in emergency and ICU settings (lang_recommendations_2015?).",
+    "crumbs": [
+      "Heart",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Assessing the Left Ventricular Ejection Fraction</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/heart/lvef-assessment.html#quantitative-and-semi-quantitative-assessment-methods-of-the-lvef",
+    "href": "chapters/heart/lvef-assessment.html#quantitative-and-semi-quantitative-assessment-methods-of-the-lvef",
+    "title": "Assessing the Left Ventricular Ejection Fraction",
+    "section": "",
+    "text": "quantitatively, estimating a value\nsemi-quantitatively, estimating a category (usually three: normal, mild alteration, severe alteration)\n\n\n\nLeft Ventricular Ejection Fraction methods\n\n\n\n\n\n\n\n\nMethod\nType\nMeasurement\nUse and remarks\n\n\n\n\nTeicholtz\nQuantitative\nInfers the LVEF from the shortening fraction between basal anteroseptal and posterior walls\nObsolete: assumes normal LV geometry\n\n\nSimpson biplane\nQuantitative\nMeasures two perpendicular areas of the LVEF in systole and diastole\nGold standard method for quantitative assessment\n\n\nVisual assessment\nSemi-quantitative\nVisual assessment of LV contractility\nPreferred method in Emergency and ICU\n\n\nEPSS\nSemi-quantitative\nMinimum distance between the anterior leaflet of the mitral valve and the septum in systole (M-mode, PLAX)\nUseful adjunct to visual assessment\n\n\nMAPSE\nSemi-quantitative\nTravel distance of the lateral mitral annulus between diastole and systole (M-mode, A4C view)\nUseful adjunct to visual assessment\n\n\nMitral Annular Speed (S’)\nSemi-quantitative\nPeak speed of the anterior movement of the mitral annulus (TDI mode, A4C)\nRequires Tissue Doppler Imaging (TDI) mode\n\n\n\n\n\n\n\n\n\nImportant\n\n\n\nIn this course focused on emergency settings, we will develop only:\n\nVisual assessment\nAdjunct indices: EPSS, MAPSE",
+    "crumbs": [
+      "Heart",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Assessing the Left Ventricular Ejection Fraction</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/heart/lvef-assessment.html#visual-assessment-of-the-lvef",
+    "href": "chapters/heart/lvef-assessment.html#visual-assessment-of-the-lvef",
+    "title": "Assessing the Left Ventricular Ejection Fraction",
+    "section": "Visual assessment of the LVEF",
+    "text": "Visual assessment of the LVEF\nLVEF can be visually assessed in all standard views.\n\nPLAXPSAXA4CSX\n\n\n\n\n\n\n\n\nNormal PLAX. From thepocusatlas.org\n\n\n\n\n\n\n\nSeverely altered LVEF, PLAX. From thepocusatlas.org\n\n\n\n\n\n\n\n\n\n\n\n\n\nNormal PSAX. From thepocusatlas.org\n\n\n\n\n\n\n\nMild alteration of LVEF, PSAX. From thepocusatlas.org\n\n\n\n\n\n\n\nSeverely altered LVEF, PSAX. From thepocusatlas.org\n\n\n\n\n\n\n\n\n\n\n\n\n\nNormal A4C. From thepocusatlas.org\n\n\n\n\n\n\n\nSeverely altered LVEF, A4C. From thepocusatlas.org\n\n\n\n\n\n\n\n\n\n\n\n\n\nNormal subcostal view. From thepocusatlas.org\n\n\n\n\n\n\n\nSeverely altered LVEF, SX. From thepocusatlas.org",
+    "crumbs": [
+      "Heart",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Assessing the Left Ventricular Ejection Fraction</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/heart/lvef-assessment.html#indices",
+    "href": "chapters/heart/lvef-assessment.html#indices",
+    "title": "Assessing the Left Ventricular Ejection Fraction",
+    "section": "Indices",
+    "text": "Indices\n\nE-Point Septal Separation (EPSS)\nThe E-Point Septal Separation (EPSS) is the measure of the distance between the anterior mitral valve leaflet and the septum, during the early phase of the diastole. It is usually measured in parasternal long axis view (PLAX) in M-mode, with the motion line placed at the height of the tip of the mitral valve leaflet.\n\n\n\nAbnormal EPSS. From thepocusatlas.org\n\n\nThe usual threshold values are:\n\nEPSS &gt; 7 mm has a 100% sensitivity and 51.6% specificity for LVEF below 30% (mckaigney_e-point_2014?).\nEPSS &gt; 10 is usually considered as highly specific of severe alteration of LVEF, although the evidence is weaker (ginzton1985?), (moynihan1981?).\n\n\n\nMitral Annular Plane Systolic Excursion (MAPSE)\nThe Mitral Annular Plane Systolic Excursion (MAPSE) is the measure of the distance traveled by the lateral mitral valve annulus during systole. It is a reflect of the longitudinal component of the systolic function. It is measured in M-mode in four-chamber view.\n\n\n\nMeasure of the MAPSE. From (cirin2024?)\n\n\nUsual thresholds are:\n\nMAPSE &gt; 10 mm highly suggestive of normal LVEF\nMAPSE &lt; 8 mm highly suggestive of altered LVEF",
+    "crumbs": [
+      "Heart",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Assessing the Left Ventricular Ejection Fraction</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/heart/lvef-assessment.html#summary",
+    "href": "chapters/heart/lvef-assessment.html#summary",
+    "title": "Assessing the Left Ventricular Ejection Fraction",
+    "section": "Summary",
+    "text": "Summary\n\nSemi-quantitative multimodal assessment of the LVEF\n\n\n\n\n\n\n\n\nMeasure\nNormal (&gt; 50%)\nMild alteration (35-50%)\nSevere alteration (&lt;35%)\n\n\n\n\nVisual contractility\nNormal\nMild motion reduction\nSevere motion reduction\n\n\nEPSS\n&lt; 7 mm\n7-10 mm\n&gt; 10 mm\n\n\nMAPSE\n&gt; 10 mm\n8-10 mm\n&lt; 8 mm (6 mm for some authors)",
+    "crumbs": [
+      "Heart",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Assessing the Left Ventricular Ejection Fraction</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/heart/ivc.html",
+    "href": "chapters/heart/ivc.html",
+    "title": "Inferior Vena Cava",
+    "section": "",
+    "text": "Measure of Inferior Vena Cava Diameter and Collapsibility",
+    "crumbs": [
+      "Heart",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Inferior Vena Cava</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/heart/ivc.html#measure-of-inferior-vena-cava-diameter-and-collapsibility",
+    "href": "chapters/heart/ivc.html#measure-of-inferior-vena-cava-diameter-and-collapsibility",
+    "title": "Inferior Vena Cava",
+    "section": "",
+    "text": "Recommended measure method\nInferior Vena Cava (IVC) diameter is a reflect of the cardiac filling pressures. It is recommended in the guidelines to measure the IVC diameter (mukherjee2025?):\n\nIn transversal view, inner diameter\n1–2 cm distal (caudal) to the junction of the hepatic veins with the IVC\nMeasure both largest diameters in expiration and inspiration\n\nCurrent recommended thresholds are:\n\nIVC &lt; 21 mm with collapsibility &gt; 50%: RAP 3 mmHg\nIVC &gt; 21 mm with collapsibility &lt; 50%: RAP &gt;15 mmHg\n\n\n\n\nCollapsed IVC (longitudinal view). From thepocusatlas.org\n\n\n\n\n\nEnlarged IVC (longitudinal view). From thepocusatlas.org\n\n\n\n\n\nCollapsed IVC (transversal view). From thepocusatlas.org\n\n\n\n\nPitfalls\n\nBetween inspiration and expiration, the IVC may shift sideways, resulting in suboptimal diameter measure in longitudinal view. In such cases, measuring the anteroposterior diameter of the IVC in transversal view may reduce the risk of error\nMechanical ventilation induces increased intrathoracic pressure, resulting in dilated IVC whereas the intracardiac filling pressures are decreased",
+    "crumbs": [
+      "Heart",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Inferior Vena Cava</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/heart/ivc.html#how-does-ivc-relate-to-fluid-responsiveness",
+    "href": "chapters/heart/ivc.html#how-does-ivc-relate-to-fluid-responsiveness",
+    "title": "Inferior Vena Cava",
+    "section": "How does IVC relate to fluid responsiveness?",
+    "text": "How does IVC relate to fluid responsiveness?\nInterpretation of the IVC to diagnose hypervolemia is mostly consensual. More controversial is its reliability to predict fluid responsiveness. Indeed, IVC diameter and respiratory variation is not considered a reliable stand-alone predictor of fluid responsiveness (orso2020?), (kim2021?), especially in spontaneously breathing patients (cardozojúnior2023?).",
+    "crumbs": [
+      "Heart",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Inferior Vena Cava</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/heart/acute-cor-pulmonale.html",
+    "href": "chapters/heart/acute-cor-pulmonale.html",
+    "title": "Acute Cor Pulmonale",
+    "section": "",
+    "text": "Ultrasound features of Acute Cor Pulmonale\nAcute Core Pulmonale (ACP) is defined as an acute alteration in the structure and function of the right ventricle (RV) of the heart caused by a primary disorder of the respiratory system, resulting in pulmonary hypertension (garrison2023?). Its first cause is massive pulmonary embolism (PE), although only massive PEs cause ACP.\nOther causes of ACP include:\nFeatures of Acute Cor Pulmonale must be differentiated from Chronic Cor Pulmonale, which can be caused by all causes of chronic pulmonary hypertension. Note that in those cases, the right ventricle may be dilated, but is usually also thicker (consecutive to compensatory hypertrophy).",
+    "crumbs": [
+      "Heart",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Acute Cor Pulmonale</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/heart/acute-cor-pulmonale.html#ultrasound-features-of-acute-cor-pulmonale",
+    "href": "chapters/heart/acute-cor-pulmonale.html#ultrasound-features-of-acute-cor-pulmonale",
+    "title": "Acute Cor Pulmonale",
+    "section": "",
+    "text": "Right ventricular dilatation\nThe dilatation of the right ventricle is best identified by comparison of the diameter between left and right ventricle. The ratio between right and left diastolic diamaters (RV/LV ratio) is measured as:\n\nfreezing the image at end-diastole, where the ventricular dimensions are the largest\nmeasure the maximal internal diameter of right and left ventricles, from inner edge to inner edge, at same level, perpendicular to the long axis, approximately one-third of the distance from the tricuspid annulus to the apex.\nCompute \\(\\textrm{RV/LV}_{\\textrm{ratio}} = \\frac{\\textrm{RV}_{\\textrm{diameter}}}{\\textrm{LV}_{\\textrm{diameter}}}\\)\n\nThe recommended thresholds are:\n\nA RV/LV &gt; 0.6 suggests a moderate RV dilatation\nA RV/LV &gt; 1 suggests a severe RV dilatation (arrigo2024?)\n\n\n\n\nDilated right ventricle with intracardiac thrombus. From thepocusatlas.org\n\n\n\n\nRight ventricular systolic dysfunction\nThe systolic function of the right ventricle is usually estimated visually in emergency setting. Similar to the MAPSE, the Tricuspid Annular Plane Systolic Excursion (TAPSE) can be measured. Usual thresholds are (altinsoy2025?):\n\nTAPSE &lt; 17 mm: normal\nTAPSE 15-16 mm: mild alteration\nTAPSE 13-14 mm: moderate alteration\nTAPSE &lt; 13 mm: severe alteration\n\n\n\n\nTAPSE measurement. From (mukherjee2025?)\n\n\n\n\nParadoxical Septal Wall Motion\nWhen the pressure increases in the right ventricle, the septum wall is pushed from the right ventricle towards the left ventricle, changing the shape of the right ventricle from a circle to a “D” shape.\n\n\n\nParadoxical septal wall motion. From thepocusatlas.org\n\n\n\n\nDilated Inferior Vena Cava\nA diameter of the VCI &gt; 21 mm measured in transversal view 2 cm below the supra-hepatic vein, or a respiratory variation of &lt; 50% suggests increased IVC pressure (arrigo2024?).\n\n\nMcConnell’s Sign\nMcConnell’s sign is defined as a normal RV apical motion, while the motion of the median free wall of the right ventricle is impaired.\n\n\n\nMc Connell’s sign. From thepocusatlas.org",
+    "crumbs": [
+      "Heart",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Acute Cor Pulmonale</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/heart/acute-cor-pulmonale.html#synthesis",
+    "href": "chapters/heart/acute-cor-pulmonale.html#synthesis",
+    "title": "Acute Cor Pulmonale",
+    "section": "Synthesis",
+    "text": "Synthesis\n\n\n\nAcute Cor Pulmonale features. From (arrigo2024?).",
+    "crumbs": [
+      "Heart",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Acute Cor Pulmonale</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/heart/pericardial-effusion.html",
+    "href": "chapters/heart/pericardial-effusion.html",
+    "title": "Pericardial Effusion",
+    "section": "",
+    "text": "Identifying a Pericardial Effusion",
+    "crumbs": [
+      "Heart",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Pericardial Effusion</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/heart/pericardial-effusion.html#identifying-a-pericardial-effusion",
+    "href": "chapters/heart/pericardial-effusion.html#identifying-a-pericardial-effusion",
+    "title": "Pericardial Effusion",
+    "section": "",
+    "text": "Typical characteristics of pericardial effusion\nPericardial effusion manifests as an anechoic collection peripheral to the heart. It can be:\n\nCircumferential\nor localised\n\nIt can be observed in any heart view.\n\nParasternal Long AxisParasternal Short AxisApical Four ChambersSubcostal\n\n\n\n\n\nPericardial effusion, PLAX view. From thepocusatlas.org\n\n\n\n\n\n\n\nPericardial effusion, PSAX view. From thepocusatlas.org\n\n\n\n\n\n\n\nPericardial effusion, A4C view. From thepocusatlas.org\n\n\n\n\n\n\n\nPericardial effusion, SX view. From thepocusatlas.org\n\n\n\n\n\n\n\nDifferential diagnosis\n\nEpicardial fat pad\nSmall effusions may be difficult to identify and distinguish from epicardial fat pad.\n\nDifferential diagnosis between pericardial effusion and epicardial fat pad.\n\n\n\n\n\n\n\nFeature\nPericardial effusion\nEpicardial fat pad\n\n\n\n\nEchogenicity\nAnechoic or nearly anechoic\nMore echogenic, heterogeneous, often with internal speckes\n\n\nMovement\nFluid remains stationary while the heart moves with it\nMoves synchronously with the myocardium\n\n\nTypical location\nCircumferential or dependent; often posterior when small\nMost commonly anterior, especially over the right ventricle\n\n\nShape\nSmooth fluid layer conforming to the pericardial space\nIrregular or lobulated appearance\n\n\nDynamic appearance\nMaintains an echo-gree space throughout the cardiac cycle\nThickness and contour change as the myocardium contracts\n\n\n\n\n\n\nFat pad and pericardial effusion. From thepocusatlas.org\n\n\n\n\nLeft pleural effusion\nLeft pleural effusion can mimick a pericardial effusion. The best distinctive feature is the presence of fluid between the left atrium and the descending aorta, confirming the pericardial effusion. In pleural effusions, the fluid stays lateral to the descending aorta.\n\n\n\nPericardial effusion. Note the fluid between the left atrium and the descending aorta. From thepocusatlas.org\n\n\n\n\n\nLeft pleural effusion. Note that the effusion does not fuse between the left atrium and the descending aorta. From thepocusatlas.org",
+    "crumbs": [
+      "Heart",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Pericardial Effusion</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/heart/pericardial-effusion.html#importance-and-hemodynamic-consequences",
+    "href": "chapters/heart/pericardial-effusion.html#importance-and-hemodynamic-consequences",
+    "title": "Pericardial Effusion",
+    "section": "Importance and hemodynamic consequences",
+    "text": "Importance and hemodynamic consequences\nOnce a pericardial effusion has been identified, the assessment aims at:\n\nestimating the importance of the effusion\nevaluating the consequences on cardiac function\n\n\nImportance of the effusion\nThe importance of the effusion is measured in end of diastole. ESC 2025 guidelines classify pericardial effusion as:\n\nPericardial effusion size classification. From (schulz-menger2025?).\n\n\nEffusion size\nClassification\n\n\n\n\n&lt; 10 mm\nMild\n\n\n10-20 mm\nModerate\n\n\n&gt; 20 mm\nLarge\n\n\n\nImportantly, the importance of the effusion is poorly related to the consequences on the heart: although effusions inferior to 10 mm are not considered as significant, mild or moderate effusions can cause tamponade whereas important effusions can be asymptomatic.\n\n\n\n\n\n\nImportant\n\n\n\nVolume of the effusion is poorly correlated with severity.\n\n\n\n\nCardiac consequences\nThe following signs suggest significant hemodynamic compromise, characteristic of tamponade:\n\nRight Atrium Diastolic Collapse (RADC)\nearly Right Ventricular Diastolic Collapse (RVDC)\nIVC dilatation\n\n\n\n\nPericardial effusion with right atrium diastolic collapse (RADC) and right ventricle diastolic collapse (RVDC). From thepocusatlas.org\n\n\n\n\n\nPericardial effusion with right ventricle diastolic collapse (RVDC). From thepocusatlas.org",
+    "crumbs": [
+      "Heart",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Pericardial Effusion</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/heart/synthesis.html",
+    "href": "chapters/heart/synthesis.html",
+    "title": "Synthesis",
+    "section": "",
+    "text": "Diagnostic features in cardiac POCUS\n\n\n\n\n\n\n\n\n\nView\nLVEF alteration\nAcute Cor Pulmonale\nElevated filling pressures\nPericardial effusion\n\n\n\n\nParasternal Long-Axis (PLAX)\nWall motion\nEPSS\nRV dilatation\n—\nEffusion size\n\n\n\nParasternal Short-Axis (PSAX)\nWall motion\nRV dilatation\nParadoxical septum wall motion\n—\nEffusion size\n\n\nApical Four Chambers (A4C)\nWall motion\nMAPSE\nRV dilatation\nRV/LV ratio\nTAPSE\n—\nEffusion size\nRight atrium diastolic collapse\nRight ventricle diastolic collapse\n\n\nSubcostal (SX)\nWall motion\nRV dilatation\n—\nEffusion size\nRight atrium diastolic collapse\nRight ventricle diastolic collapse\n\n\nIVC\n—\nIVC dilatation\nIVC dilatation\nIVC dilatation",
+    "crumbs": [
+      "Heart",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Synthesis</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/lungs/objectives.html",
+    "href": "chapters/lungs/objectives.html",
+    "title": "Lungs - Learning Objectives",
+    "section": "",
+    "text": "TipLearning objectives\n\n\n\nAfter completing this chapter, learners will be able to:\n\nExplain the indications and limitations of point-of-care ultrasound lung examination.\nIdentify and interpret typical lung ultrasound signs and artifacts including:\n\nA-lines\nB-lines\nLung sliding\nLung pulse\nLung point\nSpine sign\nLung condensation\n\nIdentify features of common pulmonary conditions including\n\nPneumothorax\nPleural effusion\nInterstitial edema, including hydrostatic edema and pneumonia",
+    "crumbs": [
+      "Lungs",
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Lungs - Learning Objectives</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/lungs/lung-views.html",
+    "href": "chapters/lungs/lung-views.html",
+    "title": "Standard Lung Views",
+    "section": "",
+    "text": "Examination areas\nThree areas of explorations are considered in lung ultrasound:\nModern protocols suggest exploring 12 areas for comprehensive ultrasound lung assessment.",
+    "crumbs": [
+      "Lungs",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>Standard Lung Views</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/lungs/lung-views.html#examination-areas",
+    "href": "chapters/lungs/lung-views.html#examination-areas",
+    "title": "Standard Lung Views",
+    "section": "",
+    "text": "the highest point, where pneumothorax is visible if present,\nthe lowest point (pleural recessus), where effusion is visible is absent\nlung parenchyma, to look for signs of edema\n\n\n\n\n\n12 lung areas. From (1)",
+    "crumbs": [
+      "Lungs",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>Standard Lung Views</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/lungs/lung-views.html#choice-of-the-probe",
+    "href": "chapters/lungs/lung-views.html#choice-of-the-probe",
+    "title": "Standard Lung Views",
+    "section": "Choice of the probe",
+    "text": "Choice of the probe\nThe choice of the probe for lung ultrasound has been debated. Recent publications suggest that:\n\nLinear, high-frequency probes improve visualisation of the pleura motion (lung sliding)\nLow-frequency probes (sectorial, curvilinear) allow for visualisation of pleural effusion and may increase visualisation of B-lines",
+    "crumbs": [
+      "Lungs",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>Standard Lung Views</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/lungs/lung-views.html#main-views",
+    "href": "chapters/lungs/lung-views.html#main-views",
+    "title": "Standard Lung Views",
+    "section": "Main views",
+    "text": "Main views\n\nIntercostal spaces\nIntercostal spaces must be visualised with the probe mark pointing upwards, towards the head of the patient. There, the pleura is visualised between two ribs and their acoustic shadows:\n\n\n\nNormal ultrasound view of an intercostal space. From thepocusatlas.org\n\n\n\n\nPleural recessus\nPleural recessus are visualised by placing the probe laterally, near the costal insertion of the diaphragm, with the probe mark poiting upwards. The position is very similar to the RUQ and LUQ in the FAST protocol, but slightly superior. The view must visualise:\n\nThe diaphragm\nThe liver (right) or the spleen (left)\nThe spine\n\nThe antero-inferior portion of the lung may interpose in front of the probe during inspiration, hiding the structures beneath it. This is described as the “curtain sign”.\n\n\n\nNormal ultrasound view of the right pleural recessus, with curtain sign in inspiration. From thepocusatlas.org",
+    "crumbs": [
+      "Lungs",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>Standard Lung Views</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/lungs/lung-views.html#references",
+    "href": "chapters/lungs/lung-views.html#references",
+    "title": "Standard Lung Views",
+    "section": "References",
+    "text": "References\n\n\n\n\n1. Brenner DS, Liu GY, Omron R, Tang O, Garibaldi BT, Fong TC. Diagnostic accuracy of lung ultrasound for SARS-CoV-2: A retrospective cohort study. The Ultrasound Journal. 2021 Dec;13(1):12. doi:10.1186/s13089-021-00217-7",
+    "crumbs": [
+      "Lungs",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>Standard Lung Views</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/lungs/lung-semeiology.html",
+    "href": "chapters/lungs/lung-semeiology.html",
+    "title": "Lung Ultrasound Semeiology",
+    "section": "",
+    "text": "A-lines\nIn lung ultrasound, the strong reflection caused by water/air interfaces produces various artifacts, which are as essential as anatomical findings for exam interpretation.\nA-lines appear as horizontal lines (perpendicular to the ultrasound beam), at regular intervals. They are caused by almost total reflection of the ultrasound pulses on the pleura (see Artifacts section for details).\nA-lines do not have neither pathological nor physiological meaning. They can be present or absent under any pathology, and should not be interpreted.",
+    "crumbs": [
+      "Lungs",
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Lung Ultrasound Semeiology</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/lungs/lung-semeiology.html#a-lines",
+    "href": "chapters/lungs/lung-semeiology.html#a-lines",
+    "title": "Lung Ultrasound Semeiology",
+    "section": "",
+    "text": "A-lines. From thepocusatlas.org",
+    "crumbs": [
+      "Lungs",
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Lung Ultrasound Semeiology</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/lungs/lung-semeiology.html#b-lines",
+    "href": "chapters/lungs/lung-semeiology.html#b-lines",
+    "title": "Lung Ultrasound Semeiology",
+    "section": "B-lines",
+    "text": "B-lines\nB-lines appear as vertical lines (aligned with the ultrasound beam). They are caused by small amounts of water right under the visceral pleura. Therefore:\n\nthey indicate subpleural edema if 3 or more are present at one exam site\nthey can be caused either by hydrostatic edema or inflammatory edema from pneumonia. Almost differential diagnosis between those two conditions cannot rely on ultrasound only, the following patterns are frequent:\n\nhydrostatic edema results in symetric and declive B-lines pattern, with more B-lines on bottom than on top of lungs. They are frequently associated with pleural effusion.\npneumonia results in assymetric, focal B-lines pattern (although multifocal or diffuse pneumonia can cause B-lines at multiple sites). They may be associated with pleural effusion, although less frequent.\n\nin case of pneumothorax at the point of exam, B-lines can’t be seen as the ultrasound pulses are reflected by the air contained in the pleural cavity. Therefore, B-lines rule out pneumothorax.\n\n\n\n\nB-lines. From thepocusatlas.org",
+    "crumbs": [
+      "Lungs",
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Lung Ultrasound Semeiology</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/lungs/lung-semeiology.html#spine-sign",
+    "href": "chapters/lungs/lung-semeiology.html#spine-sign",
+    "title": "Lung Ultrasound Semeiology",
+    "section": "Spine sign",
+    "text": "Spine sign\nWhen examining the pleura recessus through the liver (on the right) or spleen (on the left), the thoracic spine is normally not visible as the ultrasound beam is reflected over the diaphragm, by the air contained in the lungs. In case of pleural effusion, the air is replaced by liquid, allowing transmission of the ultrasound beam to the spine, making it visible.\nTherefore, visualisation of the thoracic spine, named “spine sign”, rules in pleural effusion.\n\n\n\nSpine sign. From thepocusatlas.org",
+    "crumbs": [
+      "Lungs",
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Lung Ultrasound Semeiology</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/lungs/lung-semeiology.html#lung-consolidation",
+    "href": "chapters/lungs/lung-semeiology.html#lung-consolidation",
+    "title": "Lung Ultrasound Semeiology",
+    "section": "Lung consolidation",
+    "text": "Lung consolidation\nLung consolidation manifests as “abnormally visible lung”, i.e. visualisation of the lung parenchyma, which is normally invisible because of the air in it reflecting all ultrasounds. Visualisation of the lung parenchyma therefore suggests loss of lung aeration, making lung parenchyma visible.\nLung consolidation can be caused by:\n\natelectasia, secondary to infection or other causes\npassive consolidation caused by a pleural effusion\n\n\n\n\nLung consolidation with effusion (left) over the liver and diaphragm (right). From thepocusatlas.org",
+    "crumbs": [
+      "Lungs",
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Lung Ultrasound Semeiology</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/lungs/lung-semeiology.html#lung-sliding",
+    "href": "chapters/lungs/lung-semeiology.html#lung-sliding",
+    "title": "Lung Ultrasound Semeiology",
+    "section": "Lung sliding",
+    "text": "Lung sliding\nIn absence of pneumothorax, the parietal and visceral layers of the pleura are in contact, and the motion of the visceral pleura is visible. This is called the “lung sliding”.\nIn contrast, in presence of pneumothorax, the ultrasound beam is reflected by the air contained in the pleural cavity, before reaching the visceral pleura. The loss of lung sliding therefore suggests pneumothorax, although other causes exist (superficial ventilation, auto-PEEP, pleural adherence…).\n\n\n\nLung sliding present. From thepocusatlas.org\n\n\n\n\n\nLung sliding absent. From thepocusatlas.org\n\n\n\n\n\n\n\n\nImportant\n\n\n\n\nPresence of lung sliding rules out pneumothorax at the site of examination\nAbsence of lung sliding does not rule in pneumothorax\n\n\n\nNote that as pleural air moves upwards, the search for lung sliding must be done on the highest point of the thorax (apical for seated patients, mid-thoracic for patients in complete decubitus).\nSome authors recommend the use of M-mode to improve visualisation of the lung sliding:\n\nPresence of lung sliding will show speckles on the infra-pleura space of the image, whereas the intercostal muscles (supra-pleural area) appear as horizontal lines. This is described as the “seashore sign”\nAbsence of lung sliding will manifest as horizontal lignes at both supra-pleural and infra-pleural areas. This is described as the “barcode sign”\n\n\n\n\nLeft: lung sliding present, showing the “seashore sign”. Right: lung sliding absent, showing the “barcode sign”. From thepocusatlas.org",
+    "crumbs": [
+      "Lungs",
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Lung Ultrasound Semeiology</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/lungs/lung-semeiology.html#lung-pulse",
+    "href": "chapters/lungs/lung-semeiology.html#lung-pulse",
+    "title": "Lung Ultrasound Semeiology",
+    "section": "Lung pulse",
+    "text": "Lung pulse\nThe lung pulse is a variant of lung sliding where the heartbeat motion is transmitted to the visceral layer of the pleura. It has the same interpretation than the lung sliding.\n\n\n\n\n\n\nImportant\n\n\n\n\nPresence of lung pulse rules out pneumothorax\nAbsence of lung pulse does not rule in pneumothorax",
+    "crumbs": [
+      "Lungs",
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Lung Ultrasound Semeiology</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/lungs/lung-semeiology.html#lung-point",
+    "href": "chapters/lungs/lung-semeiology.html#lung-point",
+    "title": "Lung Ultrasound Semeiology",
+    "section": "Lung point",
+    "text": "Lung point\nThe lung point is described as the transit of the point of separation between the visceral and parietal layers of the pleura under the ultrasound beam. This causes a dual image where:\n\nlung sliding is seen on the the side of the pleural window where the two layers are in contact (“before” the pneumothorax)\nlung sliding is absent on the the side of the pleural window where the two layers are separated (“after” the pneumothorax)\n\nLung point is the only sign ruling in pneumothorax.\n\n\n\n\n\n\nImportant\n\n\n\n\nPresence of lung point rules in pneumothorax\nAbsence of lung point does not rule out pneumothorax\n\n\n\n\n\n\nLung point. From thepocusatlas.org",
+    "crumbs": [
+      "Lungs",
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Lung Ultrasound Semeiology</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/lungs/pathological-features.html#footnotes",
+    "href": "chapters/lungs/pathological-features.html#footnotes",
+    "title": "Pathological features",
+    "section": "",
+    "text": "B-lines in pulmonary edema are usually approximately symetric and declive, whether assymetric focal in pneumonia.↩︎\nPleural effusion is more frequent in pulmonary edema than in pneumonia, and is usually approximately symetrical in pulmonary edema, and assymetrical in pneumonia.↩︎",
+    "crumbs": [
+      "Lungs",
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Pathological features</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bones-soft-tissues/index.html",
+    "href": "chapters/bones-soft-tissues/index.html",
+    "title": "index - Bones and soft tissues",
+    "section": "",
+    "text": "Test text.\nHere is some text\nAccording to (volpicelli2012?) …\nPleural sliding excludes pneumothorax at that location.1\nSee Figure 26.1.",
+    "crumbs": [
+      "Bones and soft tissues",
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>index - Bones and soft tissues</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bones-soft-tissues/index.html#footnotes",
+    "href": "chapters/bones-soft-tissues/index.html#footnotes",
+    "title": "index - Bones and soft tissues",
+    "section": "",
+    "text": "Not necessarily the entire hemithorax.↩︎",
+    "crumbs": [
+      "Bones and soft tissues",
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>index - Bones and soft tissues</span>"
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+---
+title: "Standard Lung Views"
+format: html
+bibliography: references.bib
+---
+
+## Examination areas
+
+Three areas of explorations are considered in lung ultrasound:
+
+-   the highest point, where pneumothorax is visible if present,
+-   the lowest point (pleural recessus), where effusion is visible is absent
+-   lung parenchyma, to look for signs of edema
+
+Modern protocols suggest exploring 12 areas for comprehensive ultrasound lung assessment.
+
+![12 lung areas. From [@brenner2021]](/images/lungs/lung-12-areas.webp){fig-align="center"}
+
+## Choice of the probe
+
+The choice of the probe for lung ultrasound has been debated. Recent publications suggest that:
+
+-   Linear, high-frequency probes improve visualisation of the pleura motion (lung sliding)
+-   Low-frequency probes (sectorial, curvilinear) allow for visualisation of pleural effusion and may increase visualisation of B-lines
+
+## Main views
+
+### Intercostal spaces
+
+Intercostal spaces must be visualised with the probe mark pointing upwards, towards the head of the patient. There, the pleura is visualised between two ribs and their acoustic shadows:
+
+![Normal ultrasound view of an intercostal space. From [thepocusatlas.org](www.thepocusatlas.org)](/images/lungs/lung-sliding-3.gif){fig-align="center" width="450"}
+
+### Pleural recessus
+
+Pleural recessus are visualised by placing the probe laterally, near the costal insertion of the diaphragm, with the probe mark poiting upwards. The position is very similar to the RUQ and LUQ in the FAST protocol, but slightly superior. The view must visualise:
+
+-   The diaphragm
+
+-   The liver (right) or the spleen (left)
+
+-   The spine
+
+The antero-inferior portion of the lung may interpose in front of the probe during inspiration, hiding the structures beneath it. This is described as the "curtain sign".
+
+![Normal ultrasound view of the right pleural recessus, with curtain sign in inspiration. From thepocusatlas.org](/images/lungs/pleural-recessus.gif){fig-align="center" width="450"}
+
+## References

@@ -1,0 +1,32 @@
+---
+title: "Positioning the patient"
+format: html
+---
+
+Patient position influence the position of organs, and in particular gases. Depending on the target, positioning the patient or asking the patient some maneuvers (inspiration, expiration, Valsalva ...)
+
+::: callout-warning
+## Careful with manipulation!
+
+Always consider whether or not the patient can be safely manipulated before proceeding:
+
+-   patients with clinical suspicion of spine injury should preserve their spinal alignment
+
+-   patients with risk of increased intracranial pressure should not perform the Valsalva maneuver
+:::
+
+Here are some common maneuvers to consider:
+
+-   To improve visualisation of hepatorenal space of splenorenal space, position the patient lying on the opposite side
+
+-   To better visualise kidneys or spleen, ask the patient to inhale deeply and hold their breath
+
+-   To improve visualisation of the gallbladder, position the patient in lateral position, lying on his left side
+
+-   To remove the gases between the probe and the abdominal vessels (aorta, vena cava), press gently the probe to the back of the patient
+
+-   To improve subcostal cardiac view, ask the patient to inspire deeply and hold their breath
+
+-   To improve visualisation of jugular vein, ask the patient to perform a Valsalva maneuver
+
+Also, the position of the examiner is important to ensure confortable exam. The examiner is usually placed on the right side of the patient for cardiac exam, holding the probe with his/her right hand (even for left handers).

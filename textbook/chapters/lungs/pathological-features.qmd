@@ -1,0 +1,21 @@
+---
+title: "Pathological features"
+format: html
+---
+
+| Ultrasound finding | Pneumothorax | Pleural effusion | Pulmonary edema | Pneumonia |
+|:---|:--:|:--:|:--:|:--:|
+| A-lines | — | — | — | — |
+| B-lines[^pathological-features-1] | ⊘ | — | \+ | \+ |
+| Lung sliding | ⊘ | — | — | — |
+| Lung pulse | ⊘ | — | — | — |
+| Lung point | ✓ | — | — | — |
+| Spine sign[^pathological-features-2] | — | ✓ | ++ | \+ |
+| Lung condensation | — | ++ | \+ | ++ |
+
+: Diagnostic contribution of common lung ultrasound findings.\
+—: no diagnostic value. ⊘: rules out. ✓: rules in. +/++ in favor/strongly in favor.
+
+[^pathological-features-1]: B-lines in pulmonary edema are usually approximately symetric and declive, whether assymetric focal in pneumonia.
+
+[^pathological-features-2]: Pleural effusion is more frequent in pulmonary edema than in pneumonia, and is usually approximately symetrical in pulmonary edema, and assymetrical in pneumonia.

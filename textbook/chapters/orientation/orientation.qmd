@@ -1,0 +1,162 @@
+---
+title: "Orientation"
+format: html
+---
+
+Correct probe orientation is essential for obtaining and interpreting ultrasound images. The examiner must position and orient the probe so that the ultrasound beam passes through the structures of interest.
+
+Because patient anatomy varies, there is no single correct probe position. Instead, the examiner continuously adjusts the probe while maintaining an accurate understanding of the orientation of the image displayed on the screen.
+
+Two skills are therefore fundamental:
+
+-   determining which anatomical direction corresponds to each side of the ultrasound image;
+-   moving the probe appropriately using the basic probe movements.
+
+## Understanding image orientation
+
+An ultrasound image is a cross-sectional view of the body. Each side of the image corresponds to a specific anatomical direction.
+
+To correctly interpret the image, the examiner must always know which direction is represented by:
+
+-   the top of the screen;
+-   the bottom of the screen;
+-   the left side of the screen;
+-   the right side of the screen.
+
+This process is similar to interpreting CT images: every side of the image corresponds to one of the anatomical directions (left, right, anterior, posterior, cranial or caudal).
+
+### The probe marker
+
+Every ultrasound probe has a marker located on one side of its tip. This marker is represented on the ultrasound screen by a small symbol (usually a dot or a triangle).
+
+The marker establishes which side of the probe corresponds to one side of the displayed image.
+
+XXX Image
+
+### The four sides of the ultrasound image
+
+Regardless of the examination being performed, every ultrasound image has four borders:
+
+-   **Ultrasound entry:** where the ultrasound beam enters the body.
+-   **Ultrasound exit:** the deepest part of the displayed image.
+-   **Marker side:** the side corresponding to the probe marker.
+-   **Opposite side:** the side opposite the probe marker.
+
+XXX Image
+
+The examiner must identify these four borders before interpreting the anatomy.
+
+::: callout-warning
+## Caution!
+
+For most of the exams, the ultrasound entry is at the top of the screen, and the mark sign is on the left side of the screen. This is in particular the case for abdomen and vascular exam. However, some other settings
+
+-   cardiac exam: the marker side is usually on the right side of the screen
+-   endocavitary gynecologic exam: the origin of ultrasounds is usually on the bottom side of the screen
+
+![Cardiac ultrasound. Note that the mark is on the right side of the screen](/images/orientation/cardiac.jpg){fig-align="center"}
+
+![Endocavitary gynecological exam. Note that the ultrasound entry is on the bottom of the screen, and the mark is on the right side.](/images/orientation/endocavitary.jpg){fig-align="center"}
+:::
+
+## Determining image orientation
+
+Beginners often find image orientation confusing. The following systematic method can be used for every examination.
+
+### Step 1 – Identify the screen orientation
+
+First, observe the ultrasound screen.
+
+Determine:
+
+-   which side of the image represents the ultrasound entry;
+-   which side represents the ultrasound exit;
+-   on which side the marker symbol is displayed.
+
+### Step 2 – Observe the probe
+
+Next, look at the probe on the patient.
+
+Identify:
+
+-   where the probe is placed on the patient's body;
+-   the orientation of the imaging plane;
+-   the direction toward which the probe marker is pointing.
+
+### Step 3 – Match the image to the patient
+
+The correspondence is then straightforward:
+
+-   the **ultrasound entry** corresponds to the skin beneath the probe;
+-   the **ultrasound exit** corresponds to the opposite direction (deeper tissues);
+-   the **marker side** corresponds to the direction toward which the probe marker points;
+-   the opposite side of the image corresponds to the opposite anatomical direction.
+
+Once these four correspondences have been identified, every point on the image can be related to the patient's anatomy.
+
+## Examples
+
+:::::::::::: panel-tabset
+## Example 1: Transversal view
+
+::: {#fig-side-by-side layout-ncol="2"}
+![](/images/orientation/orientation-transversal.png){width="276"}
+
+![](XXX)
+
+Abdominal exam, transversal view
+:::
+
+:::: columns
+::: {.column width="100%"}
+| Screen side | Observation      | Anatomical direction |
+|-------------|------------------|----------------------|
+| Top         | Ultrasound entry | Anterior (front)     |
+| Bottom      | Ultrasound exit  | Posterior (back)     |
+| Left        | Probe marker     | Right                |
+| Right       | Opposite marker  | Left                 |
+:::
+::::
+
+## Example 2: Sagittal view
+
+::: {layout-ncol="2"}
+![](/images/orientation/orientation-sagittal.png){width="276"}
+
+![](XXX)
+
+Abdominal exam, transversal view
+:::
+
+:::: columns
+::: {.column width="100%"}
+| Screen side | Observation      | Anatomical direction |
+|-------------|------------------|----------------------|
+| Top         | Ultrasound entry | Anterior (front)     |
+| Bottom      | Ultrasound exit  | Posterior (back)     |
+| Left        | Probe marker     | Cranial (top)        |
+| Right       | Opposite marker  | Caudal (bottom)      |
+:::
+::::
+
+## Example 3: Frontal view
+
+::: {layout-ncol="2"}
+![](/images/orientation/orientation-flank.png){width="276"}
+
+![](XXX)
+
+Abdominal exam, transversal view
+:::
+
+:::: columns
+::: {.column width="100%"}
+| Screen side | Observation      | Anatomical direction |
+|-------------|------------------|----------------------|
+| Top         | Ultrasound entry | Right                |
+| Bottom      | Ultrasound exit  | Left                 |
+| Left        | Probe marker     | Cranial (top)        |
+| Right       | Opposite marker  | Caudal (bottom)      |
+:::
+::::
+::::::::::::

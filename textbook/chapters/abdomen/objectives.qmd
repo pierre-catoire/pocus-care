@@ -1,0 +1,19 @@
+---
+title: "Learning Objectives"
+format: html
+---
+
+::: {.callout-tip icon="false"}
+
+## Learning objectives
+
+After completing this chapter, learners will be able to:
+
+- Explain the indications and limitations of the FAST examination.
+- Obtain all standard FAST views.
+- Recognize normal anatomy in each view.
+- Identify free intraperitoneal and pericardial fluid.
+- Interpret FAST findings according to the clinical context.
+- Recognize common pitfalls and avoid frequent mistakes.
+
+:::

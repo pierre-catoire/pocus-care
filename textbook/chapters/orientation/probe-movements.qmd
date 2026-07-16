@@ -1,0 +1,61 @@
+---
+title: "Probe Movements"
+format: html
+---
+
+Obtaining a high-quality ultrasound image requires continuous adjustment of the probe. Small changes in its position, orientation, or pressure can considerably improve the visualization of anatomical structures.
+
+Each ultrasound image represents a two-dimensional **imaging plane** through the body. Probe movements either preserve this imaging plane while changing the viewing angle, move it to a neighbouring anatomical section, or rotate it.
+
+Six fundamental probe movements are commonly used (Figure XX).
+
+| Movement | Description | Effect on the imaging plane |
+|------------------|------------------|-------------------------------------|
+| **Longitudinal sliding** | Translation along the probe's long axis | Preserves the imaging plane |
+| **Long-axis tilting** | Pivoting around the probe's long axis | Preserves the imaging plane while changing the angle of insonation |
+| **Lateral sliding** | Translation perpendicular to the probe's long axis | Moves the imaging plane to an adjacent section |
+| **Short-axis tilting** | Pivoting around the probe's short axis | Tilts the imaging plane |
+| **Rotation** | Turning the probe around its central axis | Rotates the imaging plane |
+| **Compression** | Applying pressure against the skin | Does not change the imaging plane but changes the position and shape of the tissues |
+
+## Longitudinal sliding
+
+Longitudinal sliding consists of translating the probe along its long axis while maintaining the same orientation and constant contact with the skin.
+
+This movement preserves the imaging plane and is used to follow anatomical structures within the same section or to centre a structure on the screen.
+
+![Long-axis sliding (AI generated)](/images/orientation/long-axis-sliding.png){fig-align="center"}
+
+## Long-axis tilting
+
+Long-axis tilting consists of pivoting the probe around its long axis while maintaining skin contact.
+
+This changes the angle of insonation without moving the imaging plane to another anatomical section. It is useful for bringing an entire structure into view or obtaining a more perpendicular incidence of the ultrasound beam.
+
+![Long-axis tilting (AI generated)](/images/orientation/long-axis-tilting.png){fig-align="center"}
+
+## Lateral sliding
+
+Lateral sliding consists of translating the probe perpendicular to its long axis while keeping the probe parallel to the skin.
+
+Unlike longitudinal sliding, this movement shifts the imaging plane to a neighbouring anatomical section while preserving its orientation. It is used to explore adjacent structures.
+
+![Short-axis sliding (AI generated)](/images/orientation/short-axis-sliding.png){fig-align="center"}
+
+## Short-axis tilting
+
+Short-axis tilting consists of pivoting the probe around its short axis.
+
+This tilts the imaging plane, obtaining an oblique view.
+
+![Short-axis tilting (AI generated)](/images/orientation/short-axis-tilting.png){fig-align="center"}
+
+## Rotation
+
+Rotation consists of turning the probe around its central axis while maintaining skin contact. This movement is commonly used to switch between transverse and longitudinal views of a structure, such as a vessel or tendon.
+
+![Rotation (AI generated)](/images/orientation/rotation.png){fig-align="center"}
+
+## Compression
+
+Compression consists of applying gentle pressure with the probe against the patient's skin. It may be useful to remove the abdominal gases, or to test pulsatility and compressibility of vessels.

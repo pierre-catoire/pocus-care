@@ -1,0 +1,28 @@
+---
+title: "Synthesis"
+format: html
+---
+
++-----------------------------------+-----------------+--------------------------------+----------------------------+------------------------------------+
+| View                              | LVEF alteration | Acute Cor Pulmonale            | Elevated filling pressures | Pericardial effusion               |
++:=================================:+:===============:+:==============================:+:==========================:+:==================================:+
+| **Parasternal Long-Axis (PLAX)**  | Wall motion\    | RV dilatation                  | —                          | Effusion size\                     |
+|                                   | EPSS            |                                |                            |                                    |
++-----------------------------------+-----------------+--------------------------------+----------------------------+------------------------------------+
+| **Parasternal Short-Axis (PSAX)** | Wall motion     | RV dilatation\                 | —                          | Effusion size                      |
+|                                   |                 | Paradoxical septum wall motion |                            |                                    |
++-----------------------------------+-----------------+--------------------------------+----------------------------+------------------------------------+
+| **Apical Four Chambers (A4C)**    | Wall motion\    | RV dilatation\                 | —                          | Effusion size\                     |
+|                                   | MAPSE           | RV/LV ratio\                   |                            | Right atrium diastolic collapse    |
+|                                   |                 | TAPSE                          |                            |                                    |
+|                                   |                 |                                |                            | Right ventricle diastolic collapse |
++-----------------------------------+-----------------+--------------------------------+----------------------------+------------------------------------+
+| **Subcostal (SX)**                | Wall motion     | RV dilatation                  | —                          | Effusion size\                     |
+|                                   |                 |                                |                            | Right atrium diastolic collapse    |
+|                                   |                 |                                |                            |                                    |
+|                                   |                 |                                |                            | Right ventricle diastolic collapse |
++-----------------------------------+-----------------+--------------------------------+----------------------------+------------------------------------+
+| **IVC**                           | —               | IVC dilatation                 | IVC dilatation             | IVC dilatation                     |
++-----------------------------------+-----------------+--------------------------------+----------------------------+------------------------------------+
+
+: Diagnostic features in cardiac POCUS

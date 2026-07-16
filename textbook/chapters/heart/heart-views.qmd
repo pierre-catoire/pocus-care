@@ -1,0 +1,154 @@
+---
+title: "Standard cardiac ultrasound views"
+format: html
+---
+
+Focused transthoracic cardiac ultrasound relies on four standard views:
+
+-   Parasternal long axis (PLAX)
+-   Parasternal short axis (PSAX)
+-   Four chamber, or apical (4C)
+-   Subcostal, or subxyphoïd (SX)
+
+The inferior vena cava (IVC) is usually assessed from the subcostal window using a longitudinal view.
+
++-----------------------------------------+---------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------+------------------------------------------------------------------------------------------------------------------------------------+
+| View                                    | Plane                                       | Probe position                                                                                                                                                                | Probe marker                       | Main structures visualised                                                                                                         |
++:=======================================:+:===========================================:+:=============================================================================================================================================================================:+:==================================:+:==================================================================================================================================:+
+| Parasternal Long Axis (PLAX)            | Sagittal oblique (down and left)            | Immediately to the left of the sternum, in the highest intercostal space that provides an adequate acoustic window (usually between the second and fifth intercostal spaces). | Towards the right shoulder         | Left atrium, mitral valve, left ventricle, aortic valve, proximal ascending aorta, right ventricle (infudibulum), descending aorta |
++-----------------------------------------+---------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------+------------------------------------------------------------------------------------------------------------------------------------+
+| Parasternal Short Axis (PSAX)           | Transversal oblique (down, right and back)\ | Similar to the PLAX position, then slide along the down the long axis of the heart                                                                                            | Towards the left shoulder          | Left ventricle, right ventricle\                                                                                                   |
+|                                         | Perpendicular to PSAX                       |                                                                                                                                                                               |                                    | In basal level: mitral valve\                                                                                                      |
+|                                         |                                             |                                                                                                                                                                               |                                    | In mid-ventricular level: papillary muscles                                                                                        |
++-----------------------------------------+---------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------+------------------------------------------------------------------------------------------------------------------------------------+
+| Apical Four Chambers (A4C)              | Transversal, oblique (front and down)       | Cardiac apex                                                                                                                                                                  | Horizontal, towards the right side | Left ventricle, left atrium, mitral valve\                                                                                         |
+|                                         |                                             |                                                                                                                                                                               |                                    | Right ventricle, right atrium, tricuspid valve                                                                                     |
++-----------------------------------------+---------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------+------------------------------------------------------------------------------------------------------------------------------------+
+| Subcostal (subxyphoid, SX)              | Transversal, oblique (front and down)       | Just inferior to the xiphoid process                                                                                                                                          | Horizontal, towards the right side | Left ventricle, left atrium, mitral valve\                                                                                         |
+|                                         |                                             |                                                                                                                                                                               |                                    | Right ventricle, right atrium, tricuspid valve                                                                                     |
++-----------------------------------------+---------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------+------------------------------------------------------------------------------------------------------------------------------------+
+| Inferior vena cava (IVC) long-axis view | Sagittal                                    | Just inferior to the xiphoid process                                                                                                                                          | Vertical, towards the head         | IVC, suprahepatic veins, right atrium                                                                                              |
++-----------------------------------------+---------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------+------------------------------------------------------------------------------------------------------------------------------------+
+
+: Main views in POCUS transthoracic cardiac ultrasound
+
+::: callout-tip
+In advanced cardiac ultrasound, other views including 2-chamber or 5-chamber views may be considered.
+:::
+
+![Positions of the probe for cardiac ultrasound. AI generated](/images/heart/cardiac-probe-positions.png){fig-align="center" width="450"}
+
+## Improving image acquisition
+
+### Probe selection
+
+The preferred probe for cardiac ultrasound is the sectorial (or phased array) probe. If unavailable, another low-frequency probe (such as the curvilinear probe) can be considered although image quality may be reduced.
+
+### Patient position
+
+Whenever possible (notably if no spinal trauma is suspected), position the patient in the left lateral decubitus position, which brings the heart closer to the chest wall and often improves image quality.
+
+## Parasternal long axis (PLAX) view
+
+### Image Acquisition
+
+The probe is placed immediately lateral to the left edge of the sternum, in the highest intercostal space allowing for visualisation. The probe marker must point towards the right shoulder.
+
+An adequate PLAX view should demonstrate:
+
+-   aortic valve opening
+-   mitral valve opening
+-   left ventricle in long axis
+-   left atrium
+-   right ventricle (infudibulum)
+-   proximal ascending aorta
+-   thoracic descending aorta
+
+![Normal Parasternal Long Axis (PLAX) view. From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/normal-plax.gif){fig-align="center" width="450"}
+
+### Troubleshooting
+
+Note that the PLAX may be challenging and is not possible on all patients. Four parameters of probe position and orientation must be considered to improve view:
+
+1.  Find the highest intercostal space allowing for visualisation of the heart. Usually, it is between the second and fifth intercostal space
+2.  Use short-axis tilting motion to find the angle allowing for visualisation of both mitral and aortic valves
+3.  Use long-axis tilting or sliding motion to center the aortic and mitral valves on the center of the screen
+4.  Rotate the probe until the left ventricle is viewed in his longest axis
+
+## Parasternal Short Axis (PSAX) view
+
+The Parasternal Short Axis (PSAX) view is usually obtained at three different segments: basal, median, and apical. This allows for assessment of the contractility of all segments of the left and right ventricles.
+
+### Image acquisition
+
+From the PLAX position, rotate the probe 90° clockwise, such that the probe marker points toward the left shoulder. Tilt the probe to orient the ultrasound plane perpendicular to the heart axis. Correct orientation of the ultrasound plane is confirmed when the left ventricle is shaped as a regular circle.
+
+From this, use a short-axis slide motion along the heart long axis, to obtain short axis views at three levels:
+
+-   basal level, confirmed by visualising the mitral valve
+-   mid-ventricular level, confirmed by visualising the papillary muscles
+-   apical level
+
+This allows for assessment of the segmentar wall motion.
+
+![Normal Parasternal Long Axis (PLAX) view. From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/normal-psax.gif){fig-align="center" width="450"}
+
+### Troubleshooting
+
+-   Ensure the left ventricle is always centered. Use long axis sliding or tilting to correct if needed.
+-   An elliptical heart view suggests that the ultrasound plane is not perpendicular to the long axis of the heart. This is corrected by short-axis tilting, or rotating.
+
+## Apical four chambers (A4C) view
+
+The apical view provides a comprehensive assessment of cardiac chamber size and global ventricular function.
+
+### Image acquisition
+
+The following sequence helps for identifying the apical view:
+
+1.  From the PSAX view, slide down to the apex of the heart in short axis. The probe marker points towards the left of the patient
+2.  Slide the probe one intercostal space below
+3.  Tilt the probe to orient the ultrasound beam towards the long axis of the heart
+4.  Adjust the view with sliding and tilting motions to ensure the interventricular septum is aligned with the centre of the image, and both the mitral and tricuspid valves are clearly visualised
+
+![Normal Apical Four Chambers (A4C) view. From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/normal-a4c.gif){fig-align="center" width="450"}
+
+### Troubleshooting
+
+-   The apex of the heart may be difficult to localise. Use short axis views, or palpate the point of maximal impulse
+-   Lung interposition may obscure the cardiac apex. Position the patient on the left side if possible
+-   The ultrasound plane must be adjusted with tilting and rotating movements to ensure that the ultrasound plane passes through the center of both mitral and tricuspid valves
+-   Sometimes, correct visualisation of the right ventricle is not possible and only the left ventricle is fully visualised
+
+## Subcostal (subxyphoid, SX) transversal view
+
+### Image acquisition
+
+-   Position the probe in transversal view, just inferior to the xyphoid processus, with the probe marker pointing towards the left of the patient
+-   Lower the probe handle toward the abdominal wall to direct the ultrasound beam toward the heart.
+
+![Normal subcostal (SX) view. From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/normal-sx.gif){fig-align="center" width="450"}
+
+### Troubleshooting
+
+-   Be careful with the pressure exerced by the probe, especially on the xyphoid which can be very painful
+-   Asking the patient to relax the abdominal muscles, bending the knees or inhaling deeply may help visualising the heart
+    -   Interposition of gastric gases may hide the subcostal view. In such case, use a long-axis sliding motion towards the right of the patient, to use the liver as an ultrasound window
+
+## Inferior vena cava long-axis view
+
+### Image acquisition
+
+-   Position the probe in a transversal view through the epigastric fossa, the probe marker pointing towards the left of the patient
+
+-   Centre the IVC on the screen
+
+-   rotate the probe counterclockwise while maintaining the IVC in the center of the screen
+
+![Longitudinal IVC view (dilated). From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/ivc-large.gif){fig-align="center" width="450"}
+
+### Troubleshooting
+
+-   The rotation movement must be performed slowly, without loosing visualisation of the IVC during the maneuver
+
+-   The IVC must be seen entering the right atrium, tto avoid confusing it with the aorta

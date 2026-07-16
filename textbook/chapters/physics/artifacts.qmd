@@ -1,0 +1,74 @@
+---
+title: "Artifacts"
+format: html
+---
+
+Artifacts are defined as images which do not correspond to anatomical structures. They appear when the ultrasound system misinterprets echoes, resulting in inappropriate image. The user must be aware of the potential presence of artifacts to avoid confusion when interpreting.
+
+Importantly, artifacts may also be used as interpretable features: their presence may indicate specific tissue configurations which can be interpreted alongside anatomical findings. This is particularly the case for lung ultrasound, where the intense reflection caused by air induces different kinds of artifacts.
+
+## A-lines (or reverberation artifacts)
+
+When the ultrasound wave hits a highly reflective surface perpendicular to the emission axis, almost all of the ultrasound wave is reflected directly to the probe. This reflected echo may be strong enough to bounce against the probe itself, and being reflected again against the reflective surface.
+
+From the perspective of the ultrasound system, this second echo is received at twice the travel time of the first ultrasound, and is interpreted as a second reflective surface, at a distance to the probe which is twice the distance of the initial one. This manifest as a horizontal bright line.
+
+A-lines are typically encountered against pleura or long bones. They have no specific significance and must be ignored.
+
+![A-lines (from [radiopedia.org](www.radiopedia.org))](/images/physics/a-lines.jpeg){fig-align="center"}
+
+## B-lines (or comet tails)
+
+B-lines occur when the ultrasound wave is "trapped" in closely spaced reflective surfaces. Multiple echoes with short delays will exit the space with reflective surfaces, and reach the probe with a small delay, which are represented as a vertical bright line.
+
+B-lines are typically present in water-gas interfaces, where small gas bubbles act as "traps". They are hence present on the visceral pleura, stomach, and bowels. In lungs, they suggest interstitial edema (either inflammatory or hydrostatics) when they are numerous.
+
+![B-lines (from [radiopedia.org](www.radiopedia.org))](/images/physics/b-lines.jpg){fig-align="center"}
+
+## Acoustic Shadowing
+
+Acoustic shadowing results from high reflective surfaces. When an incident ultrasound is strongly reflected, the transmitted ultrasound is weak and unable to produce deeper echoes. This manifests as a dark shadow beyond the highly reflective surface. This occurs typically after soft, highly reflective structures such as bones or stones.
+
+![Acoustic shadowing (from [radiopedia.org](www.radiopedia.org))](/images/physics/acoustic-shadowing.jpeg){fig-align="center"}
+
+## Posterior Acoustic Enhancment
+
+Opposite with acoustic shadowing, anechogenic structures cause the ultrasounds to preserve their energy. When hitting the posterior wall of those structures, the incident ultrasound has more energy and the reflection is more intense, represented as a brighter image.
+
+This artifact is encountered with anechogenic or hypoechogenic structures such as bladder, gallbladder, or cysts.
+
+![Posterior Acoustic Enhancment (from [radiopedia.org](www.radiopedia.org))](/images/physics/posterior-enhancment.jpeg)
+
+## Edge shadowing artifact
+
+Edge shadowing occurs when ultrasound waves encounter the curved edge of a structure. At these interfaces, part of the ultrasound beam is refracted away from its original path.
+
+Because less ultrasound energy reaches the tissues located behind the edge, fewer echoes return to the probe. The ultrasound system therefore displays a dark shadow extending posteriorly from the margins of the structure.
+
+Edge shadowing artifact appears mainly with vessels, gallbladder, or cysts.
+
+![Edge shadowing (from [European Society of Radiology](https://epos.myesr.org/poster/esr/ecr2014/C-0543/findings%20and%20procedure%20details))](/images/physics/edge-shadowing-esr.jpg){fig-align="center"}
+
+## Mirror artifact
+
+Highly reflective structures may act as a mirror. The ultrasound system assumes that the echoes received after reflection actually come from a "shadow structure" beyond the reflective surface, producing a mirror image accross a bright reflective surface. This pattern typically appears with the diaphragm.
+
+![Mirror artifact (from [radiopedia.org](www.radiopedia.org))](/images/physics/mirror.jpg){fig-align="center"}
+
+::: callout-warning
+## Key Points
+
+-   Artifacts are images superimposed over the anatomical structures caused by misinterpretation of echoes by the ultrasound system
+
+-   A-lines appear when a highly reflective structure is perpendicular to the ultrasound beam
+
+-   B-lines appear when the ultrasound wave reaches a tight network of reflective structures, such as water/air transition surfaces
+
+-   Acoustic shadowing appears when a highly reflective structure deflects an important part of the ultrasound energy
+
+-   Posterior enhancment occurs after an anechogenic or hypoechogenic structure
+
+-   Edge shadowing occurs with round-shaped hypoechogenic structures
+
+-   Mirror artifact occurs with oblique highly reflective structures, typically the diaphragm
+:::

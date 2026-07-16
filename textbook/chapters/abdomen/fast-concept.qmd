@@ -1,0 +1,97 @@
+---
+title: "Ultrasound for Abdominal Trauma: the FAST Protocol"
+format: html
+---
+
+## Why POCUS for Trauma Patients?
+
+Point-of-care ultrasound (POCUS) has become an essential component of emergency and critical care assessment of abdominal complaints. In addition to trauma assessment, abdominal POCUS is widely used to evaluate non-traumatic conditions such as abdominal aortic aneurysm, biliary disease, hydronephrosis, urinary obstruction, nephrolithiasis, and cholecystitis [@american_college_of_emergency_physicians_ultrasound_2017].
+
+Among these applications, trauma assessment played a pivotal role in the development of emergency POCUS. The seminal publication by Rozycki *et al.* [@grace_s_rozycki_prospective_1993] described the **Focused Assessment with Sonography for Trauma (FAST)** protocol, a standardized bedside examination performed by trauma surgeons to rapidly identify:
+
+- intraperitoneal free fluid suggestive of hemoperitoneum;
+- pericardial effusion suggestive of cardiac tamponade.
+
+Importantly, the FAST examination was **not designed to diagnose specific organ injuries**. Instead, its objective was to rapidly identify life-threatening internal bleeding requiring immediate intervention.
+
+The original study reported a sensitivity of **79.0%** and a specificity of **95.6%** for detecting free intraperitoneal fluid after only 8 hours of operator training. The authors proposed FAST for patients presenting with:
+
+- blunt thoraco-abdominal trauma;
+- suspected cardiac tamponade;
+- multisystem trauma with unexplained shock;
+- blunt abdominal trauma during pregnancy.
+
+![The initial FAST protocol. From @grace_s_rozycki_prospective_1993.](/images/abdomen/fast-protocol.png){fig-align="center"}
+
+FAST was incorporated into the 6th edition of the Advanced Trauma Life Support (ATLS) guidelines in 1996 [@bell1999]. Since then, improvements in trauma systems and CT availability have modified its role. Current international guidelines primarily recommend FAST in patients who cannot immediately undergo CT because of:
+
+- haemodynamic instability;
+- ongoing resuscitation;
+- limited access to CT imaging.
+
+The examination was later expanded to include assessment of both pleural cavities for pneumothorax and hemothorax, giving rise to the **Extended FAST (E-FAST)** protocol.
+
+::: {.callout-tip icon="false"}
+## Clinical question answered by FAST
+
+**Does this trauma patient have evidence of internal bleeding requiring immediate intervention?**
+
+FAST is primarily a **hemorrhage detection examination**, not a comprehensive examination of abdominal organs.
+:::
+
+## What can be identified by the FAST protocol?
+
+### Diagnostic performance
+
+Recent systematic reviews reported the following diagnostic performances:
+
+| Finding | Sensitivity (95% CI) | Specificity (95% CI) |
+|:------------------------------|:----------------:|:----------------:|
+| Abdominal free fluid | 74% (73–76%) | 98% (97–98%) |
+| Pericardial effusion | 91% (87–94%) | 94% (92–96%) |
+| Pneumothorax (E-FAST) | 69% (66–73%)* | 99% (98–99%) |
+
+: Diagnostic performance of FAST and E-FAST. Adapted from @netherton_diagnostic_2019. *More recent studies have reported higher sensitivities.
+
+The consistently high specificity indicates that a **positive FAST examination strongly suggests clinically significant injury**. Conversely, its moderate sensitivity means that a **negative examination cannot reliably exclude traumatic injury**.
+
+### A negative FAST does not exclude severe trauma
+
+FAST is designed to detect **free fluid**, not to identify every traumatic injury. A normal examination does **not** exclude:
+
+- solid organ injuries without significant hemoperitoneum;
+- bowel or mesenteric injuries;
+- pancreatic injuries;
+- retroperitoneal hemorrhage;
+- diaphragmatic rupture;
+- vascular injuries.
+
+FAST should therefore **not** be considered a comprehensive abdominal examination.
+
+::: {.callout-important icon="false"}
+## Golden rules of FAST
+
+- **FAST is primarily a rule-in examination. A positive study strongly supports hemoperitoneum or cardiac tamponade and may justify immediate intervention in haemodynamically unstable patients.**
+
+- **A normal FAST examination never excludes significant abdominal injury. When clinical suspicion persists, further evaluation—including CT when feasible—remains necessary.**
+:::
+
+### Role of FAST in trauma management
+
+| Clinical situation | FAST result | Suggested management |
+|:------------------|:-----------:|:---------------------|
+| Haemodynamically unstable | Positive | Immediate hemorrhage control according to local resources (surgery or interventional radiology) |
+| Haemodynamically unstable | Negative | Continue evaluation, repeat FAST if indicated, and search for another cause of shock |
+| Haemodynamically stable | Positive | Consider CT to characterize injuries and guide treatment |
+| Haemodynamically stable | Negative | FAST does not exclude injury; CT should be performed if clinically indicated |
+
+::: {.callout-note icon="false"}
+## Key messages
+
+- FAST is a focused examination developed to rapidly detect life-threatening internal bleeding.
+- Its greatest value is in haemodynamically unstable trauma patients.
+- A positive FAST strongly supports hemoperitoneum or cardiac tamponade and justifies immediate treatment without other imaging for unstable patients
+- A negative FAST never excludes severe injury.
+:::
+
+## References

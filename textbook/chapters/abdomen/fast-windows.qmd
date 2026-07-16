@@ -1,0 +1,194 @@
+---
+title: "How to Perform a FAST Examination"
+format: html
+---
+
+## FAST examination overview
+
+### FAST views
+
+The FAST protocol consists of four standard views:
+
+| View | Plane | Probe position | Probe marker | Main structures visualised |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| Right Upper Quadrant (RUQ) | Coronal (frontal) | Right posterior axillary line, through the lower intercostal spaces | Towards the patient's head | Liver, right kidney, hepatorenal recess (Morison pouch), diaphragm, pleural space, spine |
+| Left Upper Quadrant (LUQ) | Coronal (frontal) | Left posterior axillary line, through the lower intercostal spaces | Towards the patient's head | Spleen, left kidney, splenorenal recess, diaphragm, pleural space, spine |
+| Suprapubic | Transverse | Midline, immediately above the pubic symphysis | Towards the patient's right | Bladder, rectovesical/rectouterine pouch, uterus or prostate |
+| Subxiphoid | Transverse | Immediately inferior to the xiphoid process, directed towards the left shoulder | Towards the patient's right | Liver, pericardium, four cardiac chambers |
+
+![Four views of the FAST examination. AI-generated](/images/abdomen/fast-views.png){fig-align="center"}
+
+> **Tip**
+>
+> The suprapubic examination should ideally include both transverse and sagittal views, as this improves the sensitivity for detecting small volumes of pelvic free fluid.
+
+### Which probe to choose?
+
+The FAST exam visualises deep structures and requires a low frequency probe. Literature is heterogeneous for choice between abdominal and sectorial probes, and both may be used in practice.
+
+## Right Upper Quadrant (Morison pouch)
+
+The RUQ view evaluates the hepatorenal recess (Morison pouch) and the right paracolic gutter.
+
+### Image Acquisition
+
+Place the probe on the right posterior axillary line, through the lowest intercostal spaces, with the probe marker pointing towards the patient's head.
+
+A satisfactory image should simultaneously include:
+
+-   liver
+-   right kidney
+-   hepatorenal interface (Morison pouch)
+-   diaphragm
+-   spine
+
+![Normal right upper quadrant view. From [The POCUS Atlas](www.thepocusatlas.com)](/images/abdomen/normal-ruq.gif){fig-align="center"}
+
+### Troubleshooting
+
+-   If the probe is too superior, aerated lung obscures the image.
+-   If the probe is too anterior, bowel gas limits visualization.
+-   Slide posteriorly until both the liver and kidney appear in the same image.
+-   Ask the patient to take a deep inspiration, if possible, to bring the liver below the rib cage.
+
+### Interpretation
+
+Look for anechoic (black) free fluid within:
+
+-   the hepatorenal recess (Morison pouch)
+-   the inferior tip of Morison pouch
+-   the right paracolic gutter
+
+![Positive RUQ. From [The POCUS Atlas](www.thepocusatlas.com)](/images/abdomen/positive-ruq.gif){fig-align="center"}
+
+## Left Upper Quadrant (splenorenal recess)
+
+The LUQ view evaluates the splenorenal recess and the left paracolic gutter
+
+Compared with the RUQ, this view is usually more technically challenging because the spleen is smaller and positioned more posteriorly and superiorly.
+
+### Image Acquisition
+
+Place the probe on the left posterior axillary line through the lowest intercostal spaces with the probe marker directed towards the patient's head.
+
+A satisfactory image should include:
+
+-   spleen
+-   left kidney
+-   splenorenal recess
+-   diaphragm
+-   spine extending above the diaphragm
+
+![Normal right upper quadrant view. From](/images/abdomen/normal-ruq.gif){fig-align="center"}
+
+### Troubleshooting
+
+-   Position the probe slightly more posterior and cephalad than on the right side.
+-   Scan through the intercostal spaces.
+-   Ask the patient to inhale deeply whenever possible.
+
+### Interpretation
+
+Search for anechoic free fluid in:
+
+-   the splenorenal recess
+-   around the inferior pole of the spleen
+-   the left paracolic gutter
+
+![Normal right upper quadrant view. From](/images/abdomen/normal-ruq.gif){fig-align="center"}
+
+![Positive LUQ (subdiaphragmatic free fluid). From [The POCUS Atlas](www.thepocusatlas.com)](/images/abdomen/positive-luq-subdiaphragmatic.gif){fig-align="center"}
+
+## Suprapubic views (Douglas pouch)
+
+The pelvic view evaluates the Douglas pouch. Both transverse and sagittal views should ideally be obtained.
+
+### Transverse view
+
+#### Image Acquisition
+
+Place the probe immediately above the pubic symphysis with the probe marker pointing towards the patient's right.
+
+The bladder should be used as an acoustic window.
+
+The examination should visualise:
+
+-   **Male:** bladder, rectovesical pouch (Douglas), rectum
+-   **Female:** bladder, uterus, rectouterine pouch (Douglas), rectum
+
+Sweep the probe from the bladder dome towards its base using a short-axis sliding or tilting motion.
+
+![Normal transversal suprapubic view (male). From [The POCUS Atlas](www.thepocusatlas.com)](/images/abdomen/normal-douglas-transverse.gif){fig-align="center"}
+
+#### Troubleshooting
+
+-   Direct the probe slightly posteriorly if the bladder is difficult to visualise.
+-   A partially filled bladder is usually sufficient.
+-   Gas within the rectum may obscure posterior structures.
+-   The seminal vesicles may resemble fluid, but unlike free fluid they have smooth, symmetric margins and do not conform to surrounding anatomy.
+
+#### Interpretation
+
+Look for free fluid:
+
+-   between the bladder and rectum in males
+-   between the uterus and rectum in females
+
+![Positive suprapubic transversal view (male). From [The POCUS Atlas](www.thepocusatlas.com)](/images/abdomen/positive-pelvic-transversal-male.gif){fig-align="center"}
+
+![Positive suprapubic transversal view (female). From [The POCUS Atlas](www.thepocusatlas.com)](/images/abdomen/positive-pelvic-transversal-female.gif){fig-align="center"}
+
+### Sagittal view
+
+Rotate the probe 90° clockwise so that the probe marker points towards the patient's head.
+
+Sweep from one side of the bladder to the other while maintaining the bladder in the centre of the image.
+
+The sagittal view improves the detection of small fluid collections and better demonstrates the uterus and rectouterine pouch.
+
+![Normal suprapubic sagittal view (male). From The POCUS Atlas](/images/abdomen/normal-douglas-sagittal.gif){fig-align="center"}
+
+![Positive suprapubic sagittal view (male). From [The POCUS Atlas](www.thepocusatlas.com)](/images/abdomen/positive-pelvic-sagittal-male.gif){fig-align="center"}
+
+## Subxiphoid cardiac view
+
+The subxiphoid view evaluates the pericardial space for hemopericardium.
+
+### Image Acquisition
+
+Place the probe immediately inferior to the xiphoid process with the probe marker directed towards the patient's right. Aim the ultrasound beam towards the patient's left shoulder.
+
+Use the liver as an acoustic window.
+
+The image should include:
+
+-   liver
+-   right ventricle
+-   left ventricle
+-   right atrium
+-   left atrium
+-   pericardium
+
+Note that right cavities are closer from the probe than left cavities.
+
+If gastric gas limits the view, apply gentle pressure towards the spine rather than towards the xiphoid process. Pressure on the xyphoid process is painful and must be avoided.
+
+![Normal subxyphoid view. From The POCUS Atlas](/images/abdomen/normal-subcostal.gif){fig-align="center"}
+
+### Troubleshooting
+
+-   Increase posterior angulation towards the heart.
+-   Ask the patient to take a deep inspiration if clinically feasible.
+-   Slide slightly to the patient's right to maximise the liver acoustic window, if spine trauma is not suspected.
+
+### Interpretation
+
+Look for anechoic fluid surrounding the heart.
+
+The presence of a pericardial effusion does not by itself indicate cardiac tamponade and requires additional findings, such as right-sided chamber collapse and clinical features.
+
+In an unstable trauma patient, a large pericardial effusion (\> 1 cm) without other obvious cause of shock strongly suggests tamponade and should prompt immediate consideration of pericardial drainage.
+
+![Positive subcostal view (mild effusion). From The POCUS Atlas](/images/abdomen/positive-subcostal-mild.gif){fig-align="center"}
+
+![Positive subcostal view (large effusion). From The POCUS Atlas](/images/abdomen/positive-subcostal-massive.gif){fig-align="center"}

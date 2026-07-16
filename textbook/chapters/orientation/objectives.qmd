@@ -1,0 +1,13 @@
+---
+title: "Learning Objectives"
+format: html
+---
+
+::: {.callout-tip icon="false"}
+## After completing this chapter, the learner will be able to:
+
+- Position themself and the patient adequately
+- Use maneuvers to optimise image quality
+- Set the essential device settings appropriately: depth, width, gain, Time Gain Compensation (TGC), focal distance
+- Position the probe in order to obtain the best view using elementary movements: sliding, rocking, rotation
+:::

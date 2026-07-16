@@ -1,0 +1,99 @@
+---
+title: "Safety and Adverse Effects of Ultrasound"
+format: html
+---
+
+Diagnostic ultrasound is considered one of the safest imaging modalities available. Unlike X-rays and CT scans, ultrasound does not use ionizing radiation and therefore does not expose patients to radiation-related risks.
+
+However, ultrasound waves carry energy and interact with biological tissues. Although no harmful effects have been demonstrated for routine diagnostic ultrasound performed according to current recommendations, ultrasound is theoretically not entirely free of biological effects.
+
+## Thermal Effects
+
+As ultrasound propagates through tissues, part of its energy is absorbed and converted into heat.
+
+This phenomenon is known as the **thermal effect**.
+
+Under normal imaging conditions, the resulting temperature increase is very small and unlikely to cause tissue injury. However, heating may become more significant when:
+
+-   using high acoustic power,
+-   imaging for prolonged periods,
+-   examining tissues that absorb ultrasound efficiently, such as bone.
+
+Thermal effects are of particular concern during fetal imaging because developing tissues may be more sensitive to temperature changes.
+
+## Mechanical Effects
+
+Ultrasound waves also produce mechanical forces within tissues.
+
+In the presence of microscopic gas bubbles, these forces may cause the bubbles to oscillate, a phenomenon known as **cavitation**.
+
+Although cavitation has been demonstrated experimentally, it has not been shown to cause harm during routine diagnostic ultrasound examinations performed according to current safety recommendations.
+
+## Thermal Index and Mechanical Index
+
+Modern ultrasound systems continuously estimate the potential thermal and mechanical effects of ultrasound and display two safety indicators:
+
+-   **Thermal Index (TI):** an estimate of the potential tissue heating.
+-   **Mechanical Index (MI):** an estimate of the likelihood of mechanical effects such as cavitation.
+
+Higher values indicate a greater potential for biological effects.
+
+::: {.callout-note collapse="true"}
+## Advanced: Interpreting TI and MI
+
+The Thermal Index (TI) is an estimate of the maximum temperature increase that could occur under specific conditions.
+
+The Mechanical Index (MI) reflects the relationship between the peak negative pressure of the ultrasound wave and its frequency. Lower frequencies generally produce higher MI values for the same acoustic pressure.
+:::
+
+## The ALARA Principle
+
+The cornerstone of ultrasound safety is the ALARA principle:
+
+***As Low As Reasonably Achievable***
+
+This principle states that ultrasound exposure should be kept as low as reasonably achievable while obtaining the information required for clinical decision-making.
+
+In practice, this means:
+
+-   using the lowest acoustic output compatible with adequate image quality,
+
+-   limiting examination time to what is clinically necessary,
+
+-   avoiding prolonged scanning of a single region without justification,
+
+-   paying particular attention during fetal examinations.
+
+## Recommended ranges of TI and MI
+
+The TI maximal values recommended by the American Institute of Ultrasound in Medicine for fetal exam are as follows:
+
+| Thermal Index (TI) | Maximum recommended dwell time |
+|:------------------:|:------------------------------:|
+|       ≤ 0.7        |     No time limit (ALARA)      |
+|    \> 0.7 – 1.0    |           \< 60 min            |
+|    \> 1.0 – 1.5    |           \< 30 min            |
+|    \> 1.5 – 2.0    |           \< 15 min            |
+|    \> 2.0 – 2.5    |            \< 4 min            |
+|    \> 2.5 – 3.0    |            \< 1 min            |
+|       \> 3.0       |      **Not recommended**       |
+
+For MI, the recommended ranges are:
+
+-   for ophtalmic ultrasound: MI \< 0.23
+
+-   for routine use: MI \< 1.9, ALARA
+
+::: callout-warning
+## Key Points
+
+-   Ultrasound has theoretical mechanical and thermal side effects although these effects have not been observed in practice
+
+-   Ultrasound does not have chemical, electromagnetic or radiation side effects
+
+-   Ultrasound must be used respecting the "As Low as Reasonably Achievable" (ALARA) principle
+
+-   Thermal effects are dependent of the exam duration, which must be limited particularly for fetal exam. It is estimated with the Thermal Index (TI)
+
+-   Mechanical effects are independent from the exam duration. It is estimated with the Mechanical Index (MI) and must be limited particularly for eye exam
+:::

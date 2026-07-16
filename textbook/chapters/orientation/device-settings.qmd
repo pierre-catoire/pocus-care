@@ -1,0 +1,37 @@
+---
+title: "Device settings"
+format: html
+---
+
+The number of parameters available in modern ultrasound devices can be intimidating. However, most of the image quality actually depends on a few key settings. In the following section, we describe only the essential parameters and invite the reader to see his/her device manual for advanced settings.
+
+### Depth and width
+
+The scanning frame should be deep enough and wide enough to visualise all relevant structures. However, the depth and width of the frame affect the number of frames per second (FPS):
+
+- Deepening the frame requires for the ultrasound device to "wait" for the more distant structures to emit echo, and therefore this reduces the PRF, implying more time to compose a full image
+- Widening the frame requires to emit more pulses to scan the whole frame, implying more time to compose a full image
+
+Also, a too deep or wide frame results in a "zoom out" effect which makes important structures smaller.
+
+[XXX Image]
+
+Therefore, the frame should not be deeper nor wider than what is needed.
+
+### Gain
+
+The gain define the brightness of the image. If must be set at a medium value sufficient to prevent overexposure or underexposure.
+
+[XXX image]
+
+### Time Gain Compensation (TGC)
+
+Time Gain Compensation (TGC) allows for adjusting the gain at a specific depth. This is helpful especially when structure is highly hyperechogenic, resulting in underexposing structures beyond it, or conversely if a structure is highly hypoechogenic, resulting in overexposing structures beyond it.
+
+TGC should always be positioned in neutral position first when starting the exam, and be adjusted carefully, only if one depth is significantly too bright or too dark.
+
+[XXX image]
+
+### Focal distance
+
+Similarly to cameras, ultrasound devices can optimise the resolution at a specific distance (implying a degradation of resolution for structures closer and more distant). The focal distance must be set at the distance of the structure of most interest.

@@ -1,0 +1,16 @@
+---
+title: "Learning objectives"
+format: html
+---
+
+::: {.callout-tip icon="false"}
+## After completing this chapter, learners will be able to:
+-   Describe the physical properties of ultrasound waves, including frequency, wavelength, propagation speed, and acoustic impedance.
+-   Explain how ultrasound waves are generated, transmitted through tissues, reflected, scattered, attenuated, and received by the transducer.
+-   Explain how ultrasound systems convert returning echoes into diagnostic images in B-mode and M-mode imaging.
+-   Predict how changes in ultrasound frequency and tissue characteristics affect image penetration and spatial resolution.
+-   Identify common ultrasound artifacts and explain the physical mechanisms responsible for their occurrence.
+-   Interpret selected ultrasound images by distinguishing normal anatomical structures from common artifacts.
+-   Describe the biological effects of diagnostic ultrasound and apply the ALARA (As Low As Reasonably Achievable) principle during ultrasound examinations.
+
+:::

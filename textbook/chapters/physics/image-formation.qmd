@@ -1,0 +1,105 @@
+---
+title: "Image formation and modes"
+format: html
+---
+
+## The Pulse - Echo Principle
+
+Diagnostic ultrasound relies on the **pulse-echo principle**.
+
+-   The probe emits a short pulse of ultrasound and then waits for returning echoes.
+-   Ultrasounds are reflected when they hit interfaces
+-   When a reflected ultrasound ("echo") reaches the probe, it is converted into an electrical signal by the piezoelectric crystals.
+
+The ultrasound system measures the time elapsed between emission and reception.
+
+Because the speed of sound in soft tissues is assumed to be constant, the depth of the reflecting interface can be calculated:
+
+$$
+\text{Depth}
+=
+\frac{c \times t}{2}
+$$
+
+where:
+
+-   $c$ = speed of sound in tissue;
+-   $t$ = measured round-trip travel time.
+
+::: callout-note
+## Example
+
+Suppose an echo returns after:
+
+$$
+t = 130\ \mu s
+$$
+
+The depth of the reflecting interface is:
+
+$$
+\frac{1540 \times 130\times10^{-6}}{2}
+=
+0.10\ m
+$$
+
+The interface is therefore located approximately **10 cm** from the probe.
+:::
+
+![The pulse-echo principle (AI generated)](/images/physics/pusle-echo.png){fig-align="center"}
+
+## Ultrasound Modes
+
+The **mode** describes how the ultrasound system displays the echoes received from tissues. Several imaging modes are available.
+
+-   **A-mode (Amplitude mode):** the earliest ultrasound mode. Echoes are displayed as peaks whose height is proportional to echo intensity. It is now rarely used in clinical practice.
+-   **B-mode (Brightness mode or 2D mode):** grayscale image representing a two-dimensional section of the tissues.
+-   **M-mode (Motion mode or TM):** representation of tissue motion along a single ultrasound line over time.
+
+Doppler imaging and three-dimensional ultrasound are not covered in this course.
+
+### B-Mode (2D Mode)
+
+Each emitted ultrasound beam explores a single direction through the body.
+
+Along this path, multiple interfaces reflect varying amounts of ultrasound energy.
+
+For each echo received, the machine determines:
+
+1.  The depth of the interface from the travel time.
+2.  The brightness of the interface from the echo intensity.
+
+By emitting multiple beams in adjacent directions and assembling the corresponding lines, the ultrasound system reconstructs a two-dimensional representation of the scanned tissues.
+
+The resulting image is the standard grayscale image used for most ultrasound examinations.
+
+![B-mode (AI generated)](/images/physics/b-mode.png){fig-align="center"}
+
+### M-Mode
+
+In M-mode, the ultrasound system repeatedly samples a single ultrasound line over time.
+
+The image displays:
+
+-   time on the horizontal axis;
+-   depth on the vertical axis;
+-   brightness according to echo intensity.
+
+Structures that remain stationary appear as horizontal lines.
+
+Structures moving toward or away from the probe change depth over time and generate oblique or curved traces.
+
+Structures moving perpendicular to the ultrasound beam may intermittently enter and leave the sampled line, producing discontinuous traces.
+
+M-mode is used mostly to measure variation of lengths over time, or to help identify subtle motion patterns.
+
+![M-mode (AI generated)](/images/physics/m-mode.png)
+
+::: callout-warning
+## Key points
+
+-   The ultrasound systems translates received echoes into images, using the pulse echo principle
+-   Each echo indicates an interface: the distance between the probe and the interface is estimated from the travel time of the echo
+-   The B mode (or 2D) is a two dimensional slice view
+-   The M mode (or TM) represents the movement of structurs along one dimension
+:::

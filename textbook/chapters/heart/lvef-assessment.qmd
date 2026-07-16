@@ -1,0 +1,108 @@
+---
+title: "Assessing the Left Ventricular Ejection Fraction"
+format: html
+---
+
+## Quantitative and semi-quantitative assessment methods of the LVEF
+
+Left Ventricular Ejection Fraction (LVEF) can be measured:
+
+-   quantitatively, estimating a value
+
+-   semi-quantitatively, estimating a category (usually three: normal, mild alteration, severe alteration)
+
+While quantitative assessment is preferred in cardiology consultation (follow-up, decision for treatment, ...), the semi-quantitative method is preferred in emergency and ICU settings @lang_recommendations_2015.
+
+| Method | Type | Measurement | Use and remarks |
+|----|----|----|----|
+| Teicholtz | Quantitative | Infers the LVEF from the shortening fraction between basal anteroseptal and posterior walls | Obsolete: assumes normal LV geometry |
+| Simpson biplane | Quantitative | Measures two perpendicular areas of the LVEF in systole and diastole | Gold standard method for quantitative assessment |
+| Visual assessment | Semi-quantitative | Visual assessment of LV contractility | Preferred method in Emergency and ICU |
+| EPSS | Semi-quantitative | Minimum distance between the anterior leaflet of the mitral valve and the septum in systole (M-mode, PLAX) | Useful adjunct to visual assessment |
+| MAPSE | Semi-quantitative | Travel distance of the lateral mitral annulus between diastole and systole (M-mode, A4C view) | Useful adjunct to visual assessment |
+| Mitral Annular Speed (S') | Semi-quantitative | Peak speed of the anterior movement of the mitral annulus (TDI mode, A4C) | Requires Tissue Doppler Imaging (TDI) mode |
+
+: Left Ventricular Ejection Fraction methods
+
+::: {.callout-important icon="false"}
+In this course focused on emergency settings, we will develop only:
+
+-   Visual assessment
+-   Adjunct indices: EPSS, MAPSE
+:::
+
+## Visual assessment of the LVEF
+
+LVEF can be visually assessed in all standard views.
+
+::::::: panel-tabset
+## PLAX
+
+::: {layout-ncol="3"}
+![Normal PLAX. From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/normal-plax.gif){fig-align="center" width="450"}
+
+![Severely altered LVEF, PLAX. From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/severe-lvef-plax.gif){fig-align="center" width="450"}
+:::
+
+## PSAX
+
+::: {layout-ncol="3"}
+![Normal PSAX. From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/normal-psax.gif){fig-align="center" width="450"}
+
+![Mild alteration of LVEF, PSAX. From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/mild-lvef-psax.gif){fig-align="center" width="450"}
+
+![Severely altered LVEF, PSAX. From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/severe-lvef-psax.gif){fig-align="center" width="450"}
+:::
+
+## A4C
+
+::: {layout-ncol="3"}
+![Normal A4C. From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/normal-a4c.gif){fig-align="center" width="450"}
+
+![Severely altered LVEF, A4C. From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/severe-lvef-a4c.gif){fig-align="center" width="450"}
+:::
+
+## SX
+
+::: {layout-ncol="3"}
+![Normal subcostal view. From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/normal-sx.gif){fig-align="center" width="450"}
+
+![Severely altered LVEF, SX. From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/severe-lvef-sx.gif){fig-align="center" width="450"}
+:::
+:::::::
+
+## Indices
+
+### E-Point Septal Separation (EPSS)
+
+The E-Point Septal Separation (EPSS) is the measure of the distance between the anterior mitral valve leaflet and the septum, during the early phase of the diastole. It is usually measured in parasternal long axis view (PLAX) in M-mode, with the motion line placed at the height of the tip of the mitral valve leaflet.
+
+![Abnormal EPSS. From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/epss.webp){fig-align="center"}
+
+The usual threshold values are:
+
+-   EPSS \> 7 mm has a 100% sensitivity and 51.6% specificity for LVEF below 30% @mckaigney_e-point_2014.
+
+-   EPSS \> 10 is usually considered as highly specific of severe alteration of LVEF, although the evidence is weaker @ginzton1985, @moynihan1981.
+
+### Mitral Annular Plane Systolic Excursion (MAPSE)
+
+The Mitral Annular Plane Systolic Excursion (MAPSE) is the measure of the distance traveled by the lateral mitral valve annulus during systole. It is a reflect of the longitudinal component of the systolic function. It is measured in M-mode in four-chamber view.
+
+![Measure of the MAPSE. From @cirin2024](/images/heart/mapse.jpg)
+
+Usual thresholds are:
+
+-   MAPSE \> 10 mm highly suggestive of normal LVEF
+
+-   MAPSE \< 8 mm highly suggestive of altered LVEF
+
+## Summary
+
+| Measure | Normal (\> 50%) | Mild alteration (35-50%) | Severe alteration (\<35%) |
+|----|----|----|----|
+| Visual contractility | Normal | Mild motion reduction | Severe motion reduction |
+| EPSS | \< 7 mm | 7-10 mm | \> 10 mm |
+| MAPSE | \> 10 mm | 8-10 mm | \< 8 mm (6 mm for some authors) |
+
+: Semi-quantitative multimodal assessment of the LVEF

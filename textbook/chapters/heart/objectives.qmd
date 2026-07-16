@@ -1,0 +1,25 @@
+---
+title: "Heart - Learning Objectives"
+format: html
+---
+
+::: {.callout-tip icon="false"}
+
+## Learning objectives
+
+After completing this chapter, learners will be able to:
+
+- Explain the indications and limitations of point-of-care ultrasound cardiac examination.
+- Obtain all standard transthoracic views
+- Recognize normal anatomy in each view.
+- Identify:
+  - mild and severe alteration left ventricle ejection fraction using visual semi-quantitative assessment, EPSS and MAPSE
+  - pericardial effusion and consequences on right ventricle
+  - increased intravascular volume using vena cava diameter and respiratory variation
+  - signs of acute cor pulmonare
+- Interpret findings according to the clinical context.
+- Recognize common pitfalls and avoid frequent mistakes.
+
+Note that the use of doppler imaging (including colour, pulsed, continuous and tissue) is out of the scope of this chapter.
+
+:::

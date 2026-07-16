@@ -1,0 +1,121 @@
+project:
+  type: book
+  output-dir: ../docs/textbook
+
+book:
+  title: "POCUS-CARE Textbook"
+  subtitle: "Point-of-Care Ultrasound in Conflict-Affected Regions"
+  author:
+  - name: "Pierre Catoire"
+    degrees: "MD, MSc"
+    affiliation: "Mehad"
+    roles: "Author, Course Creator"
+    
+  date: last-modified
+
+  license: "CC BY-NC-SA 4.0"
+  
+  navbar:
+    title: "POCUS-CARE"
+    pinned: true
+    search: true
+    
+    left:
+      - icon: house-fill
+        text: Course Home
+        href: ../index.html
+
+      - href: training.qmd
+        text: Training
+
+      - href: /textbook/
+        text: Textbook
+
+      - href: about.qmd
+        text: About
+
+      - href: contact.qmd
+        text: Contact
+
+    right:
+      - icon: github
+        href: https://github.com/pierre-catoire/pocus-care
+      
+  sidebar:
+    collapse-level: 1
+  
+  chapters:
+    - index.qmd
+    
+    - part: "Ultrasound physics"
+    
+      chapters: 
+      - chapters/physics/objectives.qmd
+      - chapters/physics/nature-of-ultrasounds.qmd
+      - chapters/physics/image-formation.qmd
+      - chapters/physics/probes.qmd
+      - chapters/physics/artifacts.qmd
+      - chapters/physics/adverse-effects.qmd
+      
+    - part: "Setting, handling and orientation"
+    
+      chapters: 
+      - chapters/orientation/objectives.qmd
+      - chapters/orientation/patient-position.qmd
+      - chapters/orientation/device-settings.qmd
+      - chapters/orientation/orientation.qmd
+      - chapters/orientation/probe-movements.qmd
+    
+    - part: "Abdomen"
+    
+      chapters: 
+      - chapters/abdomen/objectives.qmd
+      - chapters/abdomen/fast-concept.qmd
+      - chapters/abdomen/fast-windows.qmd
+      
+    - part: "Heart"
+    
+      chapters: 
+      - chapters/heart/objectives.qmd
+      - chapters/heart/heart-views.qmd
+      - chapters/heart/lvef-assessment.qmd
+      - chapters/heart/ivc.qmd
+      - chapters/heart/acute-cor-pulmonale.qmd
+      - chapters/heart/pericardial-effusion.qmd
+      - chapters/heart/synthesis.qmd
+      
+      
+    - part: "Lungs"
+    
+      chapters: 
+      - chapters/lungs/objectives.qmd
+      - chapters/lungs/lung-views.qmd
+      - chapters/lungs/lung-semeiology.qmd
+      - chapters/lungs/pathological-features.qmd
+    
+    - part: "Bones and soft tissues"
+    
+      chapters: 
+      - chapters/bones-soft-tissues/index.qmd
+    
+    - part: "Vessels and vascular procedures"
+    
+      chapters: 
+      - chapters/vascular/index.qmd
+      
+
+bibliography: references.bib
+csl: vancouver.csl
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    toc: true
+    number-sections: false
+    
+  pdf:
+    documentclass: book
+    toc: true
+    number-sections: true

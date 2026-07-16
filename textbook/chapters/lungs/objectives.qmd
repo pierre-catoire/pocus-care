@@ -1,0 +1,27 @@
+---
+title: "Lungs - Learning Objectives"
+format: html
+author: "Pierre Catoire"
+---
+
+
+::: {.callout-tip icon="false"}
+
+## Learning objectives
+
+After completing this chapter, learners will be able to:
+
+- Explain the indications and limitations of point-of-care ultrasound lung examination.
+- Identify and interpret typical lung ultrasound signs and artifacts including:
+  - A-lines
+  - B-lines
+  - Lung sliding
+  - Lung pulse
+  - Lung point
+  - Spine sign
+  - Lung condensation
+- Identify features of common pulmonary conditions including
+  - Pneumothorax
+  - Pleural effusion
+  - Interstitial edema, including hydrostatic edema and pneumonia
+:::

@@ -1,0 +1,60 @@
+# Presentation {.unnumbered}
+
+**Point-of-Care Ultrasound for Conflict-Affected Regions** (POCUS-CARE) is an educational program designed for healthcare professionals providing acute care in conflict-affected settings.
+
+The program teaches **Point-of-Care Ultrasound (POCUS)**: ultrasound performed and interpreted by the treating clinician at the bedside to answer focused clinical questions and support immediate patient management.
+
+The course is intended for physicians involved in emergency and critical care, including emergency physicians, intensivists, anesthesiologists, surgeons, pediatricians, nurses, paramedics, and other clinicians managing **acutely ill or injured patients**.
+
+This handbook serves both as the reference text for the POCUS-CARE training program and as a practical resource for clinicians in daily practice. It combines ultrasound techniques, image interpretation, clinical integration, and evidence-based recommendations, with a particular focus on applications relevant to resource-limited and conflict-affected environments.
+
+## Course Principles
+
+The training program is based on the following principles:
+
+-   **Action-oriented** – Learning is organised around clinical questions that directly support diagnosis, triage, treatment, and referral decisions.
+-   **Context-adapted** – While the educational framework is shared across countries, each national implementation is adapted to local epidemiology, healthcare systems, available resources, and national priorities.
+-   **Evidence-based** – Educational content is developed by certified POCUS instructors and follows current international evidence and clinical guidelines. References are provided throughout the course.
+-   **Collaborative** – National instructors lead the development, implementation, and continuous improvement of the program within their own countries.
+-   **Freely available** – Educational materials are distributed under the licence described below, allowing non-commercial reuse and adaptation.
+
+## Learning Outcomes
+
+After completing this program, participants will be able to:
+
+-   Perform focused ultrasound examinations using a **systematic scanning approach**.
+-   Identify common life-threatening conditions, including **intra-abdominal bleeding**, **tamponnade** and **pneumothorax**.
+-   Use ultrasound findings to support the assessment of **circulatory** and **respiratory failure**.
+-   Identify selected musculoskeletal conditions, including **soft-tissue foreign bodies** and **long-bone diaphyseal fractures**.
+-   Identify **deep vein thrombosis**.
+-   Perform ultrasound-guided **vascular access**.
+-   Integrate ultrasound findings into clinical **decision-making** while recognising the limitations of POCUS and the potential for false-positive and false-negative findings.
+
+## In-Person Training Sessions
+
+The POCUS-CARE program is currently implemented in:
+
+-   **Palestine** (West Bank)
+-   **Lebanon** in partnership with **MedGlobal** and **Anera** NGOs.
+
+For information about upcoming courses or future implementations, please contact: [pierre.catoire\@mehad.fr](mailto:pierre.catoire@mehad.fr){.email}
+
+## Licence
+
+The educational content is distributed under the **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)** licence.
+
+You are free to:
+
+-   **Share** — copy and redistribute the material in any medium or format.
+-   **Adapt** — remix, transform, and build upon the material.
+
+Under the following conditions:
+
+-   **Attribution** — appropriate credit must be given, a link to the licence provided, and any modifications indicated.
+-   **NonCommercial** — the material may not be used for commercial purposes.
+-   **ShareAlike** — adaptations must be distributed under the same licence.
+-   **No additional restrictions** — no legal or technological restrictions may be applied beyond those permitted by the licence.
+
+![](images/common/Cc-by-nc-sa_icon.svg.png){fig-align="center"}
+
+For the complete licence text, see <https://creativecommons.org/licenses/by-nc-sa/4.0/>.

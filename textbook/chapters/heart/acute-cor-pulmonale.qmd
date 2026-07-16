@@ -1,0 +1,81 @@
+---
+title: "Acute Cor Pulmonale"
+format: html
+author: "Pierre Catoire"
+---
+
+Acute Core Pulmonale (ACP) is defined as an acute alteration in the structure and function of the right ventricle (RV) of the heart caused by a primary disorder of the respiratory system, resulting in pulmonary hypertension [@garrison2023]. Its first cause is massive pulmonary embolism (PE), although only massive PEs cause ACP.
+
+::: callout-caution
+## Diagnosis value of Acute Cor Pulmonale for Pulmonary Embolism in Ultrasound
+
+-   Absence of Acute Cor Pulmonale (ACP) does not by any mean rule out Pulmonary Embolism
+
+-   Most of Pulmonary Embola do not have any feature in cardiac ultrasound
+
+-   In a context of shock or cardiac arrest, absence of sign of ACP strongly suggests that the shock or cardiac arrest is not caused by massive PE
+:::
+
+Other causes of ACP include:
+
+-   Air, fat or amniotic liquid embolism,
+
+-   Severe ARDS, COPD exacerbation,
+
+-   Mechanical ventilation with excessive intrathoracic pressures (PEEP, plateau pressure, auto-PEEP)
+
+Features of Acute Cor Pulmonale must be differentiated from Chronic Cor Pulmonale, which can be caused by all causes of chronic pulmonary hypertension. Note that in those cases, the right ventricle may be dilated, but is usually also thicker (consecutive to compensatory hypertrophy).
+
+## Ultrasound features of Acute Cor Pulmonale
+
+### Right ventricular dilatation
+
+The dilatation of the right ventricle is best identified by comparison of the diameter between left and right ventricle. The ratio between right and left diastolic diamaters (RV/LV ratio) is measured as:
+
+-   freezing the image at end-diastole, where the ventricular dimensions are the largest
+
+-   measure the maximal internal diameter of right and left ventricles, from inner edge to inner edge, at same level, perpendicular to the long axis, approximately one-third of the distance from the tricuspid annulus to the apex.
+
+-   Compute $\textrm{RV/LV}_{\textrm{ratio}} = \frac{\textrm{RV}_{\textrm{diameter}}}{\textrm{LV}_{\textrm{diameter}}}$
+
+The recommended thresholds are:
+
+-   A RV/LV \> 0.6 suggests a moderate RV dilatation
+
+-   A RV/LV \> 1 suggests a severe RV dilatation [@arrigo2024]
+
+![Dilated right ventricle with intracardiac thrombus.  From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/dilated-rv-with-thrombus.gif){fig-align="center"}
+
+### Right ventricular systolic dysfunction
+
+The systolic function of the right ventricle is usually estimated visually in emergency setting. Similar to the MAPSE, the Tricuspid Annular Plane Systolic Excursion (TAPSE) can be measured. Usual thresholds are [@altinsoy2025]:
+
+-   TAPSE \< 17 mm: normal
+
+-   TAPSE 15-16 mm: mild alteration
+
+-   TAPSE 13-14 mm: moderate alteration
+
+-   TAPSE \< 13 mm: severe alteration
+
+![TAPSE measurement. From [@mukherjee2025]](/images/heart/tapse.png){fig-align="center"}
+
+### Paradoxical Septal Wall Motion
+
+When the pressure increases in the right ventricle, the septum wall is pushed from the right ventricle towards the left ventricle, changing the shape of the right ventricle from a circle to a "D" shape.
+
+![Paradoxical septal wall motion.  From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/paradoxical-septal-wall-motion.gif){fig-align="center"}
+
+### Dilated Inferior Vena Cava
+
+A diameter of the VCI \> 21 mm measured in transversal view 2 cm below the supra-hepatic vein, or a respiratory variation of \< 50% suggests increased IVC pressure [@arrigo2024].
+
+### McConnell's Sign
+
+McConnell's sign is defined as a normal RV apical motion, while the motion of the median free wall of the right ventricle is impaired.
+
+![Mc Connell's sign.  From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/mcconnell.gif){fig-align="center"}
+
+## Synthesis
+
+![Acute Cor Pulmonale features. From [@arrigo2024].](/images/heart/acp-features.png){fig-align="center"}

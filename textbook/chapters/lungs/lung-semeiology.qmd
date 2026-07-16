@@ -1,0 +1,98 @@
+---
+title: "Lung Ultrasound Semeiology"
+format: html
+---
+
+In lung ultrasound, the strong reflection caused by water/air interfaces produces various artifacts, which are as essential as anatomical findings for exam interpretation.
+
+## A-lines
+
+A-lines appear as horizontal lines (perpendicular to the ultrasound beam), at regular intervals. They are caused by almost total reflection of the ultrasound pulses on the pleura (see Artifacts section for details).
+
+A-lines do not have neither pathological nor physiological meaning. They can be present or absent under any pathology, and should not be interpreted.
+
+![A-lines. From [thepocusatlas.org](www.thepocusatlas.org)](/images/lungs/a-lines.gif){fig-align="center" width="450"}
+
+## B-lines
+
+B-lines appear as vertical lines (aligned with the ultrasound beam). They are caused by small amounts of water right under the visceral pleura. Therefore:
+
+-   they indicate subpleural edema if 3 or more are present at one exam site
+-   they can be caused either by hydrostatic edema or inflammatory edema from pneumonia. Almost differential diagnosis between those two conditions cannot rely on ultrasound only, the following patterns are frequent:
+    -   hydrostatic edema results in symetric and declive B-lines pattern, with more B-lines on bottom than on top of lungs. They are frequently associated with pleural effusion.
+    -   pneumonia results in assymetric, focal B-lines pattern (although multifocal or diffuse pneumonia can cause B-lines at multiple sites). They may be associated with pleural effusion, although less frequent.
+-   in case of pneumothorax at the point of exam, B-lines can't be seen as the ultrasound pulses are reflected by the air contained in the pleural cavity. Therefore, **B-lines rule out pneumothorax**.
+
+![B-lines. From [thepocusatlas.org](www.thepocusatlas.org)](/images/lungs/b-lines.jpg){fig-align="center"}
+
+## Spine sign
+
+When examining the pleura recessus through the liver (on the right) or spleen (on the left), the thoracic spine is normally not visible as the ultrasound beam is reflected over the diaphragm, by the air contained in the lungs. In case of pleural effusion, the air is replaced by liquid, allowing transmission of the ultrasound beam to the spine, making it visible.
+
+Therefore, visualisation of the thoracic spine, named "spine sign", rules in pleural effusion.
+
+![Spine sign. From [thepocusatlas.org](www.thepocusatlas.org)](/images/lungs/spine-sign.gif){fig-align="center" width="450"}
+
+## Lung consolidation
+
+Lung consolidation manifests as "abnormally visible lung", i.e. visualisation of the lung parenchyma, which is normally invisible because of the air in it reflecting all ultrasounds. Visualisation of the lung parenchyma therefore suggests loss of lung aeration, making lung parenchyma visible.
+
+Lung consolidation can be caused by:
+
+-   atelectasia, secondary to infection or other causes
+-   passive consolidation caused by a pleural effusion
+
+![Lung consolidation with effusion (left) over the liver and diaphragm (right). From [thepocusatlas.org](www.thepocusatlas.org)](/images/lungs/lung-consolidation-effusion.gif){fig-align="center" width="450"}
+
+## Lung sliding
+
+In absence of pneumothorax, the parietal and visceral layers of the pleura are in contact, and the motion of the visceral pleura is visible. This is called the "lung sliding".
+
+In contrast, in presence of pneumothorax, the ultrasound beam is reflected by the air contained in the pleural cavity, before reaching the visceral pleura. The loss of lung sliding therefore suggests pneumothorax, although other causes exist (superficial ventilation, auto-PEEP, pleural adherence...).
+
+![Lung sliding present. From [thepocusatlas.org](www.thepocusatlas.org)](/images/lungs/lung-sliding.gif){fig-align="center" width="450"}
+
+![Lung sliding absent. From [thepocusatlas.org](www.thepocusatlas.org)](/images/lungs/lung-sliding-absent.gif){fig-align="center" width="450"}
+
+::: {.callout-important icon="false"}
+-   Presence of lung sliding rules out pneumothorax at the site of examination
+
+-   Absence of lung sliding does not rule in pneumothorax
+:::
+
+Note that as pleural air moves upwards, the search for lung sliding must be done on the highest point of the thorax (apical for seated patients, mid-thoracic for patients in complete decubitus).
+
+Some authors recommend the use of M-mode to improve visualisation of the lung sliding:
+
+-   Presence of lung sliding will show speckles on the infra-pleura space of the image, whereas the intercostal muscles (supra-pleural area) appear as horizontal lines. This is described as the "seashore sign"
+-   Absence of lung sliding will manifest as horizontal lignes at both supra-pleural and infra-pleural areas. This is described as the "barcode sign"
+
+![Left: lung sliding present, showing the "seashore sign". Right: lung sliding absent, showing the "barcode sign". From [thepocusatlas.org](www.thepocusatlas.org)](/images/lungs/lung-sliding-m-mode.gif){fig-align="center" width="450"}
+
+## Lung pulse
+
+The lung pulse is a variant of lung sliding where the heartbeat motion is transmitted to the visceral layer of the pleura. It has the same interpretation than the lung sliding.
+
+::: {.callout-important icon="false"}
+-   Presence of lung pulse rules out pneumothorax
+
+-   Absence of lung pulse does not rule in pneumothorax
+:::
+
+## Lung point
+
+The lung point is described as the transit of the point of separation between the visceral and parietal layers of the pleura under the ultrasound beam. This causes a dual image where:
+
+-   lung sliding is seen on the the side of the pleural window where the two layers are in contact ("before" the pneumothorax)
+
+-   lung sliding is absent on the the side of the pleural window where the two layers are separated ("after" the pneumothorax)
+
+Lung point is the only sign ruling in pneumothorax.
+
+::: {.callout-important icon="false"}
+-   Presence of lung point rules in pneumothorax
+
+-   Absence of lung point does not rule out pneumothorax
+:::
+
+![Lung point. From [thepocusatlas.org](www.thepocusatlas.org)](/images/lungs/lung-point.jpg){fig-align="center" width="450"}

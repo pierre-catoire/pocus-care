@@ -1,0 +1,97 @@
+---
+title: "Pericardial Effusion"
+format: html
+author: "Pierre Catoire"
+---
+
+## Identifying a Pericardial Effusion
+
+### Typical characteristics of pericardial effusion
+
+Pericardial effusion manifests as an **anechoic collection peripheral to the heart**. It can be:
+
+-   Circumferential
+-   or localised
+
+It can be observed in any heart view.
+
+::: panel-tabset
+## Parasternal Long Axis
+
+![Pericardial effusion, PLAX view. From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/effusion-plax.gif){fig-align="center"}
+
+## Parasternal Short Axis
+
+![Pericardial effusion, PSAX view. From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/effusion-psax.gif){fig-align="center"}
+
+## Apical Four Chambers
+
+![Pericardial effusion, A4C view. From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/effusion-a4c.gif){fig-align="center"}
+
+## Subcostal
+
+![Pericardial effusion, SX view. From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/effusion-sx.gif){fig-align="center"}
+:::
+
+### Differential diagnosis
+
+#### Epicardial fat pad
+
+Small effusions may be difficult to identify and distinguish from epicardial fat pad.
+
+| Feature | Pericardial effusion | Epicardial fat pad |
+|----|----|----|
+| Echogenicity | Anechoic or nearly anechoic | More echogenic, heterogeneous, often with internal speckes |
+| Movement | Fluid remains stationary while the heart moves with it | Moves synchronously with the myocardium |
+| Typical location | Circumferential or dependent; often posterior when small | Most commonly anterior, especially over the right ventricle |
+| Shape | Smooth fluid layer conforming to the pericardial space | Irregular or lobulated appearance |
+| Dynamic appearance | Maintains an echo-gree space throughout the cardiac cycle | Thickness and contour change as the myocardium contracts |
+
+: Differential diagnosis between pericardial effusion and epicardial fat pad.
+
+![Fat pad and pericardial effusion. From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/fat-pad.gif){fig-align="center"}
+
+#### Left pleural effusion
+
+Left pleural effusion can mimick a pericardial effusion. The best distinctive feature is the presence of fluid between the left atrium and the descending aorta, confirming the pericardial effusion. In pleural effusions, the fluid stays lateral to the descending aorta.
+
+![Pericardial effusion. Note the fluid between the left atrium and the descending aorta. From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/effusion-plax.gif){fig-align="center"}
+
+![Left pleural effusion. Note that the effusion does not fuse between the left atrium and the descending aorta. From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/false-effusion-lung.gif){fig-align="center"}
+
+## Importance and hemodynamic consequences
+
+Once a pericardial effusion has been identified, the assessment aims at:
+
+-   estimating the importance of the effusion
+-   evaluating the consequences on cardiac function
+
+### Importance of the effusion
+
+The importance of the effusion is measured in end of diastole. ESC 2025 guidelines classify pericardial effusion as:
+
+| Effusion size | Classification |
+|---------------|----------------|
+| \< 10 mm      | Mild           |
+| 10-20 mm      | Moderate       |
+| \> 20 mm      | Large          |
+
+: Pericardial effusion size classification. From [@schulz-menger2025].
+
+Importantly, the importance of the effusion is poorly related to the consequences on the heart: although effusions inferior to 10 mm are not considered as significant, mild or moderate effusions can cause tamponade whereas important effusions can be asymptomatic.
+
+::: callout-important
+**Volume of the effusion is poorly correlated with severity.**
+:::
+
+### Cardiac consequences
+
+The following signs suggest significant hemodynamic compromise, characteristic of tamponade:
+
+-   Right Atrium Diastolic Collapse (RADC)
+-   early Right Ventricular Diastolic Collapse (RVDC)
+-   IVC dilatation
+
+![Pericardial effusion with right atrium diastolic collapse (RADC) and right ventricle diastolic collapse (RVDC). From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/effusion-rvdc.gif){fig-align="center" width="450"}
+
+![Pericardial effusion with right ventricle diastolic collapse (RVDC). From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/effusion-rvdc-radc.gif){fig-align="center" width="450"}

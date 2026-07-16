@@ -1,0 +1,93 @@
+---
+title: "Probes"
+format: html
+---
+
+## Different types of probes
+
+Ultrasound probes vary depending on the intended use. In particular, two characteristics matters when choosing a probe:
+
+-   the shape of the probe surface
+-   the frequency range: although the frequency of the probe can vary, the size of the piezoelectric crystals in the probe impose a range of frequencies
+
+### Probe surface shape
+
+The shape of the probe surface influences the geometry of the scanned area:
+
+-   a curved surface will naturally emit ultrasounds in a fan-shaped examination area. Those probes are called **curvilinear**
+-   A wide flat surface typically produces a rectangular field of view and is characteristic of **linear** probes.
+
+### Array phasing
+
+In some contexts, a wide, fan-shaped scanning area is required but anatomical obstacles make the use of probes with wide contact surface difficult. This is the case for thoracic ultrasound (because of the ribs) or for transcranial ultrasound (because of the skull).
+
+However, it is possible to emit ultrasound in oblique directions from a flat surface by "bending" the emission direction. This relies on the arrray phasing principle. Here, a small, rectangular flat surface is used (called **sectorial**). Array phasing is used to obtain a fan-shaped scanning area, and therefore those probes are also sometimes called "phased array"[^probes-1].
+
+[^probes-1]: Note however that array phasing is not a characteristic of the probe itself, and that it may be used with linear or curvilinear probes as well.
+
+![Probes and scanning areas (AI generated)](/images/physics/probes.png){fig-align="center"}
+
+::: {.callout-note collapse="true"}
+## Advanced: Array phasing principle
+
+To emit an ultrasound pulse, the probe activates simultaneously an adjacent group of piezoelectric cells, called an **array**.
+
+However, by delaying the time of emission between the different cells of the array, the wavefront is deviated from the perpendicular axis. Using this effect is called "array phasing" and allows to emit in oblique directions from a flat surface.
+
+![Array phasing (AI generated)](/images/physics/phased-array.png)
+:::
+
+## Available probes
+
+To fit the different needs of medical uses, manufacturers have designed probes whose characteristics make them use in context adapted. Three main types of probes are available: linear, curvilinear and sectorial:
+
++---------------------+--------------------------------------------------------+---------------------------------+---------------------------------------+
+| Characteristic      | Linear                                                 | Curvilinear                     | Sectorial                             |
++:===================:+:======================================================:+:===============================:+:=====================================:+
+| Frequency range     | 5-15 MHz (up to 18-20 MHz for some probes)             | 2-5 MHz                         | 1-5 MHz                               |
++---------------------+--------------------------------------------------------+---------------------------------+---------------------------------------+
+| Typical depth       | 4-8 cm                                                 | 20-30 cm                        | 20-30 cm                              |
++---------------------+--------------------------------------------------------+---------------------------------+---------------------------------------+
+| Surface shape       | Flat                                                   | Curved                          | Flat                                  |
++---------------------+--------------------------------------------------------+---------------------------------+---------------------------------------+
+| Contact surface     | Large                                                  | Large                           | Small                                 |
++---------------------+--------------------------------------------------------+---------------------------------+---------------------------------------+
+| Scanning area shape | Rectangular                                            | Fan-shaped\                     | Fan-shaped\                           |
+|                     |                                                        | (because of the curved surface) | (because of the use of array phasing) |
++---------------------+--------------------------------------------------------+---------------------------------+---------------------------------------+
+| Uses                | Superficial exams (vessels, nerves, bones, pleura ...) | Abdomen\                        | Heart\                                |
+|                     |                                                        | Obstetrics                      | Lungs (deep exam)\                    |
+|                     |                                                        |                                 | Transcranial doppler                  |
++---------------------+--------------------------------------------------------+---------------------------------+---------------------------------------+
+
+: Characteristics and usage of probes
+
+## Which probe for which usage?
+
+When available, the probe the most suited should be chosen. However, in constrained settings not all the probes are always available. The following table summarises the relevance of each probe for each use:
+
+|              Usage               | Linear | Curvilinear | Sectorial |
+|:--------------------------------:|:------:|:-----------:|:---------:|
+|       Superficial vessels        |   ✓    |      ✗      |     ✗     |
+|    Deep vessels (aorta, ...)     |   ✗    |      ✓      |     ◐     |
+|        Superficial nerves        |   ✓    |      ✗      |     ✗     |
+|    Superficial foreign bodies    |   ✓    |      ✗      |     ✗     |
+|             Abdomen              |   ✗    |      ✓      |     ◐     |
+|              Heart               |   ◐    |      ✗      |     ✓     |
+|          Lungs (pleura)          |   ✓    |      ◐      |     ◐     |
+|        Lungs (parenchyma)        |   ◐    |      ◐      |     ✓     |
+| Lungs (costodiaphragmatic space) |   ✗    |      ✓      |     ✓     |
+|           Intracranial           |   ✗    |      ✗      |     ✓     |
+|      Skull (for fractures)       |   ✓    |      ✗      |     ✗     |
+
+: Probe uses. ✓: best choice. ◐: acceptable choice. ✗: not adapted/recommended.
+
+::: callout-warning
+## Key points
+
+-   The linear probe is used for examination of surface structures: skin, superficial bones, vessels, nerves ...
+
+-   The curvilinear probe is used for examination of deep structures without obstacles: abdomen, obstetrics ...
+
+-   The sectorial (or phased array) probe is used for examination of deep structures with obstacles: heart, brain ...
+:::
