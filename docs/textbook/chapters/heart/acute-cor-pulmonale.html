@@ -24,7 +24,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -113,7 +132,7 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../../index.html">
-    <span class="navbar-title">POCUS-CARE Textbook</span>
+    <span class="navbar-title">POCUS-CARE</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -123,18 +142,34 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../"> 
-<span class="menu-text">POCUS-CARE</span></a>
+    <a class="nav-link" href="../../../index.html"> <i class="bi bi-house-fill" role="img">
+</i> 
+<span class="menu-text">Course Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../training.qmd"> 
+<span class="menu-text">Training</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="../../index.html" aria-current="page"> 
+<span class="menu-text">Textbook</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../about.qmd"> 
+<span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../resources.qmd"> 
+<span class="menu-text">Resources</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../contact.qmd"> 
+<span class="menu-text">Contact</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="../../"> <i class="bi bi-house-fill" role="img">
-</i> 
-<span class="menu-text">Back to website</span></a>
-  </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com//"> <i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/pierre-catoire/pocus-care"> <i class="bi bi-github" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -178,7 +213,7 @@ window.Quarto = {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../chapters/physics/objectives.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Learning objectives</span></a>
+  <a href="../../chapters/physics/objectives.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Ultrasound Physics - Learning objectives</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -211,7 +246,7 @@ window.Quarto = {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false">
- <span class="menu-text">Setting, handling and orientation</span></a>
+ <span class="menu-text">Settings, orientation and manipulation</span></a>
           <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -219,7 +254,7 @@ window.Quarto = {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../chapters/orientation/objectives.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Learning Objectives</span></a>
+  <a href="../../chapters/orientation/objectives.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Settings, orientation and manipulation - Learning Objectives</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -255,7 +290,7 @@ window.Quarto = {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../chapters/abdomen/objectives.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Learning Objectives</span></a>
+  <a href="../../chapters/abdomen/objectives.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Abdomen - Learning Objectives</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -342,7 +377,7 @@ window.Quarto = {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../chapters/lungs/pathological-features.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Pathological features</span></a>
+  <a href="../../chapters/lungs/pathological-features.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Pathological features and algorithm</span></a>
   </div>
 </li>
       </ul>
@@ -358,7 +393,17 @@ window.Quarto = {
       <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../chapters/bones-soft-tissues/index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">index - Bones and soft tissues</span></a>
+  <a href="../../chapters/bones-soft-tissues/objectives.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Bones and Soft Tissues - Learning Objectives</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../chapters/bones-soft-tissues/foreign-bodies.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Foreign Bodies</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../chapters/bones-soft-tissues/bones.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Bone Fractures</span></a>
   </div>
 </li>
       </ul>
@@ -374,7 +419,22 @@ window.Quarto = {
       <ul id="quarto-sidebar-section-7" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../chapters/vascular/index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Index - Vessels and vascular procedures</span></a>
+  <a href="../../chapters/vascular/objectives.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Vessels and vascular procedures - Learning Objectives</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../chapters/vascular/identifying-vessels.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Identifying Vessels</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../chapters/vascular/venous-thrombosis.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Venous Thrombosis</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../chapters/vascular/ultrasound-guided-catheter-insertion.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Ultrasound-guided Catheter Insertion</span></a>
   </div>
 </li>
       </ul>
@@ -398,6 +458,7 @@ window.Quarto = {
   <li><a href="#mcconnells-sign" id="toc-mcconnells-sign" class="nav-link" data-scroll-target="#mcconnells-sign">McConnell’s Sign</a></li>
   </ul></li>
   <li><a href="#synthesis" id="toc-synthesis" class="nav-link" data-scroll-target="#synthesis">Synthesis</a></li>
+  <li><a href="../abdomen/fast-concept.html#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
   </ul>
 </nav>
     </div>
@@ -429,7 +490,7 @@ window.Quarto = {
 </header>
 
 
-<p>Acute Core Pulmonale (ACP) is defined as an acute alteration in the structure and function of the right ventricle (RV) of the heart caused by a primary disorder of the respiratory system, resulting in pulmonary hypertension <span class="citation" data-cites="garrison2023">(<a href="#ref-garrison2023" role="doc-biblioref"><strong>garrison2023?</strong></a>)</span>. Its first cause is massive pulmonary embolism (PE), although only massive PEs cause ACP.</p>
+<p>Acute Core Pulmonale (ACP) is defined as an acute alteration in the structure and function of the right ventricle (RV) of the heart caused by a primary disorder of the respiratory system, resulting in pulmonary hypertension <span class="citation" data-cites="garrison2023">(<a href="#ref-garrison2023" role="doc-biblioref">1</a>)</span>. Its first cause is massive pulmonary embolism (PE), although only massive PEs cause ACP.</p>
 <div class="callout callout-style-default callout-caution callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -467,7 +528,7 @@ window.Quarto = {
 <p>The recommended thresholds are:</p>
 <ul>
 <li><p>A RV/LV &gt; 0.6 suggests a moderate RV dilatation</p></li>
-<li><p>A RV/LV &gt; 1 suggests a severe RV dilatation <span class="citation" data-cites="arrigo2024">(<a href="#ref-arrigo2024" role="doc-biblioref"><strong>arrigo2024?</strong></a>)</span></p></li>
+<li><p>A RV/LV &gt; 1 suggests a severe RV dilatation <span class="citation" data-cites="arrigo2024">(<a href="#ref-arrigo2024" role="doc-biblioref">2</a>)</span></p></li>
 </ul>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
@@ -478,7 +539,7 @@ window.Quarto = {
 </section>
 <section id="right-ventricular-systolic-dysfunction" class="level3">
 <h3 class="anchored" data-anchor-id="right-ventricular-systolic-dysfunction">Right ventricular systolic dysfunction</h3>
-<p>The systolic function of the right ventricle is usually estimated visually in emergency setting. Similar to the MAPSE, the Tricuspid Annular Plane Systolic Excursion (TAPSE) can be measured. Usual thresholds are <span class="citation" data-cites="altinsoy2025">(<a href="#ref-altinsoy2025" role="doc-biblioref"><strong>altinsoy2025?</strong></a>)</span>:</p>
+<p>The systolic function of the right ventricle is usually estimated visually in emergency setting. Similar to the MAPSE, the Tricuspid Annular Plane Systolic Excursion (TAPSE) can be measured. Usual thresholds are <span class="citation" data-cites="altinsoy2025">(<a href="#ref-altinsoy2025" role="doc-biblioref">3</a>)</span>:</p>
 <ul>
 <li><p>TAPSE &lt; 17 mm: normal</p></li>
 <li><p>TAPSE 15-16 mm: mild alteration</p></li>
@@ -488,7 +549,7 @@ window.Quarto = {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="../..\images/heart/tapse.png" class="img-fluid figure-img"></p>
-<figcaption>TAPSE measurement. From <span class="citation" data-cites="mukherjee2025">(<a href="#ref-mukherjee2025" role="doc-biblioref"><strong>mukherjee2025?</strong></a>)</span></figcaption>
+<figcaption>TAPSE measurement. From <span class="citation" data-cites="mukherjee2025">(<a href="#ref-mukherjee2025" role="doc-biblioref">4</a>)</span></figcaption>
 </figure>
 </div>
 </section>
@@ -504,7 +565,7 @@ window.Quarto = {
 </section>
 <section id="dilated-inferior-vena-cava" class="level3">
 <h3 class="anchored" data-anchor-id="dilated-inferior-vena-cava">Dilated Inferior Vena Cava</h3>
-<p>A diameter of the VCI &gt; 21 mm measured in transversal view 2 cm below the supra-hepatic vein, or a respiratory variation of &lt; 50% suggests increased IVC pressure <span class="citation" data-cites="arrigo2024">(<a href="#ref-arrigo2024" role="doc-biblioref"><strong>arrigo2024?</strong></a>)</span>.</p>
+<p>A diameter of the VCI &gt; 21 mm measured in transversal view 2 cm below the supra-hepatic vein, or a respiratory variation of &lt; 50% suggests increased IVC pressure <span class="citation" data-cites="arrigo2024">(<a href="#ref-arrigo2024" role="doc-biblioref">2</a>)</span>.</p>
 </section>
 <section id="mcconnells-sign" class="level3">
 <h3 class="anchored" data-anchor-id="mcconnells-sign">McConnell’s Sign</h3>
@@ -522,11 +583,28 @@ window.Quarto = {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="../..\images/heart/acp-features.png" class="img-fluid figure-img"></p>
-<figcaption>Acute Cor Pulmonale features. From <span class="citation" data-cites="arrigo2024">(<a href="#ref-arrigo2024" role="doc-biblioref"><strong>arrigo2024?</strong></a>)</span>.</figcaption>
+<figcaption>Acute Cor Pulmonale features. From <span class="citation" data-cites="arrigo2024">(<a href="#ref-arrigo2024" role="doc-biblioref">2</a>)</span>.</figcaption>
 </figure>
 </div>
+</section>
+<section id="references" class="level2">
+<h2 class="anchored" data-anchor-id="references">References</h2>
 
 
+<div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-garrison2023" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Garrison D, Pendela V, Memon J. Core pulmonale. In: <span>StatPearls</span>. 2023.</div>
+</div>
+<div id="ref-arrigo2024" class="csl-entry" role="listitem">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Arrigo M, Price S, Harjola VP, Huber LC, Schaubroeck HAI, Vieillard-Baron A, et al. Diagnosis and treatment of right ventricular failure secondary to acutely increased right ventricular afterload (acute <span><em>cor pulmonale</em></span> ): A clinical consensus statement of the association for acute CardioVascular care of the european society of cardiology. European Heart Journal: Acute Cardiovascular Care. 2024 Mar 11;13(3):304–12. doi:<a href="https://doi.org/10.1093/ehjacc/zuad157">10.1093/ehjacc/zuad157</a></div>
+</div>
+<div id="ref-altinsoy2025" class="csl-entry" role="listitem">
+<div class="csl-left-margin">3. </div><div class="csl-right-inline">Altınsoy KE. Validation of the PEACE score for predicting abnormal echocardiographic findings in pulmonary embolism patients. BMC Emergency Medicine. 2025 Jun 7;25(1):96. doi:<a href="https://doi.org/10.1186/s12873-025-01259-z">10.1186/s12873-025-01259-z</a></div>
+</div>
+<div id="ref-mukherjee2025" class="csl-entry" role="listitem">
+<div class="csl-left-margin">4. </div><div class="csl-right-inline">Mukherjee M, Rudski LG, Addetia K, Afilalo J, D’Alto M, Freed BH, et al. Guidelines for the echocardiographic assessment of the right heart in adults and special considerations in pulmonary hypertension: Recommendations from the american society of echocardiography. Journal of the American Society of Echocardiography. 2025 Mar;38(3):141–86. doi:<a href="https://doi.org/10.1016/j.echo.2025.01.006">10.1016/j.echo.2025.01.006</a></div>
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->

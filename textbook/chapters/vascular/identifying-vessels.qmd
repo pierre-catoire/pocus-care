@@ -1,0 +1,51 @@
+---
+title: "Identifying Vessels"
+format: html
+---
+
+Arteries and veins may be difficult to differentiate. 
+
+## Why not use only doppler?
+
+Doppler colour imaging relies on the **speed** and **direction** of the blood flow:
+
+- blood flow moving towards the ultrasound beam appears **red**
+- blood flow moving away from the ultrasound beam appears **blue**
+
+Therefore, changing the probe orientation or angle may reverse the colours. Also, in certain pathological states, the blood flow may be reversed. Therefore, colour doppler should not be considered alone for differentiation between arteries and veins. 
+
+## Comparative features of arteries and veins
+
+::: {.columns}
+
+::: {.column width="50%"}
+### Arteries
+
+- Strong pulsatility
+- Circular
+- Strong resistance to compression
+- Smaller than the corresponding vein (if unique)
+:::
+
+::: {.column width="50%"}
+### Veins
+
+- Absent or weak pulsatility
+- Ovoid
+- Poor resistance to compression
+- Larger than the corresponding artery (if unique)
+:::
+
+:::
+
+Pitfalls:
+
+- distal arteries may be compressible, especially in case of hypotension
+- thrombosed veins are not compressible
+
+## The "progressive compression" maneuver
+
+The easiest method to differentiates between arteries and veins is to progressively compress the vessel:
+
+- an artery will increase its pulsatility and be completely compressed only with strong pressure
+- a vein will not increase its pulsatility and will be easier to fully compress

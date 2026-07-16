@@ -1,0 +1,68 @@
+---
+title: "Ultrasound-guided Catheter Insertion"
+format: html
+---
+
+## Available methods
+
+Three methods are available for ultrasound-guided catheter insertion.
+
++-----------------------------+------------------------------------------------------+---------------------------------------------------------------------------------------+---------------------------------------------+
+| Feature                     | In-plane                                             | Out-of-plane                                                                          | Oblique ("in-out")                          |
++:===========================:+:====================================================:+:=====================================================================================:+:===========================================:+
+| Visualisation of the vessel | Longitudinal                                         | Transversal, perpendicular                                                            | Transversal, oblique                        |
++-----------------------------+------------------------------------------------------+---------------------------------------------------------------------------------------+---------------------------------------------+
+| Visualisation of the needle | Longitudinal                                         | Transversal, perpendicular                                                            | Longitudinal                                |
++-----------------------------+------------------------------------------------------+---------------------------------------------------------------------------------------+---------------------------------------------+
+| Pros                        | Complete visualisation of both the vessel and needle | More robust to small changes of angle\                                                | More robust to small changes of angle       |
+|                             |                                                      | Possible for superficial vessels                                                      |                                             |
++-----------------------------+------------------------------------------------------+---------------------------------------------------------------------------------------+---------------------------------------------+
+| Cons                        | Requires some space to visualise the needle\         | Only the point of intersection between the needle and the ultrasound plane is visible | Requires some space to visualise the needle |
+|                             | Very sensitive to small changes of angle\            |                                                                                       |                                             |
+|                             | Impossible for curved vessels                        |                                                                                       |                                             |
++-----------------------------+------------------------------------------------------+---------------------------------------------------------------------------------------+---------------------------------------------+
+
+: Ultrasound-guided catheter insertion methods
+
+### In-plane method
+
+The in-plane method consists of visualising both the vessel and the needle in transversal view. This approach is the most precise but is also very challenging as the needle needs to be perfectly aligned with the vessels, and any slight change of angle of the ultrasound plane causes loss of visualisation of the needle and/or the vessel. Also, if the vessel is curved, the complete visualisation of the vessel is impossible.
+
+![In-plane utlrasound-guided vascular puncture. AI-generated.](/images/vascular/in-plane.png){fig-align="center" width="450"}
+
+### Out-of-plane method
+
+The out-of-plane methods consists of visualising both the vessel and the needle in transversal view. The needle is visualised as a dot. To guide the needle, two movements are repeated:
+
+1.  the needle is pushed deeper until it reaches the ultrasound plane and appears on the screen
+2.  the ultrasound plane is moved away from the probe with a short-axis sliding motion, until the needle is not visualised
+
+Step by step, the needle is guided in the vessel. Pushing the needle without moving the ultrasound plane does not visualise the entry of the needle in the vessel and may risk perforation.
+
+![Out-of-plane utlrasound-guided vascular puncture. AI-generated.](/images/vascular/out-of-plane.png){fig-align="center" width="450"}
+
+### Oblique method
+
+A compromise between in-plane and out-of-plane methods is the oblique method. Here, the needle approaches the vessel in an oblique angle (15-30°). The ultrasound plane is transversal to the needle, and the vessel appears in an oblique transversal view. Therefore, the view is:
+
+-   in-plane for the needle, enabling full visualisation and not risking perforation
+
+-   out-of-plane for the vessel, making the alignment of the ultrasound plane easier
+
+## Which method for which use?
+
+| Procedure | In-plane | Out-of-plane | Oblique |
+|:--:|:--:|:--:|:--:|
+| Subclavian venous central line[^ultrasound-guided-catheter-insertion-1] | ✔︎ | ✘ | ✘ |
+| Jugular venous central line | ✘ | ◐ | ✔︎ |
+| Femoral venous or arterial line | ◐ | ✔︎ | ✔︎ |
+| Peripheral venous catheter[^ultrasound-guided-catheter-insertion-2] | ✘ | ✔︎ | ✘ |
+| Arterial peripheral catheter or arterial blood gas[^ultrasound-guided-catheter-insertion-3] | ✘ | ✔︎ | ✘ |
+
+: Choice of method for ultrasound-guided catheter insertion. ✔︎: preferred. ◐: possible. ✘: not recommended.
+
+[^ultrasound-guided-catheter-insertion-1]: The position of the subclavian vein and the prominence of the clavicula make impossible the use of out-of-plane and oblique approaches.
+
+[^ultrasound-guided-catheter-insertion-2]: The needle is too superficial in extrimities to be visualised in transversal plane.
+
+[^ultrasound-guided-catheter-insertion-3]: idem.

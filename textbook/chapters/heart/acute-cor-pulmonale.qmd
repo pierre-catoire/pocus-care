@@ -79,3 +79,5 @@ McConnell's sign is defined as a normal RV apical motion, while the motion of th
 ## Synthesis
 
 ![Acute Cor Pulmonale features. From [@arrigo2024].](/images/heart/acp-features.png){fig-align="center"}
+
+## References

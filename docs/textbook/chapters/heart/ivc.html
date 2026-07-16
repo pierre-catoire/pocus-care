@@ -24,7 +24,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -84,7 +103,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../../index.html">
-    <span class="navbar-title">POCUS-CARE Textbook</span>
+    <span class="navbar-title">POCUS-CARE</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -94,18 +113,34 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../"> 
-<span class="menu-text">POCUS-CARE</span></a>
+    <a class="nav-link" href="../../../index.html"> <i class="bi bi-house-fill" role="img">
+</i> 
+<span class="menu-text">Course Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../training.qmd"> 
+<span class="menu-text">Training</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="../../index.html" aria-current="page"> 
+<span class="menu-text">Textbook</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../about.qmd"> 
+<span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../resources.qmd"> 
+<span class="menu-text">Resources</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../contact.qmd"> 
+<span class="menu-text">Contact</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="../../"> <i class="bi bi-house-fill" role="img">
-</i> 
-<span class="menu-text">Back to website</span></a>
-  </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com//"> <i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/pierre-catoire/pocus-care"> <i class="bi bi-github" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -149,7 +184,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../chapters/physics/objectives.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Learning objectives</span></a>
+  <a href="../../chapters/physics/objectives.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Ultrasound Physics - Learning objectives</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -182,7 +217,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false">
- <span class="menu-text">Setting, handling and orientation</span></a>
+ <span class="menu-text">Settings, orientation and manipulation</span></a>
           <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -190,7 +225,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../chapters/orientation/objectives.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Learning Objectives</span></a>
+  <a href="../../chapters/orientation/objectives.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Settings, orientation and manipulation - Learning Objectives</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -226,7 +261,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../chapters/abdomen/objectives.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Learning Objectives</span></a>
+  <a href="../../chapters/abdomen/objectives.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Abdomen - Learning Objectives</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -313,7 +348,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../chapters/lungs/pathological-features.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Pathological features</span></a>
+  <a href="../../chapters/lungs/pathological-features.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Pathological features and algorithm</span></a>
   </div>
 </li>
       </ul>
@@ -329,7 +364,17 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../chapters/bones-soft-tissues/index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">index - Bones and soft tissues</span></a>
+  <a href="../../chapters/bones-soft-tissues/objectives.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Bones and Soft Tissues - Learning Objectives</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../chapters/bones-soft-tissues/foreign-bodies.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Foreign Bodies</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../chapters/bones-soft-tissues/bones.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Bone Fractures</span></a>
   </div>
 </li>
       </ul>
@@ -345,7 +390,22 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-7" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../chapters/vascular/index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Index - Vessels and vascular procedures</span></a>
+  <a href="../../chapters/vascular/objectives.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Vessels and vascular procedures - Learning Objectives</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../chapters/vascular/identifying-vessels.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Identifying Vessels</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../chapters/vascular/venous-thrombosis.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Venous Thrombosis</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../chapters/vascular/ultrasound-guided-catheter-insertion.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Ultrasound-guided Catheter Insertion</span></a>
   </div>
 </li>
       </ul>
@@ -366,6 +426,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#pitfalls" id="toc-pitfalls" class="nav-link" data-scroll-target="#pitfalls">Pitfalls</a></li>
   </ul></li>
   <li><a href="#how-does-ivc-relate-to-fluid-responsiveness" id="toc-how-does-ivc-relate-to-fluid-responsiveness" class="nav-link" data-scroll-target="#how-does-ivc-relate-to-fluid-responsiveness">How does IVC relate to fluid responsiveness?</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
   </ul>
 </nav>
     </div>
@@ -401,7 +462,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="measure-of-inferior-vena-cava-diameter-and-collapsibility">Measure of Inferior Vena Cava Diameter and Collapsibility</h2>
 <section id="recommended-measure-method" class="level3">
 <h3 class="anchored" data-anchor-id="recommended-measure-method">Recommended measure method</h3>
-<p>Inferior Vena Cava (IVC) diameter is a reflect of the cardiac filling pressures. It is recommended in the guidelines to measure the IVC diameter <span class="citation" data-cites="mukherjee2025">(<a href="#ref-mukherjee2025" role="doc-biblioref"><strong>mukherjee2025?</strong></a>)</span>:</p>
+<p>Inferior Vena Cava (IVC) diameter is a reflect of the cardiac filling pressures. It is recommended in the guidelines to measure the IVC diameter <span class="citation" data-cites="mukherjee2025">(<a href="#ref-mukherjee2025" role="doc-biblioref">1</a>)</span>:</p>
 <ul>
 <li>In transversal view, inner diameter</li>
 <li>1–2 cm distal (caudal) to the junction of the hepatic veins with the IVC</li>
@@ -441,9 +502,26 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="how-does-ivc-relate-to-fluid-responsiveness" class="level2">
 <h2 class="anchored" data-anchor-id="how-does-ivc-relate-to-fluid-responsiveness">How does IVC relate to fluid responsiveness?</h2>
-<p>Interpretation of the IVC to diagnose hypervolemia is mostly consensual. More controversial is its reliability to predict fluid responsiveness. Indeed, <strong>IVC diameter and respiratory variation is not considered a reliable stand-alone predictor of fluid responsiveness</strong> <span class="citation" data-cites="orso2020">(<a href="#ref-orso2020" role="doc-biblioref"><strong>orso2020?</strong></a>)</span>, <span class="citation" data-cites="kim2021">(<a href="#ref-kim2021" role="doc-biblioref"><strong>kim2021?</strong></a>)</span>, especially in spontaneously breathing patients <span class="citation" data-cites="cardozojúnior2023">(<a href="#ref-cardozojúnior2023" role="doc-biblioref"><strong>cardozojúnior2023?</strong></a>)</span>.</p>
+<p>Interpretation of the IVC to diagnose hypervolemia is mostly consensual. More controversial is its reliability to predict fluid responsiveness. Indeed, <strong>IVC diameter and respiratory variation is not considered a reliable stand-alone predictor of fluid responsiveness</strong> <span class="citation" data-cites="orso2020">(<a href="#ref-orso2020" role="doc-biblioref">2</a>)</span>, <span class="citation" data-cites="kim2021">(<a href="#ref-kim2021" role="doc-biblioref">3</a>)</span>, especially in spontaneously breathing patients <span class="citation" data-cites="cardozojúnior2023">(<a href="#ref-cardozojúnior2023" role="doc-biblioref">4</a>)</span>.</p>
+</section>
+<section id="references" class="level2">
+<h2 class="anchored" data-anchor-id="references">References</h2>
 
 
+<div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-mukherjee2025" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Mukherjee M, Rudski LG, Addetia K, Afilalo J, D’Alto M, Freed BH, et al. Guidelines for the echocardiographic assessment of the right heart in adults and special considerations in pulmonary hypertension: Recommendations from the american society of echocardiography. Journal of the American Society of Echocardiography. 2025 Mar;38(3):141–86. doi:<a href="https://doi.org/10.1016/j.echo.2025.01.006">10.1016/j.echo.2025.01.006</a></div>
+</div>
+<div id="ref-orso2020" class="csl-entry" role="listitem">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Orso D, Paoli I, Piani T, Cilenti FL, Cristiani L, Guglielmo N. Accuracy of ultrasonographic measurements of inferior vena cava to determine fluid responsiveness: A systematic review and meta-analysis. Journal of Intensive Care Medicine. 2020 Apr;35(4):354–63. doi:<a href="https://doi.org/10.1177/0885066617752308">10.1177/0885066617752308</a></div>
+</div>
+<div id="ref-kim2021" class="csl-entry" role="listitem">
+<div class="csl-left-margin">3. </div><div class="csl-right-inline">Kim DW, Chung S, Kang WS, Kim J. Diagnostic accuracy of ultrasonographic respiratory variation in the inferior vena cava, subclavian vein, internal jugular vein, and femoral vein diameter to predict fluid responsiveness: A systematic review and meta-analysis. Diagnostics. 2021 Dec 27;12(1):49. doi:<a href="https://doi.org/10.3390/diagnostics12010049">10.3390/diagnostics12010049</a></div>
+</div>
+<div id="ref-cardozojúnior2023" class="csl-entry" role="listitem">
+<div class="csl-left-margin">4. </div><div class="csl-right-inline">Cardozo Júnior LCM, Lemos GSD, Besen BAMP. Fluid responsiveness assessment using inferior vena cava collapsibility among spontaneously breathing patients: Systematic review and meta-analysis. Medicina Intensiva (English Edition). 2023 Feb;47(2):90–8. doi:<a href="https://doi.org/10.1016/j.medine.2021.12.018">10.1016/j.medine.2021.12.018</a></div>
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->

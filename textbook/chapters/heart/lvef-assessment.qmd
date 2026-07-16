@@ -106,3 +106,5 @@ Usual thresholds are:
 | MAPSE | \> 10 mm | 8-10 mm | \< 8 mm (6 mm for some authors) |
 
 : Semi-quantitative multimodal assessment of the LVEF
+
+## References

@@ -1,10 +1,12 @@
 ---
-title: "Pathological features"
+title: "Pathological features and algorithm"
 format: html
 ---
 
+## Pathological features
+
 | Ultrasound finding | Pneumothorax | Pleural effusion | Pulmonary edema | Pneumonia |
-|:---|:--:|:--:|:--:|:--:|
+|:--------------|:-------------:|:-------------:|:-------------:|:-------------:|
 | A-lines | — | — | — | — |
 | B-lines[^pathological-features-1] | ⊘ | — | \+ | \+ |
 | Lung sliding | ⊘ | — | — | — |
@@ -19,3 +21,45 @@ format: html
 [^pathological-features-1]: B-lines in pulmonary edema are usually approximately symetric and declive, whether assymetric focal in pneumonia.
 
 [^pathological-features-2]: Pleural effusion is more frequent in pulmonary edema than in pneumonia, and is usually approximately symetrical in pulmonary edema, and assymetrical in pneumonia.
+
+## Algorithm
+
+This original algorithm is an adaptation from previously published versions, notably @lichtenstein2008 and @demi2023.
+
+
+```{mermaid}
+%%{init: {"flowchart": {"curve": "bumpY"}} }%%
+
+flowchart TD
+
+A(Acute dyspnea) --> B(["Lung sliding? <br/> Lung pulse? <br/> B-lines?"])
+
+B -->|Any| C[Pneumothorax excluded]
+
+B -->|None| D([Lung point?])
+
+D --> |No| E["Pneumothorax likely <br/> confirm with CXR/CT"]
+
+D --> |Yes| F[Pneumothorax confirmed]
+
+C --> G(["B-lines? <br/> Effusion? <br/> Condensation?"])
+
+G --> |No| H["Normal pattern: <br/> Normal, PE, asthma, COPD"]
+
+G --> |Yes| I["Compare patterns for: <br/> Pneumonia, <br/> cardiogenic edema, <br/> isolated effusion"]
+
+I --> J(["Consider cardiac US for <br/> evaluation of cardiogenic component"])
+
+classDef state fill:#F3F4F6,stroke:#9CA3AF,color:#4B5563,stroke-width:1px;
+classDef action fill:#E8F1FF,stroke:#4A90E2,color:#1E3A8A,stroke-width:1px;
+classDef test fill:#FFF3E0,stroke:#E69500,color:#9A5A00,stroke-width:1px;
+classDef decision fill:#FFF9D9,stroke:#D4A017,color:#7A5C00,stroke-width:1px;
+classDef outcome fill:#EAF4FF,stroke:#5B8DEF,color:#1E40AF,stroke-width:1px;
+
+class A,C state;
+class B,D,G,J test;
+class E,F,H,I outcome;
+```
+
+
+## References

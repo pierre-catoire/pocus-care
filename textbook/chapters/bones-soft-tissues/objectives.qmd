@@ -1,0 +1,14 @@
+---
+title: "Bones and Soft Tissues - Learning Objectives"
+format: html
+---
+::: {.callout-tip icon="false"}
+
+## Learning objectives
+
+After completing this chapter, learners will be able to:
+
+- Identify and localise foreign bodies in soft tissues
+- Identify long-bones diaphyseal fractures
+
+:::

@@ -1,0 +1,120 @@
+---
+title: "Foreign Bodies"
+format: html
+---
+
+## Echogenecity of foreign bodies
+
+As opposite with X-rays where many materials are radiotransparent, almost all foreign bodies are echogenic:
+
+## Image acquisition
+
+The vast majority of foreign bodies are superficial, and better visualised with **linear, high-frequency probes**.
+
+Superficial foreign bodies may be very superficial and image quality can be improved by using:
+
+-   A thick layer of gel
+-   A stand-off pad (e.g. fluid bag)
+-   A water bath technique
+
+![Water bag technique. From [ACEP Sonoguide](https://www.acep.org/sonoguide)](/images/bones-soft-tissues/water-bag.jpg){fig-align="center" width="450"}
+
+![Water bath technique. From [ACEP Sonoguide](https://www.acep.org/sonoguide)](/images/bones-soft-tissues/water-bath.gif){fig-align="center" width="450"}
+
+## Typical foreign body appearance
+
+Most foreign bodies appear as:
+
+-   Bright (hyperechoic) structures
+-   Well-defined margins
+-   Posterior acoustic artifacts
+
+The exact appearance depends on the material.
+
+### Metallic foreign bodies
+
+Metal produces:
+
+-   Intense hyperechogenicity
+-   Clean posterior acoustic shadow
+-   Reverberation artifacts
+-   Comet-tail artifact
+
+![Metallic foreign body (broken needle). From [The POCUS Atlas](www.thepocusatlas.com)](/images/bones-soft-tissues/foreign-body-metal-broken-needle.gif){fig-align="center" width="450"}
+
+### Glass
+
+Glass is highly reflective and usually demonstrates:
+
+-   Bright echogenic margins
+-   Posterior acoustic shadowing
+-   Reverberation artifact
+
+Small fragments may generate less prominent shadows.
+
+![Glass foreign body. From [The POCUS Atlas](www.thepocusatlas.com)](/images/bones-soft-tissues/foreign-body-glass-1.gif){fig-align="center" width="450"}
+
+![Glass foreign body. From [The POCUS Atlas](www.thepocusatlas.com)](/images/bones-soft-tissues/foreign-body-glass-2.gif){fig-align="center" width="450"}
+
+### Wood
+
+Wood is often more difficult to identify.
+
+Typical findings include:
+
+-   Linear hyperechoic structure
+-   Variable posterior shadowing
+-   Progressive surrounding hypoechoic halo caused by inflammation
+
+The inflammatory halo becomes more evident after 24–48 hours.
+
+![Wood foreign body. From [The POCUS Atlas](www.thepocusatlas.com)](/images/bones-soft-tissues/foreign-body-wood-1.gif){fig-align="center" width="450"}
+
+![Wood foreign body. From [The POCUS Atlas](www.thepocusatlas.com)](/images/bones-soft-tissues/foreign-body-wood-3.gif){fig-align="center" width="450"}
+
+![Almost iso-echogenic wood foreign body. From [The POCUS Atlas](www.thepocusatlas.com)](/images/bones-soft-tissues/foreign-body-wood-bamboo.gif){fig-align="center" width="450"}
+
+### Plastic
+
+Plastic usually appears as:
+
+-   Hyperechoic linear structure
+-   Variable acoustic shadowing
+-   Less conspicuous artifacts than metal
+
+Visualization depends on composition.
+
+## Secondary sonographic signs
+
+Secondary findings often help identify subtle foreign bodies.
+
+### Hypoechoic halo
+
+A hypoechoic rim surrounding the object represents inflammatory edema or granulation tissue.
+
+This sign becomes increasingly apparent with time and improves detection of radiolucent foreign bodies.
+
+![Wood foreign body. From [The POCUS Atlas](www.thepocusatlas.com)](/images/bones-soft-tissues/foreign-body-wood-2.gif){fig-align="center" width="450"}
+
+### Abscess
+
+Retained foreign bodies commonly lead to abscess formation.
+
+Look for:
+
+-   Hypoechoic or complex fluid collection
+-   Posterior acoustic enhancement
+-   Internal debris
+-   Hyperemia on color Doppler
+
+![Subcutaneous abcess. From [The POCUS Atlas](www.thepocusatlas.com)](/images/bones-soft-tissues/abcess.gif){fig-align="center" width="450"}
+
+### Soft tissue edema
+
+Diffuse edema appears as:
+
+-   Thickened subcutaneous tissues
+-   Increased echogenicity of fat
+-   Cobblestone appearance
+
+![Soft tissue edema. From [The POCUS Atlas](www.thepocusatlas.com)](/images/bones-soft-tissues/soft-tissue-edema.gif){fig-align="center" width="450"}

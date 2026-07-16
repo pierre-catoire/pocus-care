@@ -1,0 +1,66 @@
+---
+title: "Bone Fractures"
+format: html
+---
+
+Although plain X-rays remain largely the first intention imaging technique for many suspicions of fractures, evidence supporting benefit of ultrasound as an adjunct has increased in recent years. Literature shows that ultrasound is highly predictive for diaphysal fractures of superficial long or flat bones including:
+
+-   extremities (clavicle, humerus, radius, ulna, metacarps, phalanx, femur, tibia, fibula, metatars) @douma-denhamer2016 @joshi2013
+
+-   ribs and sternum, where ultrasound obtains better sensitivity and specificity @vassalou2024
+
+-   Pediatric extremities @snelling2023 and skull @alexandridis2022 fractures
+
+## Image acquisition
+
+A high-frequency linear probe is preferred for superficial bone examination. The probe may be placed by the examiner or by the patient on the point of most pane. The bone is first scanned transversally, then longitudinally.
+
+## Normal sonographic appearance of bones
+
+Bones appear as:
+
+-   a bright, hyperechogenic cortical line
+
+-   Complete posterior acoustic shadowing (eventually A-lines or mirror artifacts)
+
+-   In absence of fracture, the cortical surface appears as continuous, with a smooth contour
+
+![Normal phalanx (longitudinal). From [The POCUS Atlas](www.thepocusatlas.com)](/images/bones-soft-tissues/normal-phalanx-longitudinal.gif){fig-align="center" width="450"}
+
+## Sonographic signs of fracture
+
+### Primary signs
+
+The diagnosis of bone fracture is primarily based on visualisation of cortical disruption.
+
+Typical findings include:
+
+-   interruption or "step-off" of the cortical line
+
+-   angulation of the cortical line
+
+-   displaced bone fragments
+
+-   Buckle fracture
+
+![Humerus fracture (transversal). From [The POCUS Atlas](www.thepocusatlas.com)](/images/bones-soft-tissues/humerus-fracture-transversal.gif){fig-align="center" width="450"}
+
+![Humerus fracture (longitnudinal). From [The POCUS Atlas](www.thepocusatlas.com)](/images/bones-soft-tissues/humerus-fracture-longitudinal.gif){fig-align="center" width="450"}
+
+![Buckle fracture. From [The POCUS Atlas](www.thepocusatlas.com)](/images/bones-soft-tissues/radius-buckle-fracture.gif){fig-align="center" width="450"}
+
+![Parietal skull fracture. From [The POCUS Atlas](www.thepocusatlas.com)](/images/bones-soft-tissues/parietal-skull-fracture.gif){fig-align="center" width="450"}
+
+### Secondary signs
+
+-   Periosteal elevation
+
+-   Surrounding hematoma
+
+-   Soft tissue edema
+
+-   localised tenderness
+
+![Skull fracture with hematoma. From [The POCUS Atlas](www.thepocusatlas.com)](/images/bones-soft-tissues/skull-fracture-with-hematoma.gif){fig-align="center" width="450"}
+
+## References

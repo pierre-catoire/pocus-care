@@ -1,0 +1,16 @@
+---
+title: "Vessels and vascular procedures - Learning Objectives"
+format: html
+---
+
+::: {.callout-tip icon="false"}
+
+## Learning objectives
+
+After completing this chapter, learners will be able to:
+
+- Identify and localise arteries and veins
+- Identify deep vein thrombosis
+- Guide catheter insertion in vessels using in-plane, out-of-plane and oblique approaches
+
+:::

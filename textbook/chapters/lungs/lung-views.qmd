@@ -43,6 +43,6 @@ Pleural recessus are visualised by placing the probe laterally, near the costal 
 
 The antero-inferior portion of the lung may interpose in front of the probe during inspiration, hiding the structures beneath it. This is described as the "curtain sign".
 
-![Normal ultrasound view of the right pleural recessus, with curtain sign in inspiration. From thepocusatlas.org](/images/lungs/pleural-recessus.gif){fig-align="center" width="450"}
+![Normal ultrasound view of the right pleural recessus, with curtain sign in inspiration. From [thepocusatlas.org](www.thepocusatlas.org)](/images/lungs/pleural-recessus.gif){fig-align="center" width="450"}
 
 ## References

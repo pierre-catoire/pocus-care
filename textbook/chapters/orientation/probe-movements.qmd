@@ -7,7 +7,7 @@ Obtaining a high-quality ultrasound image requires continuous adjustment of the 
 
 Each ultrasound image represents a two-dimensional **imaging plane** through the body. Probe movements either preserve this imaging plane while changing the viewing angle, move it to a neighbouring anatomical section, or rotate it.
 
-Six fundamental probe movements are commonly used (Figure XX).
+Six fundamental probe movements are commonly used.
 
 | Movement | Description | Effect on the imaging plane |
 |------------------|------------------|-------------------------------------|

@@ -35,3 +35,5 @@ Current recommended thresholds are:
 ## How does IVC relate to fluid responsiveness?
 
 Interpretation of the IVC to diagnose hypervolemia is mostly consensual. More controversial is its reliability to predict fluid responsiveness. Indeed, **IVC diameter and respiratory variation is not considered a reliable stand-alone predictor of fluid responsiveness** [@orso2020], [@kim2021], especially in spontaneously breathing patients [@cardozojúnior2023].
+
+## References

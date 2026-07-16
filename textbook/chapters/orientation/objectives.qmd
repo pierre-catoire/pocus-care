@@ -1,5 +1,5 @@
 ---
-title: "Learning Objectives"
+title: "Settings, orientation and manipulation - Learning Objectives"
 format: html
 ---
 

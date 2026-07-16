@@ -95,3 +95,5 @@ The following signs suggest significant hemodynamic compromise, characteristic o
 ![Pericardial effusion with right atrium diastolic collapse (RADC) and right ventricle diastolic collapse (RVDC). From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/effusion-rvdc.gif){fig-align="center" width="450"}
 
 ![Pericardial effusion with right ventricle diastolic collapse (RVDC). From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/effusion-rvdc-radc.gif){fig-align="center" width="450"}
+
+## References

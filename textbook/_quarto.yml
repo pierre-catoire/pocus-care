@@ -28,11 +28,14 @@ book:
       - href: training.qmd
         text: Training
 
-      - href: /textbook/
+      - href: index.qmd
         text: Textbook
 
       - href: about.qmd
         text: About
+      
+      - href: resources.qmd
+        text: Resources
 
       - href: contact.qmd
         text: Contact
@@ -57,7 +60,7 @@ book:
       - chapters/physics/artifacts.qmd
       - chapters/physics/adverse-effects.qmd
       
-    - part: "Setting, handling and orientation"
+    - part: "Settings, orientation and manipulation"
     
       chapters: 
       - chapters/orientation/objectives.qmd
@@ -96,12 +99,17 @@ book:
     - part: "Bones and soft tissues"
     
       chapters: 
-      - chapters/bones-soft-tissues/index.qmd
+      - chapters/bones-soft-tissues/objectives.qmd
+      - chapters/bones-soft-tissues/foreign-bodies.qmd
+      - chapters/bones-soft-tissues/bones.qmd
     
     - part: "Vessels and vascular procedures"
     
       chapters: 
-      - chapters/vascular/index.qmd
+      - chapters/vascular/objectives.qmd
+      - chapters/vascular/identifying-vessels.qmd
+      - chapters/vascular/venous-thrombosis.qmd
+      - chapters/vascular/ultrasound-guided-catheter-insertion.qmd
       
 
 bibliography: references.bib

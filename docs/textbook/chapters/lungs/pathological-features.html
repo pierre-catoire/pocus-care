@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Pathological features – POCUS-CARE Textbook</title>
+<title>Pathological features and algorithm – POCUS-CARE Textbook</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -23,7 +23,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -32,7 +51,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
-<link href="../../chapters/bones-soft-tissues/index.html" rel="next">
+<link href="../../chapters/bones-soft-tissues/objectives.html" rel="next">
 <link href="../../chapters/lungs/lung-semeiology.html" rel="prev">
 <script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
@@ -71,6 +90,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script src="../../site_libs/quarto-diagram/mermaid.min.js"></script>
+<script src="../../site_libs/quarto-diagram/mermaid-init.js"></script>
+<link href="../../site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
 
 </head>
@@ -83,7 +105,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../../index.html">
-    <span class="navbar-title">POCUS-CARE Textbook</span>
+    <span class="navbar-title">POCUS-CARE</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -93,18 +115,34 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../"> 
-<span class="menu-text">POCUS-CARE</span></a>
+    <a class="nav-link" href="../../../index.html"> <i class="bi bi-house-fill" role="img">
+</i> 
+<span class="menu-text">Course Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../training.qmd"> 
+<span class="menu-text">Training</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="../../index.html" aria-current="page"> 
+<span class="menu-text">Textbook</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../about.qmd"> 
+<span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../resources.qmd"> 
+<span class="menu-text">Resources</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../contact.qmd"> 
+<span class="menu-text">Contact</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="../../"> <i class="bi bi-house-fill" role="img">
-</i> 
-<span class="menu-text">Back to website</span></a>
-  </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com//"> <i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/pierre-catoire/pocus-care"> <i class="bi bi-github" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -119,7 +157,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../chapters/lungs/objectives.html">Lungs</a></li><li class="breadcrumb-item"><a href="../../chapters/lungs/pathological-features.html"><span class="chapter-title">Pathological features</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../chapters/lungs/objectives.html">Lungs</a></li><li class="breadcrumb-item"><a href="../../chapters/lungs/pathological-features.html"><span class="chapter-title">Pathological features and algorithm</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -225,7 +263,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../chapters/abdomen/objectives.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Learning Objectives</span></a>
+  <a href="../../chapters/abdomen/objectives.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Abdomen - Learning Objectives</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -312,7 +350,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../chapters/lungs/pathological-features.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Pathological features</span></a>
+  <a href="../../chapters/lungs/pathological-features.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Pathological features and algorithm</span></a>
   </div>
 </li>
       </ul>
@@ -328,7 +366,17 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../chapters/bones-soft-tissues/index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">index - Bones and soft tissues</span></a>
+  <a href="../../chapters/bones-soft-tissues/objectives.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Bones and Soft Tissues - Learning Objectives</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../chapters/bones-soft-tissues/foreign-bodies.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Foreign Bodies</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../chapters/bones-soft-tissues/bones.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Bone Fractures</span></a>
   </div>
 </li>
       </ul>
@@ -344,7 +392,22 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-7" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../chapters/vascular/index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Index - Vessels and vascular procedures</span></a>
+  <a href="../../chapters/vascular/objectives.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Vessels and vascular procedures - Learning Objectives</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../chapters/vascular/identifying-vessels.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Identifying Vessels</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../chapters/vascular/venous-thrombosis.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Venous Thrombosis</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../chapters/vascular/ultrasound-guided-catheter-insertion.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Ultrasound-guided Catheter Insertion</span></a>
   </div>
 </li>
       </ul>
@@ -354,15 +417,23 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#pathological-features" id="toc-pathological-features" class="nav-link active" data-scroll-target="#pathological-features">Pathological features</a></li>
+  <li><a href="#algorithm" id="toc-algorithm" class="nav-link" data-scroll-target="#algorithm">Algorithm</a></li>
+  <li><a href="../abdomen/fast-concept.html#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../chapters/lungs/objectives.html">Lungs</a></li><li class="breadcrumb-item"><a href="../../chapters/lungs/pathological-features.html"><span class="chapter-title">Pathological features</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../chapters/lungs/objectives.html">Lungs</a></li><li class="breadcrumb-item"><a href="../../chapters/lungs/pathological-features.html"><span class="chapter-title">Pathological features and algorithm</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-title">Pathological features</span></h1>
+<h1 class="title"><span class="chapter-title">Pathological features and algorithm</span></h1>
 </div>
 
 
@@ -379,6 +450,8 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="pathological-features" class="level2">
+<h2 class="anchored" data-anchor-id="pathological-features">Pathological features</h2>
 <table class="caption-top table">
 <caption>Diagnostic contribution of common lung ultrasound findings.<br>
 —: no diagnostic value. ⊘: rules out. ✓: rules in. +/++ in favor/strongly in favor.</caption>
@@ -450,8 +523,66 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 </tbody>
 </table>
+</section>
+<section id="algorithm" class="level2">
+<h2 class="anchored" data-anchor-id="algorithm">Algorithm</h2>
+<p>This original algorithm is an adaptation from previously published versions, notably <span class="citation" data-cites="lichtenstein2008">(<a href="#ref-lichtenstein2008" role="doc-biblioref">1</a>)</span> and <span class="citation" data-cites="demi2023">(<a href="#ref-demi2023" role="doc-biblioref">2</a>)</span>.</p>
+<div class="cell" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">%%{init: {"flowchart": {"curve": "bumpY"}} }%%
+
+flowchart TD
+
+A(Acute dyspnea) --&gt; B(["Lung sliding? &lt;br/&gt; Lung pulse? &lt;br/&gt; B-lines?"])
+
+B --&gt;|Any| C[Pneumothorax excluded]
+
+B --&gt;|None| D([Lung point?])
+
+D --&gt; |No| E["Pneumothorax likely &lt;br/&gt; confirm with CXR/CT"]
+
+D --&gt; |Yes| F[Pneumothorax confirmed]
+
+C --&gt; G(["B-lines? &lt;br/&gt; Effusion? &lt;br/&gt; Condensation?"])
+
+G --&gt; |No| H["Normal pattern: &lt;br/&gt; Normal, PE, asthma, COPD"]
+
+G --&gt; |Yes| I["Compare patterns for: &lt;br/&gt; Pneumonia, &lt;br/&gt; cardiogenic edema, &lt;br/&gt; isolated effusion"]
+
+I --&gt; J(["Consider cardiac US for &lt;br/&gt; evaluation of cardiogenic component"])
+
+classDef state fill:#F3F4F6,stroke:#9CA3AF,color:#4B5563,stroke-width:1px;
+classDef action fill:#E8F1FF,stroke:#4A90E2,color:#1E3A8A,stroke-width:1px;
+classDef test fill:#FFF3E0,stroke:#E69500,color:#9A5A00,stroke-width:1px;
+classDef decision fill:#FFF9D9,stroke:#D4A017,color:#7A5C00,stroke-width:1px;
+classDef outcome fill:#EAF4FF,stroke:#5B8DEF,color:#1E40AF,stroke-width:1px;
+
+class A,C state;
+class B,D,G,J test;
+class E,F,H,I outcome;
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+</section>
+<section id="references" class="level2">
+<h2 class="anchored" data-anchor-id="references">References</h2>
 
 
+<div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-lichtenstein2008" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Lichtenstein DA, Mezière GA. Relevance of lung ultrasound in the diagnosis of acute respiratory failure*: The BLUE protocol. Chest. 2008 Jul;134(1):117–25. doi:<a href="https://doi.org/10.1378/chest.07-2800">10.1378/chest.07-2800</a></div>
+</div>
+<div id="ref-demi2023" class="csl-entry" role="listitem">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Demi L, Wolfram F, Klersy C, De Silvestri A, Ferretti VV, Muller M, et al. New international guidelines and consensus on the use of lung ultrasound. Journal of Ultrasound in Medicine. 2023 Feb;42(2):309–44. doi:<a href="https://doi.org/10.1002/jum.16088">10.1002/jum.16088</a></div>
+</div>
+</div>
+</section>
 <section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
 <hr>
 <ol>
@@ -868,8 +999,8 @@ ul.task-list li input[type="checkbox"] {
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../../chapters/bones-soft-tissues/index.html" class="pagination-link" aria-label="index - Bones and soft tissues">
-        <span class="nav-page-text"><span class="chapter-title">index - Bones and soft tissues</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../../chapters/bones-soft-tissues/objectives.html" class="pagination-link" aria-label="Bones and Soft Tissues - Learning Objectives">
+        <span class="nav-page-text"><span class="chapter-title">Bones and Soft Tissues - Learning Objectives</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

@@ -1,0 +1,154 @@
+---
+title: "Venous Thrombosis"
+format: html
+---
+
+Strong evidence supports positive predictive value of POCUS diagnosis of deep vein thrombosis, with a pooled sensitivity estimated at 95%, and specificity at 96% @burnside2008.
+
+Current international guidelines @kakkos2021 recommend compression ultrasonography as the first-line imaging test for suspected proximal DVT. Demonstration of a non-compressible proximal vein is considered diagnostic of DVT. Multiple studies have shown that clinician-performed compression POCUS achieves diagnostic accuracy comparable to comprehensive duplex ultrasound when performed by appropriately trained operators, supporting its use for bedside diagnosis in emergency and critical care settings @pomero2013 @crisp2010 @burnside2008.
+
+A positive compression POCUS demonstrating loss of complete venous compressibility is highly specific for proximal DVT and, when performed by a trained operator in an appropriate clinical setting, can be considered sufficient to rule in DVT.
+
+## Identifying a thrombosed vein
+
+The diagnosis of venous thrombosis relies on **loss of compressibility**.
+
+XXXfigure
+
+Other features may be misleading:
+
+-   echogenic intravascular content may be absent especially for recent thrombosis, and "slow blood" artifact can mimick a thrombus
+
+-   doppler flow has not shown improvement in diagnosis accuracy @lensing1997
+
+## Areas of assessment
+
+Three protocols are usually described:
+
+### "4-point" examination protocol
+
+The "4-point" protocol evaluates bilaterally the compressibility of:
+
+-   the common femoral vein, at Scarpa's triangle, with the saphenofemoral jonction
+
+-   the popliteal vein, with the popliteal trifurcation
+
+This protocol has been widely disseminated, but is nowadays oudated as it may miss isolated femoral vein thromboses between popliteal and femoral exam sites.
+
+### "6-point" examination protocol
+
+This variant of the 4-point examination protocol includes exam of the femoral vein on his proximal and median course, as long as visualisable. It reduces the risk of false negatives while still rapid an efficient.
+
+### Whole leg protocol
+
+The whole leg protocol includes assessment of:
+
+-   External iliac vein (when feasible)
+
+<!-- -->
+
+-   Femoral vein along its entire course
+
+-   Popliteal vein
+
+<!-- -->
+
+-   Calf veins: posterior tibial, peroneal , gastrocnemius, soleal muscular veins
+
+This protocol requires significant expertise and time, and is not suitable for POCUS exam.
+
+### POCUS venous exam in practice
+
+In practice, a systematic compression of the common femoral, femoral, and popliteal veins, with compression every 1–2 cm along the course of the proximal veins is the most suitable for most cases.
+
+![Venous systematic compression exam. AI-generated](/images/vascular/dvt-exam.png){fig-align="center" width="450"}
+
+## Integration in decision-making
+
+As many other aspecific, rare, high-risk conditions, the workup must consider pre-test probability, information carried by biological markers (if available) and ultrasound.
+
+### Conventional strategy without POCUS
+
+The strategy without POCUS is usually as follows:
+
+::: center
+```{mermaid}
+%%{init: {"flowchart": {"curve": "bumpY"}} }%%
+
+flowchart TD
+
+A(Suspected DVT) --> B([Clinical probability?])
+
+B -->|Low / Intermediate| C([D-dimer])
+
+C -->|Negative| D[Rule out DVT]
+
+C -->|Positive| E([Compression ultrasound])
+
+B -->|High| E
+
+E -->|Positive| F[Rule in DVT]
+
+E -->|Negative| G([High probability?])
+
+G -->|No| D
+
+G -->|Yes| H[Repeat ultrasound 5–7 days]
+
+classDef state fill:#F3F4F6,stroke:#9CA3AF,color:#4B5563,stroke-width:1px;
+classDef action fill:#E8F1FF,stroke:#4A90E2,color:#1E3A8A,stroke-width:1px;
+classDef test fill:#FFF3E0,stroke:#E69500,color:#9A5A00,stroke-width:1px;
+classDef decision fill:#FFF9D9,stroke:#D4A017,color:#7A5C00,stroke-width:1px;
+classDef outcome fill:#EAF4FF,stroke:#5B8DEF,color:#1E40AF,stroke-width:1px;
+
+class A state;
+class B,C,E,G test;
+class D,F,H outcome;
+```
+:::
+
+### POCUS-enhanced strategy
+
+Taking into consideration the accessibility of POCUS and the potentially limited access to D-dimer in scarce resources settings, an adapted strategy with POCUS-first can be (note that this protocol has not been prospectively validated):
+
+::: center
+```{mermaid}
+%%{init: {"flowchart": {"curve": "bumpY"}} }%%
+
+flowchart TD
+
+A(Suspected DVT) --> B([POCUS venous assessment])
+
+B -->|Negative| C([Clinical probability?])
+
+C -->|Low / intermediate| D([D-dimer])
+
+C -->|High| E([Comprehensive <br/> duplex ultrasound])
+
+D -->|Negative| F[Rule out DVT]
+
+D -->|Positive| E
+
+E -->|Negative| G([High probability?])
+
+G -->|No| F
+
+G -->|Yes| H[Repeat ultrasound 5–7 days]
+
+B -->|Positive| I[Rule in DVT]
+
+E -->|Positive| I
+
+classDef state fill:#F3F4F6,stroke:#9CA3AF,color:#4B5563,stroke-width:1px;
+classDef action fill:#E8F1FF,stroke:#4A90E2,color:#1E3A8A,stroke-width:1px;
+classDef test fill:#FFF3E0,stroke:#E69500,color:#9A5A00,stroke-width:1px;
+classDef decision fill:#FFF9D9,stroke:#D4A017,color:#7A5C00,stroke-width:1px;
+classDef outcome fill:#EAF4FF,stroke:#5B8DEF,color:#1E40AF,stroke-width:1px;
+
+class A state;
+class B,C,D,E,G test;
+class F,H,I outcome;
+```
+:::
+
+## References

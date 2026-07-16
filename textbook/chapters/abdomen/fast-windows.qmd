@@ -16,7 +16,7 @@ The FAST protocol consists of four standard views:
 | Suprapubic | Transverse | Midline, immediately above the pubic symphysis | Towards the patient's right | Bladder, rectovesical/rectouterine pouch, uterus or prostate |
 | Subxiphoid | Transverse | Immediately inferior to the xiphoid process, directed towards the left shoulder | Towards the patient's right | Liver, pericardium, four cardiac chambers |
 
-![Four views of the FAST examination. AI-generated](/images/abdomen/fast-views.png){fig-align="center"}
+![Four views of the FAST examination. AI-generated](/images/abdomen/fast-views.png){fig-align="center" width="450"}
 
 > **Tip**
 >
@@ -42,7 +42,7 @@ A satisfactory image should simultaneously include:
 -   diaphragm
 -   spine
 
-![Normal right upper quadrant view. From [The POCUS Atlas](www.thepocusatlas.com)](/images/abdomen/normal-ruq.gif){fig-align="center"}
+![Normal right upper quadrant view. From [The POCUS Atlas](www.thepocusatlas.com)](/images/abdomen/normal-ruq.gif){fig-align="center" width="450"}
 
 ### Troubleshooting
 
@@ -59,7 +59,7 @@ Look for anechoic (black) free fluid within:
 -   the inferior tip of Morison pouch
 -   the right paracolic gutter
 
-![Positive RUQ. From [The POCUS Atlas](www.thepocusatlas.com)](/images/abdomen/positive-ruq.gif){fig-align="center"}
+![Positive RUQ. From [The POCUS Atlas](www.thepocusatlas.com)](/images/abdomen/positive-ruq.gif){fig-align="center" width="450"}
 
 ## Left Upper Quadrant (splenorenal recess)
 
@@ -79,7 +79,7 @@ A satisfactory image should include:
 -   diaphragm
 -   spine extending above the diaphragm
 
-![Normal right upper quadrant view. From](/images/abdomen/normal-ruq.gif){fig-align="center"}
+![Normal right upper quadrant view. From [The POCUS Atlas](www.thepocusatlas.com)](/images/abdomen/normal-ruq.gif){fig-align="center" width="450"}
 
 ### Troubleshooting
 
@@ -95,9 +95,9 @@ Search for anechoic free fluid in:
 -   around the inferior pole of the spleen
 -   the left paracolic gutter
 
-![Normal right upper quadrant view. From](/images/abdomen/normal-ruq.gif){fig-align="center"}
+![Normal right upper quadrant view. From [The POCUS Atlas](www.thepocusatlas.com)](/images/abdomen/normal-ruq.gif){fig-align="center" width="450"}
 
-![Positive LUQ (subdiaphragmatic free fluid). From [The POCUS Atlas](www.thepocusatlas.com)](/images/abdomen/positive-luq-subdiaphragmatic.gif){fig-align="center"}
+![Positive LUQ (subdiaphragmatic free fluid). From [The POCUS Atlas](www.thepocusatlas.com)](/images/abdomen/positive-luq-subdiaphragmatic.gif){fig-align="center" width="450"}
 
 ## Suprapubic views (Douglas pouch)
 
@@ -118,7 +118,7 @@ The examination should visualise:
 
 Sweep the probe from the bladder dome towards its base using a short-axis sliding or tilting motion.
 
-![Normal transversal suprapubic view (male). From [The POCUS Atlas](www.thepocusatlas.com)](/images/abdomen/normal-douglas-transverse.gif){fig-align="center"}
+![Normal transversal suprapubic view (male). From [The POCUS Atlas](www.thepocusatlas.com)](/images/abdomen/normal-douglas-transverse.gif){fig-align="center" width="450"}
 
 #### Troubleshooting
 
@@ -134,9 +134,9 @@ Look for free fluid:
 -   between the bladder and rectum in males
 -   between the uterus and rectum in females
 
-![Positive suprapubic transversal view (male). From [The POCUS Atlas](www.thepocusatlas.com)](/images/abdomen/positive-pelvic-transversal-male.gif){fig-align="center"}
+![Positive suprapubic transversal view (male). From [The POCUS Atlas](www.thepocusatlas.com)](/images/abdomen/positive-pelvic-transversal-male.gif){fig-align="center" width="450"}
 
-![Positive suprapubic transversal view (female). From [The POCUS Atlas](www.thepocusatlas.com)](/images/abdomen/positive-pelvic-transversal-female.gif){fig-align="center"}
+![Positive suprapubic transversal view (female). From [The POCUS Atlas](www.thepocusatlas.com)](/images/abdomen/positive-pelvic-transversal-female.gif){fig-align="center" width="450"}
 
 ### Sagittal view
 
@@ -146,9 +146,9 @@ Sweep from one side of the bladder to the other while maintaining the bladder in
 
 The sagittal view improves the detection of small fluid collections and better demonstrates the uterus and rectouterine pouch.
 
-![Normal suprapubic sagittal view (male). From The POCUS Atlas](/images/abdomen/normal-douglas-sagittal.gif){fig-align="center"}
+![Normal suprapubic sagittal view (male). From [The POCUS Atlas](www.thepocusatlas.com)](/images/abdomen/normal-douglas-sagittal.gif){fig-align="center" width="450"}
 
-![Positive suprapubic sagittal view (male). From [The POCUS Atlas](www.thepocusatlas.com)](/images/abdomen/positive-pelvic-sagittal-male.gif){fig-align="center"}
+![Positive suprapubic sagittal view (male). From [The POCUS Atlas](www.thepocusatlas.com)](/images/abdomen/positive-pelvic-sagittal-male.gif){fig-align="center" width="450"}
 
 ## Subxiphoid cardiac view
 
@@ -173,7 +173,7 @@ Note that right cavities are closer from the probe than left cavities.
 
 If gastric gas limits the view, apply gentle pressure towards the spine rather than towards the xiphoid process. Pressure on the xyphoid process is painful and must be avoided.
 
-![Normal subxyphoid view. From The POCUS Atlas](/images/abdomen/normal-subcostal.gif){fig-align="center"}
+![Normal subxyphoid view. From [The POCUS Atlas](www.thepocusatlas.com)](/images/abdomen/normal-subcostal.gif){fig-align="center" width="450"}
 
 ### Troubleshooting
 
@@ -189,6 +189,6 @@ The presence of a pericardial effusion does not by itself indicate cardiac tampo
 
 In an unstable trauma patient, a large pericardial effusion (\> 1 cm) without other obvious cause of shock strongly suggests tamponade and should prompt immediate consideration of pericardial drainage.
 
-![Positive subcostal view (mild effusion). From The POCUS Atlas](/images/abdomen/positive-subcostal-mild.gif){fig-align="center"}
+![Positive subcostal view (mild effusion). From [The POCUS Atlas](www.thepocusatlas.com)](/images/abdomen/positive-subcostal-mild.gif){fig-align="center" width="450"}
 
-![Positive subcostal view (large effusion). From The POCUS Atlas](/images/abdomen/positive-subcostal-massive.gif){fig-align="center"}
+![Positive subcostal view (large effusion). From [The POCUS Atlas](www.thepocusatlas.com)](/images/abdomen/positive-subcostal-massive.gif){fig-align="center" width="450"}
