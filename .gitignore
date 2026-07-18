@@ -1,4 +1,9 @@
-.Rproj.user
+.Rproj.user/
+.Rproj
 .Rhistory
 .RData
 .Ruserdata
+.Rapp.history
+*.Rproj.user
+.DS_Store
+Thumbs.db
