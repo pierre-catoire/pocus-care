@@ -51,7 +51,7 @@ For a detailed description of the curriculum, visit the [online textbook](../tex
 
 ## Project Partners
 
-The POCUS-CARE training program is supported by [**Mehad**](www.mehad.fr), [MedGlobal](www.medglobal.org)and [ANERA](www.anera.org)non-governmental organisations. See more in the [**About**](about.qmd) page.
+The POCUS-CARE training program is supported by [**Mehad**](www.mehad.fr), [**MedGlobal**](www.medglobal.org) and [**ANERA**](www.anera.org) non-governmental organisations. See more in the [**About**](about.qmd) page.
 
 ## Licence
 
