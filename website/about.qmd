@@ -30,6 +30,6 @@ Course directors oversee curriculum development and implementation, educational 
 
 The POCUS-CARE initiative is supported by partner organisations involved in humanitarian health, medical education, and capacity building. Current supporting organisations include:
 
--   [**Mehad**](www.mehad.fr): implementation of the program in Ukraine, Palestine and Lebanon
--   [**MedGlobal**](www.medglobal.org): implementation of the program in Lebanon
--   [**ANERA**](www.anera.org): implementation of the program in Lebanon
+-   [**Mehad**](https://www.mehad.fr): implementation of the program in Ukraine, Palestine and Lebanon
+-   [**MedGlobal**](https://www.medglobal.org/lebanon): implementation of the program in Lebanon
+-   [**ANERA**](https://www.anera.org): implementation of the program in Lebanon

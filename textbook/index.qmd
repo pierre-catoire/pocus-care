@@ -41,7 +41,7 @@ After completing this program, participants will be able to:
 The POCUS-CARE program is currently implemented in:
 
 -   **Palestine** (West Bank)
--   **Lebanon** in partnership with **MedGlobal** and **Anera** NGOs.
+-   **Lebanon** in partnership with [**MedGlobal**](https://www.medglobal.org/lebanon/) and [**Anera**](https://www.anera.org) NGOs.
 
 For information about upcoming courses or future implementations, please contact: [pierre.catoire\@mehad.fr](mailto:pierre.catoire@mehad.fr){.email}
 
