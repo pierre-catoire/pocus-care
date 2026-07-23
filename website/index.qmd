@@ -33,7 +33,7 @@ The programme is based on the following educational principles:
 -   **Collaborative** — National instructors lead the development, implementation, and continuous improvement of the programme within their own countries.
 -   **Freely available** — Educational resources are distributed under the licence described below, allowing non-commercial reuse and adaptation. In-person training is provided free of charge for participants.
 
-[🏫 Become an instructor](instructor.qmd){.btn .btn-outline .btn-lg .home-button}
+[🏫 Become an instructor](instructor-course.qmd){.btn .btn-outline .btn-lg .home-button}
 
 ## Learning outcomes
 
