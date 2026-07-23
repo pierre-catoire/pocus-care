@@ -130,6 +130,8 @@ format:
       - brand
     toc: true
     number-sections: false
+    include-after-body:
+      - includes/cloudflare.html
     
   pdf:
     documentclass: book
