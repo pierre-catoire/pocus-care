@@ -44,7 +44,7 @@ The recommended thresholds are:
 
 -   A RV/LV \> 1 suggests a severe RV dilatation [@arrigo2024]
 
-![Dilated right ventricle with intracardiac thrombus.  From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/dilated-rv-with-thrombus.gif){fig-align="center"}
+![Dilated right ventricle with intracardiac thrombus. From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/dilated-rv-with-thrombus.gif){fig-align="center"}
 
 ### Right ventricular systolic dysfunction
 
@@ -64,7 +64,7 @@ The systolic function of the right ventricle is usually estimated visually in em
 
 When the pressure increases in the right ventricle, the septum wall is pushed from the right ventricle towards the left ventricle, changing the shape of the right ventricle from a circle to a "D" shape.
 
-![Paradoxical septal wall motion.  From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/paradoxical-septal-wall-motion.gif){fig-align="center"}
+![Paradoxical septal wall motion. From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/paradoxical-septal-wall-motion.gif){fig-align="center"}
 
 ### Dilated Inferior Vena Cava
 
@@ -74,7 +74,7 @@ A diameter of the VCI \> 21 mm measured in transversal view 2 cm below the supra
 
 McConnell's sign is defined as a normal RV apical motion, while the motion of the median free wall of the right ventricle is impaired.
 
-![Mc Connell's sign.  From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/mcconnell.gif){fig-align="center"}
+![Mc Connell's sign. From [thepocusatlas.org](www.thepocusatlas.org)](/images/heart/mcconnell.gif){fig-align="center"}
 
 ## Synthesis
 

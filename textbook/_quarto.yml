@@ -27,13 +27,13 @@ book:
 
       - text: Training Sessions
         menu:
-          - href: training.qmd
+          - href: ../training.qmd
             text: Training overview
 
-          - href: provider-course.qmd
+          - href: ../provider-course.qmd
             text: Provider Course
 
-          - href: instructor-course.qmd
+          - href: ../instructor-course.qmd
             text: Instructor Course
 
       - href: index.qmd
