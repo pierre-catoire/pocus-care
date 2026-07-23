@@ -27,13 +27,13 @@ book:
 
       - text: Training Sessions
         menu:
-          - href: ../training.qmd
+          - href: https://pierre-catoire.github.io/pocus-care/training.html
             text: Training overview
 
-          - href: ../provider-course.qmd
+          - href: https://pierre-catoire.github.io/pocus-care/provider-course.html
             text: Provider Course
 
-          - href: ../instructor-course.qmd
+          - href: https://pierre-catoire.github.io/pocus-care/instructor-course.html
             text: Instructor Course
 
       - href: index.qmd

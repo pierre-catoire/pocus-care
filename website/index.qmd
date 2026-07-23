@@ -8,7 +8,7 @@ subtitle: "Point-of-Care Ultrasound for Conflict-Affected Settings"
 ::: text-center
 **Point-of-Care Ultrasound for Conflict-Affected Settings (POCUS-CARE) is an international educational initiative dedicated to improving access to high-quality point-of-care ultrasound (POCUS) education for healthcare professionals working in conflict-affected and resource-limited settings.**
 
-[📖 Read the textbook](/textbook/index.html){.btn .btn-primary .btn-lg}
+[📖 Read the textbook](textbook/index.html){.btn .btn-primary .btn-lg}
 
 [🎓 Available training sessions](training.qmd){.btn .btn-secondary .btn-lg}
 :::
